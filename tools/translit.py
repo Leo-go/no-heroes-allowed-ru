@@ -90,6 +90,9 @@ _MULTI_UPPER = {
 FIT = {
     "Next": "Eshe",
     "Mutation": "Mutatsia",
+    "Food Chain": "Pisch tsep",
+    "Max. HP: 20": "Max HP: 20",
+    "Max. HP: [F]": "Max HP: [F]",
     "Mana Drain": "Krazha man",
     "Barrel Bomb": "Bochka-bomb",
     "Dungeonquake": "Danzhtryas.",

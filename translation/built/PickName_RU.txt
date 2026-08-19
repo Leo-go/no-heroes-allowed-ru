@@ -1,0 +1,13 @@
+# MYU0 PickName_EN.tbin RUS utf-8
+# rows=10 cols=1 field3=0xF
+# row	col	enc	text
+0	0	utf-8	Кирка народа
+1	0	utf-8	Водопуск
+2	0	utf-8	Следопыт 6000
+3	0	utf-8	Дрёматор
+4	0	utf-8	Жрунобой
+5	0	utf-8	Заводила
+6	0	utf-8	Экскаватор
+7	0	utf-8	Подкопщик
+8	0	utf-8	Подглядыш
+9	0	utf-8	Измеренщик

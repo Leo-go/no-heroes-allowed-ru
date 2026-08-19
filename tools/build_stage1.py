@@ -15,7 +15,7 @@ from fbe import build_fbe, parse_fbe  # noqa: E402
 from myu0 import build_tbin, decode_cell, parse_myu0  # noqa: E402
 from patch_font import patch_fpack  # noqa: E402
 from spt import patch_spt  # noqa: E402
-from translit import gametext_display, to_latin  # noqa: E402
+from translit import FIT, gametext_display, to_latin  # noqa: E402
 from translation.dialogs import DIALOG  # noqa: E402
 from translation.ui import DGN, GAMETEXT, LOADING, PICKS, STAGES, SYS  # noqa: E402
 
@@ -349,6 +349,34 @@ def main() -> None:
     print(f"MainichiText_EN.fbe          {mt_orig.stat().st_size:6} -> {len(mt_new):6}")
     built.append(("PSP_GAME/USRDIR/data/csvtables/MainichiText_EN.fbe", mt_orig.read_bytes(), mt_new))
 
+    from ency import (  # noqa: E402
+        compact_latin,
+        complete_ency_map,
+        load_ency_map,
+        load_ency_tsv,
+        patch_pool,
+    )
+
+    ency_dest = EXTRACT / "PSP_GAME/USRDIR/data/zukan/Ency.pack"
+    ency_orig = backup(ency_dest, "Ency.pack")
+    ency_blob = ency_orig.read_bytes()
+    ency_map, ency_labels, ency_terms = load_ency_map(ROOT)
+    ency_map = complete_ency_map(ency_blob, ency_map, ency_labels, ency_terms)
+    ency_map.update(load_ency_tsv(ROOT))
+
+    def fit_ency(en: str, ru: str) -> str:
+        if en in FIT:
+            return fit_ru(en, FIT[en])
+        shown = bitmap_ru(ru)
+        if len(shown) > len(en):
+            shown = compact_latin(shown, len(en))
+        return fit_ru(en, shown)
+
+    ency_new, ency_n = patch_pool(ency_blob, ency_map, fit_ency)
+    ency_dest.write_bytes(ency_new)
+    print(f"Ency.pack                    {len(ency_blob):6} -> {len(ency_new):6}  ({ency_n} strings)")
+    built.append(("PSP_GAME/USRDIR/data/zukan/Ency.pack", ency_blob, ency_new))
+
     if overflow:
         print("OVERFLOW (need ISO rebuild, not in-place):")
         for rel, a, b in overflow:
@@ -378,6 +406,7 @@ def rebuild_iso_from_extracted() -> None:
         "PSP_GAME/USRDIR/data/csvtables/HeroTextData_EN.tbin",
         "PSP_GAME/USRDIR/data/script/script.fbe",
         "PSP_GAME/USRDIR/data/csvtables/MainichiText_EN.fbe",
+        "PSP_GAME/USRDIR/data/zukan/Ency.pack",
     ]
     iso = PyCdlib()
     iso.open(str(ORIG_ISO))
