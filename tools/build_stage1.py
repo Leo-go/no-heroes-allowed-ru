@@ -2,7 +2,7 @@
 """Build stage-1 Russian files (UTF-8 tbin + padded UTF-16 GameText) and patch an ISO copy."""
 from __future__ import annotations
 
-import shutil
+import struct
 import sys
 from pathlib import Path
 
@@ -21,6 +21,7 @@ from translation.ui import DGN, GAMETEXT, LOADING, PICKS, STAGES, SYS  # noqa: E
 
 ORIG_ISO = require_orig_iso()
 OUT_ISO = RELEASE_ISO
+SECTOR = 2048
 
 
 def write_dump(path: Path, name: str, field3: int, rows: list[list[str]]) -> None:
@@ -43,16 +44,39 @@ def write_dump(path: Path, name: str, field3: int, rows: list[list[str]]) -> Non
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def fit_cell_bytes(raw: bytes, text: str) -> bytes:
+    """Encode text as UTF-8, never longer than the original cell payload."""
+    encoded = text.encode("utf-8")
+    if len(encoded) <= len(raw):
+        return encoded
+    return encoded[: len(raw)].rstrip()
+
+
 def build_named(src_rel: str, rows: list[list[str]], dump_name: str) -> tuple[Path, bytes, bytes]:
     src = EXTRACT / src_rel
-    original = src.read_bytes()
+    original = backup(src, Path(src_rel).name, rel=src_rel).read_bytes()
     info = parse_myu0(original)
     if len(rows) != info["row_count"]:
         raise SystemExit(f"{src.name}: rows {len(rows)} != {info['row_count']}")
     if any(len(r) != info["cols"] for r in rows):
         raise SystemExit(f"{src.name}: col mismatch")
-    table = [[bitmap_ru(cell).encode("utf-8") for cell in row] for row in rows]
+    # Keep each cell within the original byte budget so the tbin fits in-place.
+    flat_raw = info["cells"]
+    table: list[list[bytes]] = []
+    i = 0
+    for row in rows:
+        out_row: list[bytes] = []
+        for cell in row:
+            out_row.append(fit_cell_bytes(flat_raw[i], bitmap_ru(cell)))
+            i += 1
+        table.append(out_row)
     rebuilt = build_tbin(table, info["field3"])
+    if len(rebuilt) > len(original):
+        raise SystemExit(
+            f"{src.name}: rebuilt {len(rebuilt)} > original {len(original)} after cell fit"
+        )
+    if len(rebuilt) < len(original):
+        rebuilt = rebuilt + b"\x00" * (len(original) - len(rebuilt))
     write_dump(ROOT / "translation" / "built" / dump_name, src.name, info["field3"], rows)
     return src, original, rebuilt
 
@@ -140,6 +164,17 @@ def patch_spt_pack(inner_blob: bytes, mapping: dict[str, str]) -> tuple[bytes, i
     return build_fbe(blobs, unk=4, align=4), n_str, n_spt
 
 
+def pad_fbe(blob: bytes, target: int) -> bytes:
+    """Keep FBE header filesize in sync with the retail ISO allocation."""
+    if len(blob) > target:
+        raise SystemExit(f"FBE {len(blob)} > retail slot {target}")
+    if len(blob) == target:
+        return blob
+    out = bytearray(blob + b"\x00" * (target - len(blob)))
+    struct.pack_into("<I", out, 4, target)
+    return bytes(out)
+
+
 def patch_filelist(original: bytes) -> bytes:
     mapping = {en: bitmap_ru(ru) for en, ru in load_spt_map().items()}
     outer = parse_fbe(original)
@@ -168,7 +203,8 @@ def patch_filelist(original: bytes) -> bytes:
         blobs1.append(new)
     print(f"filelist.fbe  patched {nq} quest blobs")
     new_inner1 = build_fbe(blobs1, unk=4, align=4)
-    return build_fbe([new_inner0, new_inner1], unk=4, align=4)
+    rebuilt = build_fbe([new_inner0, new_inner1], unk=4, align=4)
+    return pad_fbe(rebuilt, len(original))
 
 
 def patch_script(original: bytes) -> bytes:
@@ -176,23 +212,31 @@ def patch_script(original: bytes) -> bytes:
     outer = parse_fbe(original)
     new_inner, n_str, n_spt = patch_spt_pack(outer[0][2], mapping)
     print(f"script.fbe    patched {n_str} strings in {n_spt} scripts")
-    return build_fbe([new_inner], unk=4, align=4)
+    return pad_fbe(build_fbe([new_inner], unk=4, align=4), len(original))
 
 
 def patch_tbin_map(original: bytes, mapping: dict[str, str]) -> tuple[bytes, int]:
     info = parse_myu0(original)
     cols = info["cols"]
     n = 0
-    cells: list[str] = []
+    cells: list[bytes] = []
     for raw in info["cells"]:
         text, _enc = decode_cell(raw)
         ru = mapping.get(text)
         if ru is not None:
             text = bitmap_ru(ru)
             n += 1
-        cells.append(text)
+            cells.append(fit_cell_bytes(raw, text))
+        else:
+            cells.append(raw)
     table = [cells[i : i + cols] for i in range(0, len(cells), cols)]
-    rebuilt = build_tbin([[c.encode("utf-8") for c in row] for row in table], info["field3"])
+    rebuilt = build_tbin(table, info["field3"])
+    if len(rebuilt) > len(original):
+        raise SystemExit(
+            f"tbin grew {len(original)} -> {len(rebuilt)} after per-cell fit"
+        )
+    if len(rebuilt) < len(original):
+        rebuilt = rebuilt + b"\x00" * (len(original) - len(rebuilt))
     return rebuilt, n
 
 
@@ -206,11 +250,37 @@ def patch_mainichi(original: bytes) -> bytes:
         total += n
         blobs.append(new)
     print(f"MainichiText  patched {total} strings")
-    return build_fbe(blobs, unk=4, align=4)
+    rebuilt = build_fbe(blobs, unk=4, align=4)
+    return pad_fbe(rebuilt, len(original))
 
 
-def backup(src: Path, name: str) -> Path:
+def load_retail_file(rel: str) -> bytes:
+    """Read a file from the untouched kohryu ISO (source of truth for originals/)."""
+    import io
+
+    from pycdlib import PyCdlib
+
+    iso_path = "/" + rel.replace("\\", "/").lstrip("/")
+    cd = PyCdlib()
+    cd.open(str(ORIG_ISO))
+    bio = io.BytesIO()
+    try:
+        cd.get_file_from_iso_fp(bio, iso_path=iso_path)
+    finally:
+        cd.close()
+    return bio.getvalue()
+
+
+def backup(src: Path, name: str, rel: str | None = None) -> Path:
+    """Ensure originals/name matches the retail ISO (never trust a patched extract)."""
+    ORIGINALS.mkdir(parents=True, exist_ok=True)
     dest = ORIGINALS / name
+    if rel is not None:
+        retail = load_retail_file(rel)
+        if not dest.exists() or dest.read_bytes() != retail:
+            dest.write_bytes(retail)
+            print(f"backed up originals/{name} from retail ISO")
+        return dest
     if not dest.exists():
         dest.write_bytes(src.read_bytes())
         print(f"backed up originals/{name}")
@@ -218,11 +288,14 @@ def backup(src: Path, name: str) -> Path:
 
 
 def patch_iso(iso_bytes: bytearray, old: bytes, new: bytes, label: str) -> None:
-    if len(new) < len(old):
-        new = new + b"\x00" * (len(old) - len(new))
+    """Replace one file blob in a raw ISO image without rewriting the UMD layout.
+
+    New content must be exactly the retail size so directory records stay
+    untouched (real PSP loaders are picky about TOC/size changes).
+    """
     if len(new) != len(old):
         raise SystemExit(
-            f"{label}: new file {len(new)} > original {len(old)} — cannot in-place patch ISO"
+            f"{label}: size {len(new)} != retail {len(old)} — refuse ISO inject"
         )
     idx = iso_bytes.find(old)
     if idx < 0:
@@ -231,6 +304,32 @@ def patch_iso(iso_bytes: bytearray, old: bytes, new: bytes, label: str) -> None:
         raise SystemExit(f"{label}: original blob found more than once")
     iso_bytes[idx : idx + len(old)] = new
     print(f"ISO patched {label} at 0x{idx:X} size={len(old)}")
+
+
+def write_iso_inplace(built: list[tuple[str, bytes, bytes]]) -> Path:
+    """Copy the retail ISO and patch files in-place (same image size, same LBAs)."""
+    raw = bytearray(ORIG_ISO.read_bytes())
+    orig_size = len(raw)
+    for rel, old, new in built:
+        patch_iso(raw, old, new, Path(rel).name)
+    if len(raw) != orig_size:
+        raise SystemExit(f"ISO size changed {orig_size} -> {len(raw)}")
+
+    out = OUT_ISO
+    if out.exists():
+        try:
+            out.unlink()
+        except PermissionError:
+            out = OUT_ISO.with_name(OUT_ISO.stem + "_new.iso")
+            if out.exists():
+                try:
+                    out.unlink()
+                except PermissionError:
+                    out = OUT_ISO.with_name(OUT_ISO.stem + "_new2.iso")
+            print(f"{OUT_ISO.name} is locked, writing {out.name} instead")
+    out.write_bytes(raw)
+    print(f"wrote {out} size {out.stat().st_size} (retail {orig_size})")
+    return out
 
 
 def main() -> None:
@@ -286,68 +385,56 @@ def main() -> None:
     ]
 
     built = []
-    overflow = []
     for rel, rows, dump_name in jobs:
         src, original, rebuilt = build_named(rel, rows, dump_name)
         delta = len(rebuilt) - len(original)
         print(f"{src.name:28} {len(original):6} -> {len(rebuilt):6}  ({delta:+d})")
-        dest = src
-        dest.write_bytes(rebuilt if len(rebuilt) >= len(original) else rebuilt)
-        # keep extracted as exact rebuilt (not padded) so tools stay honest
+        src.write_bytes(rebuilt)
         built.append((rel, original, rebuilt))
-        if len(rebuilt) > len(original):
-            overflow.append((rel, len(original), len(rebuilt)))
 
-    ORIGINALS.mkdir(exist_ok=True)
-    gt_orig_path = ORIGINALS / "GameText.bin"
+    gt_rel = "PSP_GAME/USRDIR/data/text/GameText.bin"
+    gt_orig_path = backup(EXTRACT / gt_rel, "GameText.bin", rel=gt_rel)
     gt_orig = gt_orig_path.read_bytes()
     gt_new = patch_gametext(gt_orig)
-    gt_dest = EXTRACT / "PSP_GAME/USRDIR/data/text/GameText.bin"
-    gt_dest.write_bytes(gt_new)
+    (EXTRACT / gt_rel).write_bytes(gt_new)
     print(f"GameText.bin                  {len(gt_orig):6} -> {len(gt_new):6}")
-    built.append(("PSP_GAME/USRDIR/data/text/GameText.bin", gt_orig, gt_new))
+    built.append((gt_rel, gt_orig, gt_new))
 
-    fpack_orig_path = ORIGINALS / "fpack.fbe"
-    fpack_dest = EXTRACT / "PSP_GAME/USRDIR/data/font/fpack.fbe"
-    if not fpack_orig_path.exists():
-        fpack_orig_path.write_bytes(fpack_dest.read_bytes())
-        print("backed up originals/fpack.fbe")
+    fpack_rel = "PSP_GAME/USRDIR/data/font/fpack.fbe"
+    fpack_orig_path = backup(EXTRACT / fpack_rel, "fpack.fbe", rel=fpack_rel)
     fpack_new = patch_fpack(fpack_orig_path.read_bytes())
-    fpack_dest.write_bytes(fpack_new)
+    (EXTRACT / fpack_rel).write_bytes(fpack_new)
     print(f"fpack.fbe                    {fpack_orig_path.stat().st_size:6} -> {len(fpack_new):6}")
-    built.append(("PSP_GAME/USRDIR/data/font/fpack.fbe", fpack_orig_path.read_bytes(), fpack_new))
+    built.append((fpack_rel, fpack_orig_path.read_bytes(), fpack_new))
 
-    fl_orig_path = ORIGINALS / "filelist.fbe"
-    fl_dest = EXTRACT / "PSP_GAME/USRDIR/data/text/filelist.fbe"
-    if not fl_orig_path.exists():
-        fl_orig_path.write_bytes(fl_dest.read_bytes())
-        print("backed up originals/filelist.fbe")
+    fl_rel = "PSP_GAME/USRDIR/data/text/filelist.fbe"
+    fl_orig_path = backup(EXTRACT / fl_rel, "filelist.fbe", rel=fl_rel)
     fl_new = patch_filelist(fl_orig_path.read_bytes())
-    fl_dest.write_bytes(fl_new)
+    (EXTRACT / fl_rel).write_bytes(fl_new)
     print(f"filelist.fbe                 {fl_orig_path.stat().st_size:6} -> {len(fl_new):6}")
-    built.append(("PSP_GAME/USRDIR/data/text/filelist.fbe", fl_orig_path.read_bytes(), fl_new))
+    built.append((fl_rel, fl_orig_path.read_bytes(), fl_new))
 
-    hero_dest = EXTRACT / "PSP_GAME/USRDIR/data/csvtables/HeroTextData_EN.tbin"
-    hero_orig = backup(hero_dest, "HeroTextData_EN.tbin")
+    hero_rel = "PSP_GAME/USRDIR/data/csvtables/HeroTextData_EN.tbin"
+    hero_orig = backup(EXTRACT / hero_rel, "HeroTextData_EN.tbin", rel=hero_rel)
     hero_map = load_tsv(ROOT / "translation" / "hero_ru.tsv")
     hero_new, hero_n = patch_tbin_map(hero_orig.read_bytes(), hero_map)
-    hero_dest.write_bytes(hero_new)
+    (EXTRACT / hero_rel).write_bytes(hero_new)
     print(f"HeroTextData_EN.tbin         {hero_orig.stat().st_size:6} -> {len(hero_new):6}  ({hero_n} cells)")
-    built.append(("PSP_GAME/USRDIR/data/csvtables/HeroTextData_EN.tbin", hero_orig.read_bytes(), hero_new))
+    built.append((hero_rel, hero_orig.read_bytes(), hero_new))
 
-    sc_dest = EXTRACT / "PSP_GAME/USRDIR/data/script/script.fbe"
-    sc_orig = backup(sc_dest, "script.fbe")
+    sc_rel = "PSP_GAME/USRDIR/data/script/script.fbe"
+    sc_orig = backup(EXTRACT / sc_rel, "script.fbe", rel=sc_rel)
     sc_new = patch_script(sc_orig.read_bytes())
-    sc_dest.write_bytes(sc_new)
+    (EXTRACT / sc_rel).write_bytes(sc_new)
     print(f"script.fbe                   {sc_orig.stat().st_size:6} -> {len(sc_new):6}")
-    built.append(("PSP_GAME/USRDIR/data/script/script.fbe", sc_orig.read_bytes(), sc_new))
+    built.append((sc_rel, sc_orig.read_bytes(), sc_new))
 
-    mt_dest = EXTRACT / "PSP_GAME/USRDIR/data/csvtables/MainichiText_EN.fbe"
-    mt_orig = backup(mt_dest, "MainichiText_EN.fbe")
+    mt_rel = "PSP_GAME/USRDIR/data/csvtables/MainichiText_EN.fbe"
+    mt_orig = backup(EXTRACT / mt_rel, "MainichiText_EN.fbe", rel=mt_rel)
     mt_new = patch_mainichi(mt_orig.read_bytes())
-    mt_dest.write_bytes(mt_new)
+    (EXTRACT / mt_rel).write_bytes(mt_new)
     print(f"MainichiText_EN.fbe          {mt_orig.stat().st_size:6} -> {len(mt_new):6}")
-    built.append(("PSP_GAME/USRDIR/data/csvtables/MainichiText_EN.fbe", mt_orig.read_bytes(), mt_new))
+    built.append((mt_rel, mt_orig.read_bytes(), mt_new))
 
     from ency import (  # noqa: E402
         compact_latin,
@@ -357,8 +444,8 @@ def main() -> None:
         patch_pool,
     )
 
-    ency_dest = EXTRACT / "PSP_GAME/USRDIR/data/zukan/Ency.pack"
-    ency_orig = backup(ency_dest, "Ency.pack")
+    ency_rel = "PSP_GAME/USRDIR/data/zukan/Ency.pack"
+    ency_orig = backup(EXTRACT / ency_rel, "Ency.pack", rel=ency_rel)
     ency_blob = ency_orig.read_bytes()
     ency_map, ency_labels, ency_terms = load_ency_map(ROOT)
     ency_map = complete_ency_map(ency_blob, ency_map, ency_labels, ency_terms)
@@ -373,66 +460,12 @@ def main() -> None:
         return fit_ru(en, shown)
 
     ency_new, ency_n = patch_pool(ency_blob, ency_map, fit_ency)
-    ency_dest.write_bytes(ency_new)
+    (EXTRACT / ency_rel).write_bytes(ency_new)
     print(f"Ency.pack                    {len(ency_blob):6} -> {len(ency_new):6}  ({ency_n} strings)")
-    built.append(("PSP_GAME/USRDIR/data/zukan/Ency.pack", ency_blob, ency_new))
+    built.append((ency_rel, ency_blob, ency_new))
 
-    if overflow:
-        print("OVERFLOW (need ISO rebuild, not in-place):")
-        for rel, a, b in overflow:
-            print(f"  {rel}: {a} -> {b}")
-
-    print("rebuild ISO from extracted tree (tbin grew vs retail)")
-    rebuild_iso_from_extracted()
-
-
-def rebuild_iso_from_extracted() -> None:
-    """Open the retail ISO and replace patched files, preserving UMD layout."""
-    try:
-        from pycdlib import PyCdlib
-    except ImportError:
-        raise SystemExit("pip install pycdlib")
-
-    replacements = [
-        "PSP_GAME/USRDIR/data/csvtables/LoadingText_EN.tbin",
-        "PSP_GAME/USRDIR/data/csvtables/PickName_EN.tbin",
-        "PSP_GAME/USRDIR/data/csvtables/StgTitleNameList_EN.tbin",
-        "PSP_GAME/USRDIR/data/csvtables/DgnComment_EN.tbin",
-        "PSP_GAME/USRDIR/data/csvtables/MonsterName_EN.tbin",
-        "PSP_GAME/USRDIR/data/text/SystemMessage_EN.tbin",
-        "PSP_GAME/USRDIR/data/text/GameText.bin",
-        "PSP_GAME/USRDIR/data/font/fpack.fbe",
-        "PSP_GAME/USRDIR/data/text/filelist.fbe",
-        "PSP_GAME/USRDIR/data/csvtables/HeroTextData_EN.tbin",
-        "PSP_GAME/USRDIR/data/script/script.fbe",
-        "PSP_GAME/USRDIR/data/csvtables/MainichiText_EN.fbe",
-        "PSP_GAME/USRDIR/data/zukan/Ency.pack",
-    ]
-    iso = PyCdlib()
-    iso.open(str(ORIG_ISO))
-    for rel in replacements:
-        local = EXTRACT / rel
-        iso_path = "/" + rel.replace("\\", "/")
-        iso.update_file_contents(str(local), iso_path=iso_path)
-        print("updated", iso_path, local.stat().st_size)
-    if OUT_ISO.exists():
-        try:
-            OUT_ISO.unlink()
-        except PermissionError:
-            alt = OUT_ISO.with_name(OUT_ISO.stem + "_new.iso")
-            if alt.exists():
-                try:
-                    alt.unlink()
-                except PermissionError:
-                    alt = OUT_ISO.with_name(OUT_ISO.stem + "_new2.iso")
-            print(f"{OUT_ISO.name} is locked, writing {alt.name} instead")
-            iso.write(str(alt))
-            iso.close()
-            print("wrote", alt, "size", alt.stat().st_size)
-            return
-    iso.write(str(OUT_ISO))
-    iso.close()
-    print("wrote", OUT_ISO, "size", OUT_ISO.stat().st_size)
+    print("patch ISO in-place (keep retail size/LBAs for real PSP)")
+    write_iso_inplace(built)
 
 
 if __name__ == "__main__":

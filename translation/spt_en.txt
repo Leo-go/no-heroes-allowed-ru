@@ -1,0 +1,4989 @@
+# unique SPT strings (filelist inner0)
+# count=4987
+100	43	Aye
+100	43	Nay
+41	48	Are you happy with this spot?
+19	145	So, where do you want me to stand?
+15	130	So, where shall I stand?
+11	658	heroic types are on their way!
+9	444	.....................
+7	433	.......................................
+6	273	........................................
+6	17	My Lord!
+5	244	That's the end of Daily Challenge'
+4	379	%s?
+4	391	.........
+4	75	...............
+3	233	...Hm?
+3	75	Harrumph.
+3	93	Heroes? Ugh, not again!
+3	684	Huh!? It looks like abominable
+3	113	If the %spopulation
+3	361	My Lord.
+2	80	(gibber gibber)
+2	12	-OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO-
+2	444	..................
+2	9	...Huh!?
+2	273	3...2...1...think!
+2	273	Ahh, excellent. That was fun, wasn't'
+2	19	Before I forget, here's some additional'
+2	369	Do I read you right? You want me to cast
+2	19	Extra Heroes only invade the dungeon
+2	173	Here's alright, is it?'
+2	64	Hero alert! Hero alert!
+2	438	Hey! What about me!?
+2	442	Hm?
+2	125	Hurry up and put me down somewhere.
+2	19	I do like your style, My Lord. The way
+2	369	I'm not sure how I'll go on without you,
+2	615	It Came From the Soil
+2	14	It's so unfair!'
+2	19	It's truly a joy to behold!'
+2	229	Just press the L button, and select
+2	19	My Lord! Permanently!
+2	18	My Lord?
+2	19	Oh, No! A Hero!
+2	273	Okay, now it's time to think back over'
+2	19	One theory is that these so-called
+2	114	Or you might want to try thinning out
+2	438	Pickaxe!
+2	254	R-R-Rewind spell to turn back time and
+2	388	Replay from the first stage of
+2	623	Rune for Improvement
+2	676	So they've come at last...'
+2	444	So, um...
+2	369	Stop playing around with my heart,
+2	108	That's just my opinion, of course...'
+2	114	The balance of the %s
+2	23	Time's up!'
+2	616	What the-!? Water?
+2	54	You can choose the first monster you
+2	19	You certainly shut that hero up,
+2	74	Yuck!
+2	273	all you've done. Think really hard now.'
+2	169	are you?
+2	74	aren't you?'
+2	369	but I'll be strong. Farewell!'
+2	114	doesn't grow fast, the %s'
+2	44	domination!
+2	101	dungeon!
+2	19	info about that hero who waltzed in here
+2	114	instead.
+2	273	it? Now, shall we take a look at your
+2	28	nutrients.
+2	54	ones that mutate, though!
+2	19	out at the last moment.
+2	114	population and the %s
+2	114	population isn't quite right.'
+2	273	results?
+2	409	right?
+2	257	shall we?
+2	369	stand with you.
+2	114	the %spopulation
+2	631	tutor/tutor04_06.gim
+2	631	tutor/tutor04_07.gim
+2	631	tutor/tutor04_08.gim
+2	19	tutor/tutor15_06.gim
+2	19	under very specific circumstances.
+2	84	visit to the Underworld.
+2	54	want to be spawned. Oh, but only
+2	369	will you? I never know where I
+2	19	with their own special mission.
+2	79	you can <col:255,0,153,255>seal their skills and abilities</col>.
+2	19	you toy with heroes before wiping them
+1	9	 - usually land-dwelling ones - than
+1	444	!!!
+1	113	%spopulation
+1	60	(Yes! I did it! I said it without
+1	544	(gibber gibber) ME BEST BADMAN...
+1	81	(gibber)
+1	61	(scribble scribble) ~Dad got the big
+1	77	(scribble scribble) ~Dad seems to be
+1	56	(scribble scribble) ~Dad summoned two
+1	56	(scribble scribble) ~Dad thinks that by
+1	61	(scribble scribble) ~He let me supervise
+1	75	(scribble scribble) ~My dad works with
+1	61	(scribble scribble) ~So dad was just
+1	76	(scribble scribble) ~The Pickaxes were
+1	59	(scribble scribble) ~To be honest, the
+1	60	(scribble scribble) ~Use words you don't'
+1	444	(sniffle)
+1	444	(sob)
+1	12	-OOOOOOOOOOOOOOOOOOOONG Dragon!
+1	444	......Nightmaaaares...
+1	233	......Ohhh!
+1	444	......Really?
+1	77	...<col:255,0,153,255>~Remember to level up your monsters.~</col>
+1	77	...<col:255,0,153,255>~The Mage's physical defense is weak~</col>'
+1	77	...<col:255,0,153,255>~beware the Knight's healing magic~</col>'
+1	272	...And I'll make it even harder!'
+1	532	...And you smell!
+1	393	...Badmella.
+1	414	...Because there are some on the way in
+1	412	...Curses! My Lord, a hero I have never
+1	80	...GODS...OF...DESTRUCTION..
+1	9	...Give yourself a pat on the back!
+1	665	...Heroes!? And I was having such a
+1	443	...Heroes...?
+1	277	...Hm? Oh, nothing. Just curious.
+1	628	...How can this be, My Lord? Was my
+1	406	...Huh!? Wazzat!? Hmph. Sorry. I was
+1	391	...I will surely gain all the power I
+1	56	...It worked!
+1	80	...MUST...TRAIN...HARDER...
+1	414	...Maybe you could find out what the
+1	444	...My Lord, God of Destruction!
+1	21	...My Lord, it pains me to report that
+1	444	...My phone's all wet and it's
+1	71	...No time for style tips now, dad!
+1	419	...Oh dear. You're not running out of'
+1	413	...Oh no! There are two great big fat
+1	374	...Oh!
+1	56	...Or so he says...~
+1	190	...Really?
+1	530	...Slimeblossom blobs, Aquachnid goo,
+1	412	...So be careful!
+1	444	...Sorry, I didn't mean to get'
+1	441	...Ugh...?
+1	423	...Um, anyway, have you ever picked
+1	544	...WHY NO CONQUER WORLD...
+1	63	...Wait!
+1	31	...Well, maybe he's just rubbish.'
+1	68	...What does that even mean!? Anyway,
+1	269	...With your pick! No? Ah, never mind.
+1	444	...YEAH!!!
+1	76	...and devote myself to ruining your
+1	69	...and their weapons are still fresh
+1	37	...helping a hero to recover HP!
+1	24	...it was lacking in nutrients and a bit
+1	626	...it's just possible that one of these'
+1	9	...just like that Not-So-Blue Whale.
+1	17	...or plump for Mimics that need to be
+1	440	...or something.
+1	30	...or you can start by digging up blocks
+1	77	...or...or...
+1	33	...then you can leave the Anthill
+1	236	10, but the God Aptitude Test involves
+1	24	16 nutrients and 16 mana.
+1	5	2,000,000 dullors! We're rich!'
+1	238	3, so knock yourself out!
+1	29	5,125 years and you'll be able to have'
+1	3	50 nutrients, or stuffing Lizardmen with
+1	23	8 or more mana. Simple, right?
+1	231	<col:255,0,0,255>Add Monster</col> from the Edit Menu.
+1	229	<col:255,0,0,255>Dungeon Info</col> from the Edit Menu.
+1	40	<col:255,0,0,255>Like Father, Like Daughter</col>
+1	377	<col:255,0,0,255>Unsaved data will be lost</col>, you know.
+1	620	<col:255,0,0,255>starve to death</col>!
+1	516	<col:255,0,153,255>Liliths</col>, but real Liliths can see
+1	523	<col:255,0,153,255>Only our minions</col> can kill them.
+1	85	<col:255,0,153,255>Priest with the healing magic.</col>
+1	80	<col:255,0,153,255>Priests' and Shaman's skills</col> aren't so'
+1	97	<col:255,0,153,255>Remember, you can change picks from the
+1	420	<col:255,0,153,255>They're only here to level-grind</col>, so'
+1	516	<col:255,0,153,255>Treasure Traps</col> the hero lays with your pickaxe.
+1	420	<col:255,0,153,255>When monsters mutate, they
+1	80	<col:255,0,153,255>alchemists' attacks</col>.'
+1	655	<col:255,0,153,255>dungeon door</col> a tap with your pick, you can
+1	84	<col:255,0,153,255>even after they've got Badmella or me</col>.'
+1	76	<col:255,0,153,255>first of all</col>?
+1	654	<col:255,0,153,255>holding down the R button</col>, but this will
+1	666	<col:255,0,153,255>invading heroes</col> prioritize searching
+1	655	<col:255,0,153,255>invite the heroes in</col>?
+1	514	<col:255,0,153,255>long or straight</col>. Try to get a <col:255,0,153,255>zig-zag</col>
+1	524	<col:255,0,153,255>motivation is low</col>. Their motivation dips
+1	654	<col:255,0,153,255>pickaxe skills</col> at your disposal,
+1	80	<col:255,0,153,255>power of heroes' attacks</col>.'
+1	653	<col:255,0,153,255>press the △ button</col> to get a wider view
+1	666	<col:255,0,153,255>previously-dug tunnels</col>
+1	524	<col:255,0,153,255>slay heroes who use healing magic</col> first
+1	522	<col:255,0,153,255>spawning plenty of monsters</col>.
+1	80	<col:255,0,153,255>special pickaxe skills</col>
+1	515	<col:255,0,153,255>subsequent stages will be easier</col>.
+1	76	<col:255,0,153,255>taking out heroes with healing spells</col>
+1	653	<col:255,0,153,255>the heroes and me</col>, which should make
+1	84	<col:255,0,153,255>upgrade your Omnoms</col> at least.
+1	80	<col:255,0,153,255>zig-zag pattern</col> in order to reduce the
+1	525	<col:255,0,153,255>△ button</col> to zoom out and get a better
+1	438	<col:255,255,0,255>Urrrgh!</col>
+1	241	<size:1.22><col:255,255,255,255>C O N G R A T U L A T I O N S ! !</size></col>
+1	444	<size:1.3>Ha ha ha......</size>
+1	442	<size:1.5><col:255,0,0,225>Gets it Done!</size></col>
+1	444	<size:1.5><col:255,0,0,255>ITS PEOPLE WILL HAVE</size></col>
+1	427	<size:1.5><col:255,0,0,255>KNOW NO PEACE!!!</size></col>
+1	234	<size:1.5><col:255,0,0,255>MAY THE WORLD
+1	427	<size:1.5><col:255,0,0,255>MAY THE WORLD</size></col>
+1	444	<size:1.5><col:255,0,0,255>TERRIBLE NIGHTMARES!</size></col>
+1	391	<size:1.5><col:255,0,0,255>The God of Destruction!!!</size></col>
+1	442	<size:1.5><col:255,0,0,255>The God who<size></col>
+1	613	<size:1.5><col:255,50,0,255>The game's never going</size></col>'
+1	613	<size:1.5><col:255,50,0,255>to get started!!!</size></col>
+1	613	<size:1.5><col:255,64,0,255>Most hearty congratulations, </size></col>
+1	613	<size:1.5><col:255,64,0,255>My Lord!</size></col>
+1	234	<size:1.5>AIEEEEEEEE!!!</size>
+1	234	<size:1.5>NO HEROES ALLOWED: THE END!</size>
+1	234	<size:1.5>Thank you for playing!</size>
+1	542	<size:1.5>messes up my hair!</size>
+1	391	<size:1.7><col:255,0,0,255>I am Overlord Badman!</size></col>
+1	57	<size:1.8><col:255,255,255,0>Silence, you wretched girl!</size></col>
+1	443	<size:2.0><col:255,0,0,255>DA- Hm?</size></col>
+1	438	<size:2.0><col:255,0,0,255>Grrrruuurrrrrghhh!!!</size></col>
+1	443	<size:2.0><col:255,0,0,255>KNOW NO PEACE!</size></col>
+1	443	<size:2.0><col:255,0,0,255>MAY THE WORLD!</size></col>
+1	438	<size:2.0><col:255,0,255,255>Ah-ha!</size></col>
+1	234	<size:2.0><col:255,0,255,255>SWITCHICUS ONICUS!!!</size></col>
+1	63	<size:2.0><col:255,255,255,0>...CUT IT OUT!</size></col>
+1	57	<size:2.0><col:255,255,255,0>...Curses!</size></col>
+1	62	<size:2.0><col:255,255,255,0>EEEEEEK!!!</size></col>
+1	443	<size:2.0><col:255,255,255,255>DAD!</size></col>
+1	444	<size:2.0>Aaaaahhhh!!!</size>
+1	444	<size:2.0>GOODBYE!!!</size>
+1	444	<size:2.0>Of course!</size>
+1	61	A Badman's work is never done...'
+1	641	A God of Destruction who's passed all'
+1	368	A Rank, My Lord!
+1	412	A big clever god like yourself has
+1	4	A bizarrely-colored bug flew in, and
+1	249	A dungeon a day blows the cobwebs away!
+1	253	A dungeon a day helps your pick-wielding
+1	251	A dungeon a day keeps the boredom
+1	245	A dungeon a day keeps the grey matter
+1	247	A dungeon a day keeps the heroes at
+1	617	A dungeon is made up of a myriad of
+1	8	A magnificent performance!
+1	89	A nice dollop of <col:255,0,153,255>Aquachnid goo</col>
+1	368	A perfect performance!
+1	120	A real live Hydra!
+1	65	A two-minute old Omnom could have come
+1	73	A younger man might be okay, but I bet
+1	30	ABCs, if you will.
+1	520	ARRRGHH! I'm at the end of my admittedly'
+1	393	Aaaaaah! His life-force is fading!
+1	444	Aaaaah!!! I'm going to die!'
+1	674	Accursed curs! Scourge of the
+1	428	Ach! They got away with. Ooh, that
+1	437	Ach! This will set the recovery back by
+1	98	Ach, if only you'd tried a little'
+1	283	Ach, listen to me! There's no need to'
+1	418	Ach, no! That's a hero disappearing'
+1	417	Ach, they escaped! That's a little'
+1	429	Ach, they got away! I hope the three of
+1	427	Ach, who cares? You're the best! I'm so
+1	438	Ach...anyway... You...have...done...
+1	427	Actually, no. I went up after the whole
+1	31	After all, picking on the weak is what
+1	31	After defeating each hero, his rank will
+1	534	Agh! I can't believe I was praising you'
+1	90	Ah well. He's mine now.'
+1	364	Ah, I see. Well, as you please, My Lord.
+1	627	Ah, I'm so proud of you, My Lord!'
+1	57	Ah, My Lords! You've decided to join us.'
+1	91	Ah, My Lords, if heroes are giving you
+1	433	Ah, he's gibbering again! Yes, dad,'
+1	618	Ah, is there any sweeter music than the
+1	393	Ah, it sure is fun to be an evil
+1	623	Ah, runes are wonderful things, alright.
+1	365	Ah, the good old days...
+1	638	Ah, the sweet smell of roasting hero!
+1	86	Ah, this suitor at least seems to have
+1	391	Ah, those were the days! We had the
+1	18	Ah, we're quite the tag team, aren't we,
+1	32	Ah, well. Such is the price of getting
+1	58	Ah, who cares anyway...?
+1	624	Ah, yes. When a Dragon nears the end of
+1	393	Ah, you've returned, My Lord.'
+1	374	Ah. You've got that look of someone who'
+1	444	Ahem, anyway, My Lord.
+1	444	Ahh! I thought I was going to die!
+1	418	Ahh, it's just the way of the world, I'
+1	433	Ahh, look at him! He's got the light of'
+1	440	Ahh, such a shame, such a shame! But
+1	413	Ahh, that felt pretty good, My Lord.
+1	234	Ahh, that's better. It's just my little
+1	256	Ahh, the old sudden change of mind
+1	442	Ahh, what a wonderful display of world
+1	240	Ahh, you know what I mean. Just hurry
+1	417	Ahh, you truly are a fine God of
+1	424	Ahh, you're such a great help, Lord,'
+1	420	Aiee! Emergency stations! Highly
+1	625	All digging and no mutation makes for a
+1	36	All down the drain!
+1	620	All monsters eat and are eaten in their
+1	36	All my hopes! All my dreams!
+1	49	All of the monsters are as strong as
+1	642	All of your monsters are more than
+1	8	All that non-stop spontaneous spawning.
+1	33	All the Water Lilies necessary for the
+1	417	All the heroes who attacked us are now
+1	236	All the results from each day will
+1	34	All you can do is dig in for the long
+1	540	All you had to do was take out that one
+1	33	All you had to do, My Lord, was come up
+1	29	All you have to do is wait for a mere
+1	63	Allow me to present you with an Overlord
+1	622	Almanac.
+1	634	Also, be aware that Omnoms won't build'
+1	32	Also, for some reason, if their level
+1	32	Also, there's no point lining up too'
+1	432	Although he has been a lot less
+1	34	Always consider the heroes' route home,'
+1	435	Am I...dead?
+1	57	An evil archfiendess needs to know
+1	670	An impudent whelp wandered over to my
+1	93	And <col:255,0,153,255>if you cull your counterpart's'
+1	13	And Anthills will also serve to block
+1	444	And I bet this world, even though you
+1	418	And I get the feeling there's a fair'
+1	9	And I know what I said earlier, but in
+1	426	And I think the heroes were suitably
+1	10	And I'm not just flattering you,'
+1	442	And I'm second in line to the'
+1	432	And I'm sure I read that moaning is'
+1	444	And all those who were born
+1	437	And all three are coming at once, so
+1	444	And all you Gods of Destruction will go
+1	71	And does he think dressing all in black
+1	539	And don't forget lovely mutation!'
+1	638	And don't forget, dragons can only move'
+1	59	And from my own dear daughter!
+1	67	And he calls himself a hero!?
+1	56	And he's my dad.'
+1	623	And here's an even funner fact for you!'
+1	438	And if one of us is captured, you can
+1	412	And if that happens, it's curtains for'
+1	79	And if you can <col:255,0,153,255>lead them into water</col>,
+1	409	And if you don't come back, I'll put a
+1	265	And if you neglect any of them, I'll be'
+1	627	And if you're wondering how many Orbs'
+1	444	And it might be fun for you, or it
+1	412	And it seems their target is not
+1	2	And just in time for the grand opening!
+1	428	And just like that, they up and leave!
+1	418	And just look at that. Number 67 on the
+1	62	And just when I was starting to get
+1	428	And look at the dungeon! It looks like
+1	542	And look at the state of me?
+1	533	And my bottom hurts after being dragged
+1	61	And my dad did look pretty cool too!
+1	444	And my hair extensions have all been
+1	542	And never, ever, under any circumstances
+1	7	And now we've got four of them! Bless!'
+1	444	And now you'll be off to some other'
+1	136	And quickly - I'm getting bored.'
+1	438	And right on cue, the justice-loving
+1	515	And that's because you made such heavy'
+1	414	And that's not all - it gets worse -'
+1	626	And that's not all! Remember that once'
+1	282	And that's the end of Step 8.'
+1	27	And there was me thinking an almighty
+1	428	And there's another Extra Hero on the'
+1	2	And those aren't just any old Ladies!'
+1	444	And we're grateful to you for taking'
+1	15	And what did you make of the Mara?
+1	613	And what do you expect to happen then?
+1	40	And what is the real identity of that
+1	58	And what's more, I've got a couple of
+1	19	And what's more, once these renegade'
+1	518	And while I admire your commitment to
+1	91	And while time is frozen, you can move
+1	12	And why stop here!? Why not try stuffing
+1	77	And with that, the noble Overlord
+1	56	And you Gods of Destruction will serve
+1	231	And you can add as many monsters as you
+1	530	And you can always throw a few pickaxe
+1	224	And you can summon any of the heroes
+1	414	And you can't move me, and your Dig'
+1	419	And you have proved yourself no longer
+1	394	And you just come back expecting more!
+1	393	And you smell.
+1	418	And you will be unable to move me or to
+1	428	And your dungeon will be in disarray,
+1	444	And your own world is so amazing that
+1	444	And...
+1	424	Annoying, but...bearable.
+1	31	Another idea might be using a Lorelei
+1	91	Any <col:255,0,153,255>two pickaxe skills performed at the
+1	68	Any suitor who has to hang out with guys
+1	12	Anything to bolster our forces!
+1	613	Anyway!
+1	408	Anyway, My Lord, be on your way...
+1	415	Anyway, My Lord, there's only one hero'
+1	35	Anyway, heroes will always prioritize
+1	425	Anyway, if it's only a scouting party,'
+1	236	Anyway, if that sounds like your cup of
+1	4	Anyway, let's leave that aside for now.'
+1	437	Anyway, onto the next group of heroes.
+1	416	Anyway, soon the fruits of our
+1	24	Anyway, that's all from me. I'm heading
+1	444	Anyway, this so-so story is coming to
+1	526	Anyway. On an entirely different note,
+1	627	Anyway. What was I saying? Ah yes!
+1	9	Apparently, other remarkable beasts that
+1	441	Apparently, some trio with silly names
+1	412	Apparently, the death of even one such
+1	414	Apparently, there are so called ~Extra
+1	262	Aptitude Test begin!
+1	242	Aptitude Test today?
+1	616	Aquachnids lies a threat to their very
+1	526	Aquatic monsters have a narrow sphere of
+1	616	Aquatic monsters like these can't live'
+1	613	Are you alright with that?
+1	414	Are you alright, Lord? I sense some
+1	517	Are you experimenting with new ways to
+1	648	Are you happy with this, My Lord?
+1	261	Are you ready for the next test,
+1	28	Are you ready to take up that moldy
+1	221	Are you ready?
+1	392	Are you starting to get a feel for it,
+1	33	Are you sure you didn't over think this'
+1	371	Are you sure, My Lord? Well, even if we
+1	257	Are you sure?
+1	540	Are you using your pickaxe skills to
+1	391	Area 1 and launch a frontal assault on
+1	514	Argh! All my hopes and dreams disappear
+1	26	Argh! That's no good, My Lord!'
+1	81	Argh! The way things are going,
+1	4	Argh!!! Get away from me!!!
+1	655	Argh, those dastardly heroes are back
+1	631	As I said, Slimemosses slurp nutrients
+1	418	As I said, this next stage is a Hero
+1	415	As far as I can tell, I mean...
+1	638	As far as possible, you should dig long
+1	536	As it doesn't cost the hunter any MP'
+1	31	As long as there's water around, it'
+1	428	As long as they don't find me, we'll be
+1	429	As long as they don't find me, you'll
+1	634	As long as they have food to devour,
+1	444	As long as we're here, and the God'
+1	2	As long as we've got each other...'
+1	33	As long as you dig a little space and
+1	615	As this uses the latest in counter
+1	393	As you can see, dad's fading fast and'
+1	241	As you know, each time you play
+1	3	As you may be aware, Slimemosses don't'
+1	1	As your knowledge of monsters grows,
+1	240	At long last, there is only one level
+1	517	At the first wafted stench of a
+1	6	At times like that, this technique really
+1	74	Auntie Mallory's clutches.'
+1	437	Aww, did poor old Satoru's little'
+1	368	B Rank, My Lord.
+1	62	B-Badmella! Y-You did it! That was the
+1	61	B-But Badmella! I thought we'd bonded!'
+1	20	B-But My Lord, surely this can't be!?'
+1	57	B-But...!
+1	57	Back straight, head back...
+1	381	Badman & Badmella Dungeon?
+1	418	Badman Can Do.
+1	21	Badman's Chamber for some practice, then'
+1	74	Badmella - you're not to get involved.'
+1	56	Badmella! I've told you that grown-ups'
+1	56	Badmella! Now...ummm...where was I?
+1	88	Badmella! When did you learn that trick?
+1	283	Badmella's piggy bank! What have you'
+1	61	Badmella's report seems to be coming'
+1	57	Badmella, I know you're at that awkward'
+1	74	Badmella, I suspect you've got something'
+1	58	Badmella, I'm putting my foot down!'
+1	69	Badmella, I'm so proud of you! Why, your'
+1	62	Badmella, don't make me unleash my'
+1	66	Badmella, don't try to distract me from'
+1	441	Badmella, this is no time for idle
+1	57	Badmella, we'll discuss this later...'
+1	60	Badmella, we've discussed this before.'
+1	56	Badmella, why don't you explain to the'
+1	57	Badmella, you are an utter disgrace!
+1	61	Badmella. Thanks for turning a blind eye
+1	438	Badmella... Don't...be...rude...to... '
+1	433	Badmella...please...forgive...me...
+1	516	Barrel Bombs and Outboxes.
+1	56	Basically, I want everyone in Badmella's'
+1	425	Basically, if you tap a normal treasure
+1	620	Be aware of this reality and you won't'
+1	522	Be warned that the wider the corridor,
+1	655	Bear in mind that the quicker you
+1	626	Bear in mind that these heroes won't'
+1	435	Beat this one, or else!
+1	425	Beautiful! Those fools fell right into
+1	628	Before the heroes arrive, conceal me in
+1	56	Behold your father's handiwork!'
+1	544	Being an Overlord is a high-pressured
+1	30	Being aware of that is one of the
+1	15	Beneath those flabby exteriors beat
+1	297	Blargh...urgh...arr...
+1	433	Blasted...heroes...! Curses...!
+1	67	Bleurgh!
+1	656	Bleurgh! I smell heroes, My Lord!
+1	695	Bleurgh! Stinky old heroes on their
+1	36	Block heroes' progress with Hurtle shell'
+1	13	Boosting IQ levels affects all types of
+1	13	Bravo, Comrade - erm - I mean, My Lord!
+1	0	Bravo, My Lord! With this Dvagon,
+1	18	Bravo, My Lord! You made those heroes
+1	4	Bugs are pretty high up on the list of
+1	494	But I bet bad players will still say,
+1	440	But I don't have any need for weaklings'
+1	62	But I don't know WHY I have to stand'
+1	67	But I don't think we're out of the
+1	539	But I know you can do it if you level up
+1	522	But I think those lows are seriously
+1	76	But I will rise again. And when I do,
+1	613	But I'm impressed to see you pressing'
+1	2	But I've got responsibilities too!'
+1	616	But be aware that very close to those
+1	231	But beware: if you add too many
+1	618	But by focusing on the heroes' Achilles'
+1	515	But cast your mind back, My Lord.
+1	66	But dad! The sun's setting!'
+1	433	But dad'll drop dead on the spot if he'
+1	539	But do you know something, My Lord?
+1	29	But don't despair, My Lord.'
+1	361	But don't forget all the good times,'
+1	51	But don't take all day!'
+1	56	But don't think this is kid's stuff! No!
+1	392	But enough talking. Let's head'
+1	23	But even if you make a Slimemoss with 8
+1	61	But event planning is such hard work!
+1	22	But for nutrient runes, you need to make
+1	618	But if a God of Destruction can't murder'
+1	117	But if the %s
+1	417	But if they find me first, <col:255,0,153,255>they'll'
+1	38	But if you don't think fast, My Lord,'
+1	280	But if you whack them the good
+1	92	But if you'd like to avoid that'
+1	616	But if you're not smart, you could end'
+1	23	But if your soil has more mana than
+1	18	But in the face of your artful pickwork,
+1	24	But intelligence also reports that soil
+1	432	But it sounds like they're not after'
+1	539	But it was definitely a mighty trio of
+1	540	But it wasn't to be!'
+1	89	But it wasn't to be...'
+1	618	But it's no time to rest on your laurels.'
+1	20	But it's not enough to make a Dragon and'
+1	22	But it's too late now! My poor bar has'
+1	625	But know this! Long Omnoms don't'
+1	21	But knowledge is power, My Lord, as some
+1	538	But listen, My Lord. Unlike those of
+1	635	But never forget that Omnoms have a
+1	274	But no need to worry, our dungeon's'
+1	78	But no! This is not Badmella's fault!'
+1	442	But now our work is done, it's time for'
+1	518	But once they've used them, their power'
+1	9	But put down the pickaxe first...
+1	14	But rank injustice aside, you still took
+1	620	But remember - no matter how strong a
+1	618	But sometimes they've got friends.'
+1	81	But that's no excuse for a couple of'
+1	537	But that's the time you need to'
+1	411	But the battle against those horrible
+1	391	But there's no need to be down-hearted.'
+1	422	But they can also summon man-made
+1	418	But this is no time to be crying over
+1	60	But this is not yet enough! I am still
+1	424	But this time around there's just three'
+1	28	But to be honest, that's an advanced'
+1	28	But wait! Don't tell me you went and dug'
+1	36	But we're dealing with water here!'
+1	123	But what I've given you has been pretty'
+1	234	But what's an ~update~? And why make a'
+1	25	But who knows? If another one of those
+1	79	But why not take out your anger on those
+1	639	But why, My Lord, why!? I told you just
+1	517	But why, My Lord? I told you this hero
+1	409	But you'll be back.'
+1	283	But you'll have to be pretty picky with'
+1	73	But you're doing it all for Badmella's
+1	408	But you're surrounded and can't escape!
+1	8	By grasping the full potential of water
+1	37	By tapping a treasure chest to get a
+1	392	By the time my dear daughter and her
+1	74	By the time they'd realized they'd
+1	277	By the way, My Lord, do you like
+1	420	By the way, My Lord, have you been
+1	241	By the way, the heroes who appear here
+1	280	By which I mean that for this
+1	368	C Rank, My Lord.
+1	77	CURSE YOU HEROES!!!
+1	511	Call yourself a God of Destruction!?
+1	57	Call yourself a daughter of mine!?
+1	296	Can I ask, My Lord, are you really
+1	87	Can it be that all evil Overlords are
+1	90	Can this be happening? My only daughter
+1	164	Can you make it somewhere where I'm not'
+1	171	Can't make your mind up, eh? Careful -'
+1	297	Catacombs of Castle Noneim.
+1	241	Challenge difficulty level, My Lord!
+1	226	Chamber data saved.
+1	631	Channel nutrients efficiently to your
+1	627	Check Orbs screen.
+1	214	Choose the monster you wish to add.
+1	100	Choose the other Pickaxe you want to
+1	228	Choose which monsters you want soil and
+1	222	Choose which monsters you want the soil
+1	223	Choose which pick to use and set your
+1	515	Clear them with <col:255,0,153,255>more Dig Power</col> and less
+1	527	Collect Dragon Orbs and you'll be able'
+1	412	Come on now, don't start shouting'
+1	393	Come on! That world isn't going to'
+1	81	Come on, Pickaxes, pull your socks up!
+1	541	Come out! That's an order!'
+1	73	Come! Let's kill him and dance round his'
+1	417	Come, Lord, the only good hero is a
+1	438	Come, let us annihilate all those who
+1	60	Come, let's do some Basic Overlord'
+1	40	Coming Soon!
+1	239	Congratulations!
+1	238	Congratulations! You've passed Level 2'
+1	255	Congratulations, you passed! Treat
+1	57	Cool!? Uncool!? What do these words mean
+1	56	Correction! I've summoned TWO Supremely'
+1	0	Could it be a deadly Dvagon?
+1	391	Could you be the very same evil God of
+1	15	Creating a Mara rune is a bit of a
+1	35	Curse that hero and all the magic tricks
+1	673	Curse these heroes and all their
+1	75	Curse those miserable heroes!
+1	518	Curses! Darnation!
+1	57	Curses! Hellfire! Darnation! It seems I
+1	368	D Rank, My Lord.
+1	57	D-Dad...!? What is it?
+1	75	Dad and the flying pickaxes!
+1	442	Dad!
+1	56	Dad! Don't drag it out! Just tell them'
+1	432	Dad! I'd know that muttering anywhere!'
+1	63	Dad! When are you going to get the
+1	438	Dad!!!
+1	61	Dad's gone...'
+1	438	Dad's trying to tell us something! Stop'
+1	535	Dad, I'm sorry. Due to a useless excuse'
+1	88	Dad, could you put a stop to that
+1	90	Dad, do you never get tired of talking
+1	83	Dad, you know I won't be doing that...'
+1	74	Dad, you're twisted...'
+1	254	Daily Challenge past! Booyaka!
+1	87	Dark, brooding types really do it for
+1	62	Darling demonic daughter, you've done'
+1	19	Deal with them sternly, My Lord!
+1	636	Dear oh dear oh dear...
+1	289	Definitely! ...Maybe!
+1	619	Depending on conditions and your own
+1	667	Despicable sons of goats! Yes, those
+1	72	Destruction can't tie the knot!'
+1	67	Destruction defending her honor.
+1	256	Destruction gambit!
+1	187	Destruction get the job done!
+1	295	Destruction or a Dud of Distraction.
+1	391	Destruction who worked alongside me when
+1	76	Destruction!?
+1	417	Destruction, Lord! No matter who the
+1	24	Destruction.
+1	40	Did Badman survive the heroes' attack!?'
+1	637	Did you find my explanation deficient in
+1	627	Did you get it, Lordy-Wordy?
+1	439	Did you know that they level up when
+1	433	Did you two not get along or something?
+1	8	Didn't it feel good, My Lord?'
+1	279	Didn't you do well!'
+1	245	Difficulty Level 1!
+1	244	Difficulty Level 1. Well done.
+1	247	Difficulty Level 2!
+1	246	Difficulty Level 2. Well done.
+1	239	Difficulty Level 3!
+1	248	Difficulty Level 3. Well done.
+1	251	Difficulty Level 4!
+1	250	Difficulty Level 4. Well done.
+1	253	Difficulty Level 5!
+1	240	Difficulty Level 5.
+1	252	Difficulty Level 5. Well done.
+1	647	Dig Power! Go on - make the forces of
+1	223	Dig Power.
+1	646	Dig Power. Dole it out by pressing the
+1	223	Dig Power. Set it to 9999 for infinite
+1	93	Dig Power</col>?
+1	38	Dig a single, long path with a Dragon at
+1	432	Dig...Power...is...more...important...
+1	38	Digging and thinking at the same time,
+1	631	Digging narrow paths, as in the picture,
+1	667	Display Settings.
+1	76	Divide up your roles!
+1	56	Do I have to!? Gah! Well, my homework
+1	393	Do it for me, Pickaxe - for Badmella.
+1	9	Do that and the fossil will regain its
+1	62	Do that pick-pounding, dungeon-digging,
+1	419	Do that, and Dundadundunduuun Tower is
+1	37	Do that, and they'll soon regain their'
+1	60	Do we have to go over this again?
+1	58	Do you expect me to marry a Skeleman?
+1	526	Do you know something, My Lord?
+1	122	Do you know what would be more
+1	613	Do you really think we're keeping track'
+1	53	Do you really want to invite the
+1	408	Do you really want to run away?
+1	423	Do you think they'd still come to the'
+1	403	Do you want to go there and relive the
+1	387	Do you want to replay
+1	218	Do you want to save? It's the only way'
+1	263	Do you wish to create a restore point
+1	428	Do your best to give them what-for,
+1	417	Do your best to turn this one into
+1	283	Do your darnedest, and we might just
+1	275	Do your worst, My Lord!
+1	636	Don't be fooled by appearances.'
+1	629	Don't be in such a rush to dig, My Lord.'
+1	105	Don't be silly. You've only just
+1	635	Don't be so glum, My Lord. Regulating '
+1	28	Don't dig the soil, and focus on culling'
+1	259	Don't get too excited, though.'
+1	543	Don't go getting any ideas, My Lord.'
+1	632	Don't go wild and build a gargantuan'
+1	56	Don't jump to conclusions, My Lords!'
+1	118	Don't just dig for digging's sake!
+1	641	Don't let anyone tell you otherwise!'
+1	295	Don't let me down!'
+1	32	Don't let them overdose on nutrition or'
+1	30	Don't let these little setbacks get you'
+1	543	Don't tell me you'd rather conquer the
+1	526	Don't they know that dishonor,'
+1	619	Don't worry if you find the thought too'
+1	444	Don't worry, I know how it goes.'
+1	393	Don't worry, Pickaxe. You may be under'
+1	428	Don't worry, you'll still go on to the
+1	624	Dragon Hunter Hunter
+1	641	Dragon Orb, not to let the hero get his
+1	34	Dragons and Lizardmen.
+1	234	Dum-de-dum...
+1	427	Dundadundunduun Tower thing. I should
+1	391	Dundadundunduuun Tower!
+1	416	Dundadunduuun Tower! Excellent!
+1	619	Dungeon IQ can go right up to Level 4.
+1	235	Dungeon-a-Day Menu?
+1	241	Dungeon-a-Day Mode, the puzzles on
+1	32	Dvagons, unlike Dragons, have very
+1	59	EASY!? I've never heard such nonsense!'
+1	35	Each hero differs as to whether they
+1	236	Each one tests your ability in an
+1	432	Eek! Dad's trying to communicate'
+1	294	Eek! Hey, Pickaxe, we've run out of Dig'
+1	74	Eh!? A black-out!? Don't tell me dad'
+1	65	Eh? How can you possibly know that!?
+1	444	Eh? What killed the mood?
+1	234	Eh? What the!?
+1	390	Eh? You want to save the current
+1	414	Embrace your vengeful side and rain
+1	438	Enjoy this...display of my...
+1	38	Enough, My Lord! Enough, I say!
+1	60	Erm. Right, dad...
+1	297	Esolim...elo...essa...urgh...
+1	16	Even Gods of Destruction need to wash,
+1	538	Even if I get dragged away to face the
+1	65	Even if I restart Badmella's training,'
+1	613	Even on the Title Screen. Maybe there
+1	58	Even the God of Destruction on my
+1	444	Even when you're gone, we'll carry on
+1	435	Ever heard the saying ~He who fights
+1	444	Every second we've spent with you has'
+1	632	Evil perishes! Good prevails! Game Over!
+1	109	Excellent work! This dungeon's a'
+1	416	Excellent work, My Lord. I'll be'
+1	420	Excellent! Congratulations on a
+1	254	Excellent! Here goes! R-R-Reeewiiind!
+1	295	Excellent. Then all that remains is to
+1	3	Experiment with original ways to spawn
+1	428	Extra Heroes appear! You must be doing
+1	654	Find out about the effects of pickaxe
+1	40	Find out all this and more in...
+1	403	Fine. Do what you like, you big
+1	391	First, we must seize Dundadundunduuun
+1	126	First, you'd better decide where I'm
+1	630	Flowing water won't have any effect on'
+1	25	Fly delivers that killer blow...
+1	620	Food for Thought
+1	418	For badness' sake, Lord, turn my shame'
+1	78	For instance, the <col:255,0,153,255>30-Second Showdown</col>
+1	622	For instance, those lovely Liliths you
+1	22	For mana runes, you can make a rune and
+1	513	For shame, My Lord! To be beaten by such
+1	433	Forgive...your...poor...father...
+1	288	Formidable work, My Lord!
+1	9	Fossil was a Not-So-Blue Whale?
+1	84	Gah!
+1	87	Gah! Defeated by a sadsack solo hero,
+1	91	Gah! I hate heroes! Why do they
+1	77	Gah! It's no good! I can't keep up
+1	60	Gah! The heroic scourge is here to
+1	441	Gah, anyway, there's an unprecedented'
+1	436	Gah, not again! Another half-hearted
+1	283	Gah, this really isn't the time!'
+1	37	Gather your wits about you, My Lord,
+1	56	Gaze at the gods' hideous visages!'
+1	392	Gaze upon the devilish mark carved into
+1	636	Get Liliths grazing on mana and they'll'
+1	58	Get USED to it?! Pah! I've told you,'
+1	28	Get that annoying holy water resting on
+1	28	Get water to flow to soil with nutrients
+1	36	Get your revived monsters to join in,
+1	39	Glare at the dungeon and pick out where
+1	63	Glorious culling! Gratuitous killing!
+1	431	Go and visit Badman's Chamber if you'
+1	441	Go go Team Pickaxe!
+1	433	Go on, Pickaxe, get to it!
+1	271	Go to it, My Lord!
+1	513	God of Destruction business.
+1	27	God of Destruction wouldn't take any'
+1	99	God of Destruction you wish to dig with.
+1	56	God of Destruction!
+1	71	Gods of Destruction ganging up on a
+1	59	Gods of Destruction what's in store'
+1	58	Gods of Destruction who agree with me!
+1	63	Gods of Destruction! Your services are
+1	69	Gods of Destruction, I charge you with
+1	62	Gods of Destruction...
+1	74	Gods of Destruction?
+1	16	Gone are the glory days when you could
+1	413	Good luck to us both!
+1	239	Good luck, My Lord!
+1	58	Good of you to bother turning up.
+1	373	Good! Let's get on with clearing this'
+1	435	Good, because there's more Extra'
+1	101	Goodness! It's more than a hundred'
+1	518	Gragh! I think I've wrenched my ranting'
+1	663	Gragh! It looks like some loathsome
+1	691	Gragh!? It looks like obscene
+1	694	Gragh!? Looks like everybody's'
+1	696	Gragh!? Why must these heroic
+1	75	Gragh... All over so soon...
+1	532	Grargh! This is so unfair!
+1	518	Great steaming piles of... (splutter)
+1	116	Great work! The balance of monsters in
+1	34	Grinding them down little by little in a
+1	86	Grragh...
+1	14	Grrr... It really makes my blood boil!
+1	664	Grrrr... More heroic whelps invading
+1	374	Grrrragh...
+1	640	Grrrrarrrgh!!! You let him get away!
+1	24	Guide Slimemosses and cull them next to
+1	627	HP dipped to half and he dropped it.
+1	427	Ha ha, we win! But it took a bit longer
+1	444	Ha ha......
+1	428	Ha! And as soon as I mention them,
+1	73	Ha! Good luck finding a real man among
+1	542	Ha! How'd you like that?'
+1	635	Hah hah HAH! That's the stuff!'
+1	635	Hah!
+1	431	Hah! That scrawny hero makes a great
+1	430	Hah! Why would worthless weaklings like
+1	384	Hang on! That other big pickaxe is
+1	226	Hang on, there isn't any Badman's
+1	67	Happily, I've got my faithful Gods of'
+1	627	Happy Orb hunting, My Lord!
+1	52	Happy now, My Lord?
+1	88	Harumph...
+1	630	Have a clear idea of where you want your
+1	26	Have another try once you've sharpened'
+1	438	Have brought me back from...the
+1	635	Have you followed everything thus far?
+1	444	Have you forgotten already?
+1	444	Have you forgotten the look on a
+1	375	Have you got tired of me already?
+1	61	Haven't you learned anything...?'
+1	436	He can't be far from a full recovery'
+1	67	He looked like the kind of hero with
+1	393	He's just an old man with an even'
+1	433	He's so annoying! Hang on, how come he'
+1	59	Heed my words, O kings of the overworld!
+1	437	Heeheeheeheehee!
+1	518	Hell's bells and buckets of blood!'
+1	10	Hell's bells! You're fast, My Lord!
+1	74	Hello, dear! How has your quest for a
+1	638	Help me, My Lord! I'm in bits! I can't
+1	56	Her expensive private Overlord Academy
+1	618	Here Come the Heroes!
+1	274	Here come the heroes! Oh, and how
+1	692	Here come those heroes!
+1	275	Here we are at last! The final hurdle!
+1	627	Here, let me blow you a kiss!
+1	523	Hero-summoned monsters <col:255,0,153,255>can't be culled</col> by'
+1	58	Heroes are my only hope of netting a
+1	618	Heroes are natural cowards, so they gang
+1	362	Heroes have a habit of turning up at the
+1	422	Heroes on scouting missions will <col:255,0,153,255>return
+1	435	Heroes on the way.
+1	85	Heroes ruling the Underworld!
+1	524	Heroes will use healing magic when their
+1	666	Heroes! A curse on all their houses!
+1	62	Heroes! They're on their way!'
+1	682	Heroes!? Don't they have homes'
+1	681	Heroes!? Have they got nothing better
+1	679	Heroes!? There goes the neighborhood...
+1	683	Heroes!? What DID I do to deserve this,
+1	432	Heroes' death rattles must have an'
+1	92	Heroes? Ugh, not again.
+1	414	Heroes~ who only invade dungeons that
+1	661	Heroic bunglers banging on my dungeon
+1	678	Heroic curs on the way!
+1	671	Heroic whelps seem to be rocking up to
+1	393	Hey you there!
+1	71	Hey! I dress in black! Don't you like'
+1	444	Hey, God of Destruction.
+1	76	Hey, Pickaxes! You've got two brains'
+1	64	Hey, Pickaxes, did you hear that heroic
+1	61	Hey, Pickaxes. Did you notice that my
+1	436	Hey, he's started sensing heroes again!'
+1	118	Hey, we're running out of soil here!'
+1	97	Hey, you got a new pickaxe! You're a'
+1	435	Hey, you stupid Pickaxe! What are you
+1	234	Hey, you there. What do you think?
+1	425	Hide me away in a corner somewhere, and
+1	38	His aquatic antics could purify all
+1	430	Hm, the monsters didn't look too'
+1	254	Hm. Very well. But there's not much'
+1	102	Hm? How much time has passed since
+1	234	Hm? What's this? I've never seen this
+1	258	Hm? You want me to use my r-r-renowned
+1	271	Hmm, interesting.
+1	438	Hmm, yes. What indeed?
+1	169	Hmm. Okay, I think I can work with
+1	429	Hmm... Can't say I'm massively confident
+1	119	Hmm? Oh, you don't seem to have any'
+1	60	Hmmm. That sounds okay, I guess.
+1	88	Hmmm... A younger man. Well, I guess
+1	73	Hmmm... It seems a lot of today's heroes'
+1	77	Hmmm... Maybe I should cut down on the
+1	74	Hmmmm...
+1	652	Hmmmm... I'd take you more seriously if'
+1	438	Hmmmmmmmmmmmmm...
+1	403	Hmph.
+1	66	Hmph. All that hero-bashing has made the
+1	28	Hmph. Did you even listen to a word
+1	59	Hmph. Okay. Well, there's going to be'
+1	539	Hmph. The treatment I put up with...
+1	56	Hmph. There's no need to be like that.'
+1	525	Hmph. This gibbering wreck of a hero is
+1	412	Hmph. Well, with heroes like that, you
+1	58	Hmph. You have awoken, O Evil Ones.
+1	83	Hmph...
+1	635	Hoh!
+1	639	Hold off the frantic digging and your
+1	534	Holy water neutralizes water if it
+1	428	Honestly! Who do these selfish
+1	423	Honestly, so negative!
+1	664	Horde Status from the Pause Menu, you
+1	72	How about it, you two? Don't blush like'
+1	75	How am I supposed to convince Badmella
+1	634	How can I put this?
+1	533	How can the heroes on Stage 2 be
+1	444	How can you forget all those
+1	526	How dare they stand up to an evil deity
+1	65	How do I know? Well, those heroes we've'
+1	391	How in the Underworld did this happen?
+1	693	How repellent!
+1	444	How was it? Be honest, now.
+1	278	How will it go, I wonder?
+1	512	How!? What!? Why!? When!? Ummm... Who!?
+1	74	How'd you fancy one of these fine'
+1	429	How's the dungeon looking?'
+1	687	Huh!? It looks like atrocious
+1	658	Huh!? It looks like contemptible
+1	688	Huh!? It looks like cowardly
+1	659	Huh!? It looks like despicable
+1	689	Huh!? It looks like execrable
+1	690	Huh!? It looks like grotesque
+1	660	Huh!? It looks like reprehensible
+1	668	Huh!? It looks like self-righteous
+1	662	Huh!? It looks like villainous
+1	675	Huh!? Loathsome heroes spotted
+1	42	Huh!? Looks like the Story Mode data
+1	74	Huh!? My sister Mallory!?
+1	45	Huh!? Seems like there's no Story Mode'
+1	66	Huh!? She's right, you know...'
+1	692	Huh!? Speak of the...erm...devil...
+1	393	Huh!? Wait a second! Aren't you the big'
+1	444	Huh.
+1	371	Huh? Do you really wish me to cast
+1	612	Huh? Do you wish to quit the game
+1	391	Huh? So that's what the switch was for!'
+1	430	Huh? You let them escape?
+1	90	Humph...
+1	47	Hurry or the heroes will be upon us!
+1	434	Hurry up, Pickaxe! More heroes''
+1	297	I added that ~Catacombs~ bit on myself.
+1	63	I admire your deviousness!
+1	120	I am!
+1	373	I anxiously await your glorious return.
+1	613	I ask not for your consent!
+1	59	I assure you, O fruit of my evil loins,
+1	237	I believe congratulations are in order,
+1	391	I beseech you to lend me and my minions
+1	71	I bet he thinks he's some kind of lone'
+1	70	I bet their idea of a fun evening is
+1	56	I bet you think it's for plain old '
+1	444	I bet you're even wondering why you'
+1	531	I can pick up some nasty burns.
+1	0	I can scarcely contain my excitement!
+1	88	I can see the positive in everything!
+1	391	I can smell heroes over yonder on that
+1	88	I can take the lead and knock him into
+1	56	I can tell you're deeply impressed!'
+1	434	I can't bear much more of this standing'
+1	120	I can't believe it!'
+1	120	I can't tell you how impressed'
+1	391	I can't think of a better way of making'
+1	640	I clearly said that this hero's'
+1	2	I confess I'm a hard task-master and'
+1	7	I couldn't ask for a better deity!'
+1	368	I despair, I really do...
+1	63	I didn't foresee those heroes turning up,'
+1	613	I disagree! And what sort of language
+1	39	I distinctly recall explaining to you
+1	428	I don't know all the details, but'
+1	289	I don't know how tough they are, but'
+1	63	I don't know what I was thinking!'
+1	613	I don't know what's going on here!
+1	81	I don't know.'
+1	540	I even came up with a few great ideas
+1	66	I even went to the trouble of summoning
+1	20	I explained in my infinitely patient way
+1	16	I feel like I've really opened your'
+1	4	I forgot you were there.
+1	22	I guess I should stick with the day job.
+1	81	I hate doing training, but letting
+1	25	I hate to halt you in mid-swing, but
+1	35	I have a vague recollection of going
+1	21	I have faith in you...
+1	542	I hope their friends catch them
+1	444	I hope we'll meet again soon...'
+1	76	I hope you took note! I want you both to
+1	14	I just can't stand it!'
+1	25	I just heard that some skullduggerous
+1	79	I just knew it!
+1	624	I just love filling your divine head
+1	78	I knew if Badmella kept skipping her
+1	393	I knew it! I knew it 'cos you don't seem
+1	78	I knew it! I knew it would turn out
+1	494	I knew this puny hero wouldn't take'
+1	408	I knew you wouldn't let me down, Lord.'
+1	615	I knew you'd make me proud, My Lord!'
+1	2	I know I'm not an easy man to get along'
+1	12	I know its tricky gathering all that
+1	65	I know more heroes are going to come
+1	38	I know there's not much time before the'
+1	80	I know training is a pain in the
+1	1	I know you can come up with
+1	29	I know you can do it, My Lord!
+1	409	I know you love me...
+1	538	I know you'll continue and eventually'
+1	27	I know you're a mild-mannered omnipotent'
+1	79	I know you're frustrated that Badmella'
+1	393	I know, I know. I'm amazing.'
+1	418	I know, it's annoying. But that's just
+1	620	I like them!
+1	410	I look forward to meeting you again in
+1	61	I may have been a little rude to impress
+1	78	I may have said it before, but these
+1	2	I mean it. If it wasn't for your silky'
+1	12	I mean, I don't know why I'm acting so
+1	424	I mean, it's fun wiping the'
+1	286	I mean, like I say, there's only a'
+1	391	I mean, that's just my seventh sense'
+1	76	I mean, what were you playing at,
+1	77	I mean, you like me ranting and
+1	373	I must accept your decision, My Lord.
+1	82	I need to go home and feed my Omnoms,
+1	638	I pick up my limbs...
+1	418	I rather think you are.
+1	82	I really dig you, My Lords...
+1	613	I really want to say is this...
+1	515	I recommend leveling up monsters faster
+1	276	I said, hip-hip... Come on!
+1	28	I said?
+1	238	I saw you looking at the more difficult
+1	370	I see! Well, even if you take a bit of a
+1	404	I see. So you want to take on that
+1	381	I see. Well, I hope to see you round
+1	391	I sense that the key to dominating this
+1	413	I sense two more heroes on the way. Use
+1	89	I shall be married off! How exciting!
+1	613	I shall go ahead and choose
+1	613	I shall pretend to be out.
+1	92	I should be captured and carried off,
+1	667	I should have mentioned it earlier,
+1	365	I suppose you're right. We have to'
+1	56	I take Badmella's schooling very, very'
+1	17	I take it you've fully mastered the'
+1	427	I tell you what, why don't you go above'
+1	61	I thank you from the bottom of my
+1	524	I think I'm going to be sick.'
+1	613	I think I've said enough.'
+1	544	I think dad's hit his limit for being'
+1	425	I think it's just one person who does a'
+1	56	I think that's quite enough out of you,'
+1	443	I think we should celebrate with the
+1	16	I thought I was done for there, but you
+1	14	I thought we had a monopoly on monsters,
+1	22	I thought we'd been over this! To make'
+1	528	I thought your power was mightier
+1	624	I trust you've seen the fiery splendor'
+1	62	I want to go home and feed my
+1	80	I want to go home...
+1	56	I want to strike terror into their
+1	534	I want you to engrave on your heart.
+1	4	I was about to squish it on principle.
+1	536	I was better off in my paralyzed state.
+1	74	I was just chatting to Auntie Mallory
+1	536	I was revived just to witness this!?
+1	442	I was worried for a minute, but you did
+1	121	I was worried you might just be
+1	76	I will track you down...
+1	68	I wonder if we'll get anyone half-way'
+1	67	I wonder what pitiful excuses for men
+1	74	I wonder...
+1	85	I'd better think about organizing the'
+1	6	I'd have a dragon!~'
+1	73	I'd have to hold his hand and make sure'
+1	4	I'd heard rumors, but this is the first'
+1	634	I'd strongly suggest you start off by'
+1	12	I'll always be here for you, My Lord.'
+1	21	I'll be waiting here, My Lord.'
+1	407	I'll be with you every step of the way!'
+1	65	I'll bet you the next hero is the last'
+1	542	I'll curse them real good!'
+1	542	I'll curse these heroes!'
+1	541	I'll curse you!'
+1	297	I'll find a way of fixing him while you'
+1	391	I'll have plenty more to tell you once'
+1	630	I'll have to stop you there, My Lord!'
+1	81	I'll never be able to go home!'
+1	74	I'll prepare the fireworks!'
+1	87	I'll probably get bored of it, but'
+1	438	I'll try and keep it...short... So...'
+1	413	I'll work on upping my eyes' ability to
+1	274	I'm afraid our current monster'
+1	79	I'm afraid you haven't got a hope.
+1	58	I'm an evil Overlord! You know, ruler'
+1	35	I'm counting on you, My Lord! You'd
+1	520	I'm getting tired of being dragged'
+1	169	I'm glad they got through!'
+1	613	I'm glad we had this little chat.'
+1	416	I'm going to pop above ground and let'
+1	30	I'm going to run through this just the'
+1	534	I'm going to tell you something now that'
+1	3	I'm just thinking of you, My Lord!'
+1	674	I'm looking forward to seeing how you'
+1	432	I'm not bothered as long as they don't
+1	636	I'm not sure where to look,'
+1	74	I'm off...'
+1	653	I'm picking up strong heroic readings'
+1	58	I'm ready to leave the nest and he's just
+1	79	I'm right, aren't I? And that's not all!'
+1	63	I'm so sorry I shouted!'
+1	80	I'm sorry, My Lords... (gibber gibber)'
+1	408	I'm sorry. I don't know why I said that.
+1	665	I'm sure Your Divine Badness has noticed'
+1	540	I'm sure you'll be struck by divine
+1	271	I'm sure you'll smash them either way.
+1	60	I'm the best!)'
+1	525	I'm the best!~'
+1	393	I'm the next generation of evil Overlord'
+1	543	I'm too weary even to rant, My Lord.'
+1	57	I'm trying to convince Badmella of the'
+1	435	I'm very, very impressed, Pickaxe. It's
+1	543	I'm watching you...'
+1	613	I've actually decided that if someone'
+1	613	I've also taken some old favorites and'
+1	613	I've even gone so far as to change the'
+1	64	I've got a bad feeling about this...'
+1	7	I've got a feeling they won't be missing
+1	107	I've got a feeling this dungeon could'
+1	539	I've got a strange feeling I've met this
+1	407	I've got nothing better to do...'
+1	297	I've had enough of your nonsense!'
+1	513	I've heard that leveling up Lizardmen'
+1	32	I've never seen such clunky pickwork!'
+1	637	I've said it before and I may well say'
+1	418	I've said something will happen, there'
+1	67	I've seen tougher dragon dung.'
+1	62	I've struggled to-'
+1	56	I've summoned the Supremely Malevolent'
+1	619	IQ development. Get a load of this...
+1	444	ITS PEOPLE WILL HAVE
+1	257	If I invoke this powerful spell, your
+1	616	If aquatic creatures are seized by the
+1	524	If at all possible, My Lord, you should
+1	28	If even a drop of holy water comes into
+1	48	If it be your will, O Evil One!
+1	613	If nothing happened this time, it would
+1	613	If nothing happens, won't they invade'
+1	56	If one of you isn't sure what to do,'
+1	627	If that's the case, the hero won't drop
+1	613	If that's what you've become, it's a'
+1	520	If that's what's going on in your divine
+1	513	If the heroes are still running rings
+1	169	If the heroes carry me off, that's the'
+1	11	If the mood takes you, why not try it
+1	391	If the world's got bigger, that means'
+1	630	If there are nutrients in the nearby
+1	32	If there's more than one monster in its'
+1	39	If there's one thing in the whole wide'
+1	85	If these Slimeblossoms won't bloom, I'll
+1	37	If they're full, they won't eat any more
+1	618	If things go seriously awry, you can end
+1	391	If we can just take those two towers
+1	48	If we're dragged to the surface, it's
+1	80	If you build <col:255,0,153,255>nothing but long tunnels</col>,
+1	82	If you can <col:255,0,153,255>lure the heroes into water</col>,
+1	36	If you can buy enough time, My Lord,
+1	78	If you can get your teamwork flowing,
+1	92	If you can hammer those heroes before
+1	621	If you can summon forth a nice batch of
+1	411	If you carry on like this, we'll'
+1	286	If you dig clever, you'll have no'
+1	629	If you dig the kind of moldy-looking
+1	28	If you dig up all the soil and leave
+1	84	If you do that, Badmella won't have to'
+1	542	If you do that, I'll get caught and that'
+1	628	If you do that, those indolent heroes
+1	620	If you don't create the right monsters'
+1	516	If you don't destroy them, they'll
+1	629	If you fail next time, I'll eat my hat!'
+1	629	If you fail, no one's going to shout at'
+1	9	If you find one, you need to soak them
+1	376	If you give up, it'll be Game Over.'
+1	11	If you have heroic hordes approaching,
+1	80	If you just spend your time digging
+1	613	If you keep doing this and keep forcing
+1	283	If you make the most of what we've got,'
+1	667	If you prefer them to keep their mouths
+1	12	If you really want to see how long it
+1	630	If you recklessly let it rush down to an
+1	626	If you want these Extra Heroes to stay
+1	226	If you want to carry on an old dungeon,
+1	21	If you want to dismember these heroic
+1	20	If you wanted to weaken it fast, all you
+1	25	If you'd been a bit faster and rustled'
+1	296	If you're desperate to have a look, you'
+1	81	If you're doing that and still losing,'
+1	119	If you're not sure how to go about'
+1	31	If you're still struggling, maybe you'
+1	522	If you're still struggling, try using'
+1	12	If you're struggling, remember you can'
+1	58	If you're wondering why my dad isn't
+1	31	If you've done all you can to support'
+1	236	If you've got the time, the inclination'
+1	106	If your Horde Power's anything to go'
+1	24	If your nutrient and mana tweaking isn't'
+1	438	Iiiiiiiiiiiii'm back!!!'
+1	268	Iiiit's hero time! Right now, I mean.'
+1	83	Imagine it, My Lords! My daughter
+1	442	Impossible!
+1	619	Improve Your IQ
+1	17	In a real dungeon situation, treasure
+1	537	In case you were wondering, that was my
+1	66	In our next training exercise, we're'
+1	9	In the dim and distant past, when
+1	617	In the pugilistic world of the dungeon,
+1	437	In through the nose, out through the
+1	80	In which case GET ON WITH IT!!!
+1	652	Incoming hero detected! My Lord, I trust
+1	63	Incoming heroes! Oh NO!
+1	229	Info on and off by tapping me with your
+1	254	Is that okay with you?
+1	377	Is that okay?
+1	172	Is the phone reception good here?
+1	110	Is this some silly challenge you've'
+1	171	Is this spot okay?
+1	3	Isn't Slimederella Moss just adorable?'
+1	91	It is an act of god indeed!
+1	297	It is, isn't it? Ahh, you're a pretty
+1	18	It just goes to show - evil will ALWAYS
+1	274	It looks as if these heroes might be a
+1	271	It looks like they've been arguing.'
+1	386	It looks like we're all done for'
+1	443	It looks like...heroes!
+1	16	It may not be the simple world we grew
+1	90	It may smack of desperation, but this
+1	625	It may well have been me...
+1	12	It might be hogwash, but I've heard'
+1	23	It might sound like an inordinate amount
+1	241	It might still be a little early to
+1	5	It never hurts to save for a rainy day.
+1	64	It never stops, does it? Couldn't'
+1	71	It seems more wannabe beaus are on
+1	69	It seems that we have another duo of
+1	24	It seems the challenge this time was a
+1	4	It seems there are still plenty of new
+1	417	It seems they're coming to attack our'
+1	513	It seems you're not in prime pickaxe'
+1	21	It seems your knowledge of Monstrology
+1	619	It sounds like I'm making it up, but'
+1	8	It was a kind of perpetual monstrous
+1	18	It was an epic tussle, and those heroes
+1	32	It was hurting my eyes to watch.
+1	2	It was touch and go there for a while,
+1	437	It's a familiar face backed up by a'
+1	68	It's a great relief to hear you have'
+1	82	It's a harsh world, daddy-o!'
+1	616	It's a miracle! Look at those bonny,'
+1	271	It's a party of three this time, but...'
+1	657	It's a veritable treasure trove of'
+1	82	It's all about the end result.'
+1	26	It's all about timing it so you only'
+1	87	It's all going to be shiny and good!'
+1	529	It's all very well for you, but I always'
+1	58	It's bad enough that my only daughter'
+1	109	It's beautiful!'
+1	518	It's best to make them power up in an'
+1	517	It's better not to pick unnecessary'
+1	514	It's clear you haven't yet grasped these
+1	231	It's fearsome good fun!'
+1	297	It's good to give your dungeons'
+1	12	It's got to be worth giving it a try!'
+1	437	It's hard being an Overlord, eh?'
+1	70	It's heartbreaking, isn't it, Pickaxes?
+1	286	It's hero o'clock. And there's'
+1	515	It's important to reassess your strategy'
+1	418	It's incredible, really. As soon as'
+1	418	It's like letting someone stroll into'
+1	15	It's never a bad idea to summon a Mara,'
+1	75	It's never too late to master the'
+1	620	It's not enough to spawn a great monster'
+1	3	It's not that unique monsters are super-'
+1	259	It's only the beginning.'
+1	620	It's survival of the fittest out there!'
+1	290	It's the last one, so it's probably a
+1	69	It's the mark of a sub-prime hero - '
+1	38	It's the other hero splashing holy water'
+1	31	It's the saddest sight I've seen in my
+1	84	It's the second stage, so you may be low'
+1	262	It's time for a torrential tidal wave'
+1	277	It's time for the heroes to arrive. If'
+1	295	It's time to see if you're a God of
+1	269	It's time to start Step 3!'
+1	93	It's to try and stop you bickering and'
+1	619	It's tough to get those Lilies to sprout,'
+1	78	It's you, My Lords, who have been'
+1	624	Its jaw is jaw-dropping, its power is
+1	630	Judicious handling of water and aquatic
+1	433	Just a few more defeated heroes''
+1	63	Just another day at the office...
+1	29	Just as I feared! Even a majestically
+1	528	Just don't ask me why.'
+1	72	Just don't have kids and get divorced.'
+1	414	Just knuckle down and keep killing
+1	92	Just press the L Button, and you can
+1	91	Just remember that it will dig into
+1	31	Just tell him he was never meant to be a
+1	14	Just who were those bestial heroes!?
+1	443	KNOW NO PEACE!
+1	234	KNOW NO PEACE!!!</size></col>
+1	91	Kazam! Just like that, time stands
+1	411	Keep making those heroes into corpse
+1	628	Keep the □ Button held down for faster
+1	615	Keep this kind of delightful digging up
+1	5	Keep up the sterling work, My Lord,
+1	35	Keep your beady demonic eye on this hero,
+1	415	Keep your eyes on the prize and hammer
+1	414	Kill confirmed! That's another victory!'
+1	31	King of Bling and send him home to his
+1	73	Knocking back all these suitors has
+1	621	Learn how to get beasts breeding without
+1	629	Learn to recognize different types of
+1	533	Leave the harder difficulty settings
+1	60	Lesson 1 - Use lots of long words and,
+1	637	Let me recap. First get Slimemosses
+1	32	Let me say this using simple words.
+1	61	Let me see that!
+1	635	Let me show you an effective way
+1	428	Let me tell you a little about these
+1	438	Let our newly-founded triangle of
+1	23	Let the amount of mana or nutrients go
+1	249	Let's begin Daily Challenge Difficulty'
+1	60	Let's cast them into the pitch-black'
+1	437	Let's get fired up and fight 'em good!
+1	378	Let's get on with it!'
+1	235	Let's head back, shall we?'
+1	429	Let's move on, shall we?'
+1	63	Let's pick up that posture training'
+1	613	Let's pull some semblance of sense'
+1	266	Let's see how you do!'
+1	272	Let's start Step 4, shall we? If the'
+1	278	Let's start Step 6!'
+1	527	Let's strike back, take out the heroes'
+1	365	Let's take a trip down memory lane,'
+1	426	Let's take on some heroes worthy of our'
+1	371	Letoffthehookikus so you can hang
+1	237	Level 1! Very well done!
+1	249	Level 3!
+1	51	Level up your monsters using Dig Power!
+1	13	Liliths and more.
+1	36	Linking up attacks and combining this
+1	80	Listen up, Pickaxes! While my dad's in'
+1	59	Listen, Badmella, it's hard work making'
+1	635	Lizardfest 2010
+1	635	Lizardman or two.
+1	444	Lizardman's face after he's smashed his
+1	621	Lizardmen!
+1	621	Lizardmen, it means you've heard enough'
+1	283	Look at the dungeon! It's emptier than'
+1	619	Look at those beautiful blooming buds!
+1	435	Look! You've upset dad now as well!'
+1	58	Look, ever since word got out that I was
+1	283	Looks like we have heroes on the way.
+1	33	Loosen up, My Lord! Chill out and give
+1	296	Lord. You'll be much happier.'
+1	530	Lorelei electrocution, anthills...
+1	36	Lorelei's electric shocks can paralyze'
+1	64	Loud screaming, eh? You know, My Lords,
+1	438	M-...My...Lord...
+1	443	MAY THE WORLD!
+1	442	MISSION ACCOMPLISHED!!!
+1	528	Mages' and Priests' horrible magic skills
+1	514	Magic tears through any monster in the
+1	638	Making a Level 3 block of mana-filled
+1	67	Male. I expect better.
+1	56	Malevolent Gods of Destruction!
+1	513	Map.
+1	368	Marvelous stuff.
+1	3	Marvelous, My Lord! I don't wear a hat,'
+1	614	Marvelous, My Lord! I knew you had it
+1	652	Marvelous, My Lord! Then let's rain'
+1	1	Master that skill, and you'll make our'
+1	38	Master that, and there'll be no stopping'
+1	623	Master them, and you'll be on the way to'
+1	24	Master these techniques to get the mana
+1	541	May all your buses and trains be late
+1	61	Maybe he's not a delusional loser'
+1	88	Maybe it really is time for you to fly the
+1	539	Maybe it's my over-active imagination,'
+1	540	Maybe you could lower the difficulty
+1	429	Maybe you'd better batter them though,'
+1	80	Maybe you're thinking ~Shut up! We know'
+1	63	Medal of Honor for your efforts. Bravo!
+1	56	Meh.
+1	623	Merely by dint of their presence in the
+1	513	Might I suggest you <col:255,0,153,255>conserve Dig Power</col>
+1	37	Mimic, you'll at least avoid the horror'
+1	37	Mimics I placed in splendid isolation?
+1	622	Minding Your Mana
+1	627	Mmmmm-MWAH!
+1	621	Mmmmm... Can you smell it, My Lord? The
+1	119	Monsters born from runes can increase
+1	622	Monsters spawned from mana-rich soil
+1	292	More Advanced Training missions have
+1	291	More Training missions have magically
+1	632	More antics like that, and my minions
+1	436	More...heroes...on...the...way...
+1	22	Most mighty, venerable and wise God
+1	391	Move me to select the area you want to
+1	38	Multi-tasking is the answer, My Lord!
+1	408	Must be a Pavlovian Overlord reaction.
+1	625	Mutation accomplished! This monster is
+1	420	Mutation works a little differently now
+1	393	Mwah-hah! Hah-graaaargh...!?
+1	423	Mwah-hah-haaaah! Yes! Kneel before me,
+1	416	Mwah-hah-haah! I'm very pleased with'
+1	393	Mwah-hah-hah!
+1	57	Mwah-hah-hah! ...See?
+1	413	Mwah-hah-hah! A fitting end for those
+1	61	Mwah-hah-hah! All you who dwell above
+1	68	Mwah-hah-hah! Another lovelorn loser
+1	56	Mwah-hah-hah! It worked, I tell you!
+1	439	Mwah-hah-hah! Sleep the sleep of death,
+1	419	Mwah-hah-hah! The Hero Rush is halted!
+1	428	Mwah-hah-hah! There's no use waving your'
+1	669	Mwah-hah-hah! This foolish hero wandered
+1	422	Mwah-hah-hah! Weaklings! You couldn't'
+1	59	Mwah-hah-hah! You have served me well,
+1	393	Mwah-hah-hah-ha-hahahaha-HAH!
+1	272	Mwah-hah-hah-haaaah!!!
+1	418	Mwah-hah-hah-haaah! Enjoy your eternal
+1	62	Mwah-hah-hah-hah-HAAAAAHHHH!!!
+1	437	Mwah-hah-hah-hah-haaaa!
+1	57	Mwah-hah...whatever...
+1	233	My Chamber has become even more amazing
+1	48	My Lord! Are you trying to test my
+1	641	My Lord! It should have been so simple.
+1	438	My Lord! Now that I have returned, a
+1	441	My Lord! Send these heroes away, and
+1	664	My Lord! You may find some surprising
+1	23	My Lord! You're just too slow!'
+1	394	My Lord!? What in the Underworld...?
+1	237	My Lord, God of Destruction!
+1	11	My Lord, God of Destruction, you've made'
+1	7	My Lord, God of Destruction, you've'
+1	640	My Lord, I apologize, but my analyst
+1	518	My Lord, I can tell you wanted to make
+1	364	My Lord, I can tell you're itching to'
+1	641	My Lord, I don't mean to be unduly'
+1	422	My Lord, I humbly request your
+1	36	My Lord, I know I asked a lot of you,
+1	527	My Lord, I take it you can't deal'
+1	391	My Lord, I trust you will join me.
+1	613	My Lord, I want you to take this
+1	524	My Lord, I'm sure you've been on the
+1	613	My Lord, I've no doubt you've racked up
+1	632	My Lord, Most Mighty God of Destruction,
+1	37	My Lord, are you sure you fed up those
+1	522	My Lord, as we've promenaded together on'
+1	634	My Lord, but I've got a lot on my plate,'
+1	627	My Lord, did you manage to bag yourself
+1	20	My Lord, did you not listen when I told
+1	383	My Lord, do you wish to replay using the
+1	438	My Lord, from now on, both Badmella and
+1	625	My Lord, get to grips with mutation and
+1	30	My Lord, if you and I work together,
+1	635	My Lord, if you spawn too many Omnoms,
+1	623	My Lord, it seems you've racked up those'
+1	536	My Lord, pull your divine finger out.
+1	12	My Lord, that's a LOOOOOOOOOOOOOOOO-'
+1	540	My Lord, the fact that you've made it'
+1	530	My Lord, there are all sorts of ways of
+1	529	My Lord, there's no need to expend'
+1	35	My Lord, there's no plan B! You need to'
+1	512	My Lord, this is diabolical!
+1	441	My Lord, we have news from our spies
+1	32	My Lord, what's the matter with you?'
+1	527	My Lord, why not <col:255,0,153,255>press the R button</col> to
+1	53	My Lord, you are most hospitable!
+1	408	My Lord, you can't run away from your'
+1	9	My Lord, you did it!
+1	50	My Lord, you don't have the Dig Power to'
+1	391	My Lord, you must have sensed my burning
+1	24	My Lord, you must never give up! Even if
+1	511	My Lord, you need to knuckle down and
+1	373	My Lord, you wish me to incant the
+1	633	My Lord, you're a disgrace to malevolent'
+1	620	My Lord, you're so fly! You've turned
+1	4	My Lord, you've made this cynical, jaded'
+1	617	My Lord, you've spawned a small army'
+1	402	My Lord. But it looks like you're'
+1	10	My Lord. I really am in awe of
+1	34	My Lord. We'll make them rue the day'
+1	443	My Lord... It's over at last. We'
+1	0	My Lord? Just remember to leave the
+1	392	My Lord? Remember, there's more than'
+1	76	My Lords!? Call yourselves Gods of
+1	79	My Lords, forgive my suspicious mind,
+1	93	My Lords, have you noticed that <col:255,0,153,255>digging
+1	57	My Lords, please dispatch those heroes
+1	61	My Lords, twin Gods of Destruction!
+1	85	My Lords, you should have focused
+1	73	My Lords, you're like glorious big wet'
+1	82	My Lords, you're so groovy...'
+1	4	My agents inform me that when they
+1	87	My beautiful Kingdom of Evil is ruined!
+1	215	My chamber may be impressive, but it
+1	135	My clothes are getting filthy, and the
+1	392	My devilish plans are coming to
+1	11	My eyes! My eyes! It's so bright!'
+1	542	My make-up's ruined! My hair's
+1	75	My twin Gods of Destruction, please
+1	234	My, my! It's from my Overlord ancestor!'
+1	120	N-N-No way! A Hydra!
+1	438	N-No way! Dad!!!
+1	39	NNNOOOOOO!!! This can't be happening!!!'
+1	534	NOW!
+1	13	Never forget that, My Lord!
+1	616	Never forget that.
+1	25	Next time, try getting other monsters
+1	239	Next up, it's Level 4!'
+1	418	Next up, we have a party of three
+1	433	Next up, we've got a party of three.'
+1	264	Next!
+1	637	Next, dig away all the blocks of soil
+1	63	Nice try, darling daughter, but I know
+1	434	Nnnngghh... I'm full...'
+1	442	No matter how many monsters fell at the
+1	57	No more boring lectures!
+1	434	No way! He's saying really boring'
+1	433	No way! I thought that last one was a
+1	436	No way. You did it. I'm actually quite'
+1	418	No! We mustn't let them escape like'
+1	78	No, Badmella. It's precisely set-backs'
+1	435	No, not you, silly. The heroes.
+1	2	No, those are tip-top, stop-dragons-
+1	73	No, you need a man you can rely on when
+1	190	No, you shouldn't be! Choose a'
+1	625	No, you silly deity, that's none other'
+1	393	Noneim! I'm counting on you!'
+1	643	Not bad for a pickaxe!
+1	108	Not bad! Not bad at all! This is a pretty
+1	414	Not that I care. It's up to you.'
+1	238	Not that I expect that was difficult
+1	412	Not that if they happen across me, they
+1	271	Not that it makes much difference.
+1	618	Not to insult your intelligence, but the
+1	35	Nothing but a Mara would even have a
+1	19	Nothing riles me more than these heroes
+1	535	Now I look set to die, a tragic heroine
+1	9	Now I'm not quite sure what to say!'
+1	408	Now get back into that dungeon and dig
+1	11	Now he's graduated to a King of Bling,'
+1	523	Now here's the good news. Kill the hero,'
+1	440	Now hurry up and dig a fiendish dungeon
+1	57	Now laugh demonically!
+1	542	Now listen. Pickaxe. If you really want
+1	297	Now shut up and get digging, Pickaxe.
+1	391	Now then. Move me to select the area
+1	419	Now they know that the wrath of our god
+1	57	Now they're gearing up to launch an'
+1	10	Now we just need a name for our
+1	86	Now we just need an inauspicious date
+1	232	Now you can put my delightful daughter
+1	59	Now, Badmella, explain to these evil
+1	63	Now, Badmella, my dearest daughter...
+1	624	Now, Dragons hatch from Dragon eggs, of
+1	16	Now, My Lord - what say we go for a
+1	613	Now, My Lord, I shall bid you good day.
+1	666	Now, My Lord, as you may be aware,
+1	56	Now, My Lords! I trust you know why I've'
+1	56	Now, My Lords, you have been summoned
+1	418	Now, about the next stage - the heroes
+1	664	Now, did you know that by selecting
+1	21	Now, don't think I'm not sympathetic.
+1	1	Now, each of the heroic whelps who
+1	31	Now, he can't be expected to take on'
+1	30	Now, in this task, the direction the
+1	393	Now, let's head to Area 3: Castle'
+1	89	Now, let's just decide on a date and'
+1	392	Now, let's turn our attention to that'
+1	636	Now, level with me, My Lord. You aren't'
+1	438	Now, now, Badmella. Don't cry until the'
+1	429	Now, pull yourself together and face
+1	48	Now, rain destruction on those
+1	429	Now, take that potential and turn it
+1	661	Now, the arrow beside the hero's name'
+1	422	Now, the next hero is an alchemist.
+1	419	Now, there is one hero left to defeat.
+1	634	Now, there's no doubt the dungeon food'
+1	393	Now, those heroes may be hateful, but
+1	38	Now, those two thuggish bouncer types
+1	56	Now, to put it simply, it's a kind of'
+1	88	Now, to use the dark arts to pay a
+1	431	Now, what do we have next? Ooh, these
+1	393	Now, while the finest unlicensed witch
+1	391	Now, without further ado, let's head to'
+1	631	Nutrient circulation is the foundation
+1	372	Nyceknowingyou spell and let you retire
+1	630	O Almighty Evil One, were your water
+1	56	O Badmella, beloved daughter of mine!
+1	30	O, Almighty One!
+1	60	O, Gods of Destruction! Unleash your
+1	69	Of all the pathetic whelps in the realms
+1	20	Of course, if you overdo it, you'll end'
+1	38	Of course, that's easy for me to say!'
+1	420	Of course, there are also risks
+1	394	Oh I get it. I spent countless sleepless
+1	434	Oh My, Pickaxe, you're as tough as'
+1	243	Oh dear. I'm sorry, but there's no
+1	411	Oh ho ho! Looking very good, My Lord!
+1	417	Oh no! And there's another one on the'
+1	441	Oh no! Not a Hero Rush!
+1	417	Oh no, My Lord! There are more horrible
+1	56	Oh yeah, whoever's digging for me - '
+1	391	Oh! And who's this we have here?'
+1	74	Oh, Auntie Mallory. You're a bit early'
+1	619	Oh, I almost forgot! Luckily, I wrote
+1	4	Oh, I'm sorry, My Lord.'
+1	428	Oh, about Extra Heroes - they usually
+1	622	Oh, and Liliths eat Omnoms as well as
+1	414	Oh, and apparently, Extra Heroes don't'
+1	614	Oh, and did you know that if you keep
+1	632	Oh, and don't forget to position me in'
+1	619	Oh, and in case you were wondering,
+1	616	Oh, and when water flows, it will carry
+1	56	Oh, and whoever's digging for my dad -'
+1	229	Oh, and, um...you can toggle Dungeon
+1	427	Oh, and...
+1	615	Oh, at the bottom right of the screen,
+1	69	Oh, but I REALLY hate heroes who level
+1	414	Oh, by the way, I heard something
+1	423	Oh, by the way, only certain specific
+1	673	Oh, by the way, you can check out our
+1	435	Oh, come on, dad! Can't you come out'
+1	655	Oh, did I mention that if you give the
+1	424	Oh, goodness. And here come another
+1	236	Oh, greetings, My Lord!
+1	541	Oh, hear me, evil pickaxe! Come out!
+1	391	Oh, is that right? I must be getting you
+1	393	Oh, it isn't you. Hm. I suppose you're
+1	656	Oh, one last thing! <col:255,0,153,255>Press the L button</col>
+1	410	Oh, really? Well then, select an area
+1	444	Oh, sorry, dad. This is the ending,
+1	425	Oh, speaking of traps, have you come
+1	435	Oh, that was one of the catchphrases
+1	429	Oh, this time it's Extra Heroes again.'
+1	444	Oh, um, ah... I never doubted you for a
+1	529	Oh, woe is me! Curse those annoyingly
+1	654	Oh, you are aware that you've got super'
+1	429	Oh, you let them get away. You know
+1	256	Oh, you want me to use the powerful
+1	122	Oh-ho! %ssummoning now,
+1	422	Oh-ho. What have we here? Looks like
+1	425	Oh. According to the Scouts Express,
+1	444	Oh. Not so much, eh?
+1	417	Oh. They ran off. Must have murdered
+1	22	Oh... My... God!!!
+1	611	Oh? Do you wish to quit the game
+1	429	Ohhh. Even my amazing Overlord's eyes'
+1	186	Okay! Let's do this!'
+1	187	Okay! Show me how you Gods of
+1	66	Okay, Badmella! Just watch how your
+1	221	Okay, I'm going to summon them now.'
+1	435	Okay, Pickaxe, there's three heroes on'
+1	432	Okay, let's get smashing those heroes'
+1	366	Okay, let's stay just where we are.'
+1	425	Okay, onto the next wave of hero scum!
+1	133	Okay, put me somewhere nice and safe.
+1	171	Okay, see you in a bit!
+1	43	Okay, select another area.
+1	74	Okay, so one of you might be flat and
+1	187	Okay, well where should I stand, then?
+1	427	Okay. Well, I'll just pop up there and'
+1	377	Okay. Well, save your data and go out and
+1	444	Okay...
+1	639	Omnoms will <col:255,0,0,255>starve</col>. Then look out for
+1	62	Omnoms.
+1	522	On this stage in particular, you can
+1	240	One final hill left to climb. One last
+1	624	One of my very favorite sights is a
+1	89	One of these suitors seems to be staring
+1	653	One quick tip before battle commences:
+1	56	One will serve my horde, the other will
+1	286	Only a couple, though.
+1	433	Ooh! Extra Heroes! And there's'
+1	441	Ooh, it's time for the grand finale!'
+1	439	Ooh, look, the soil's sucking up all'
+1	437	Ooh, that was close! Another shock like
+1	96	Ooh, that's that pick you've always
+1	432	Ooh, you're a lightning-fast dungeon-'
+1	234	Ooh... Ahhhh......
+1	297	Oops! I almost forgot - I need to
+1	437	Oops, I've got a text!'
+1	58	Or a Slimemoss!? A good man's hard to'
+1	89	Or a spray of fragrant <col:255,0,153,255>Lilith Pheromones</col>
+1	423	Or at least, you can exchange them for
+1	520	Or did you make a mistake and just let
+1	81	Or have you already been using it to the
+1	627	Or maybe you've completed this training'
+1	30	Or perhaps the problem is a lack of
+1	444	Or the shrill shriek of a Lilith as she
+1	444	Or the sight of a Hurtle stoically
+1	30	Or you can focus on carrying nutrients
+1	24	Or you can guide Spirits and get them to
+1	113	Or you could consider thinning out the
+1	85	Or you could have <col:255,0,153,255>led them to water</col> and
+1	542	Otherwise, heroes will just pick them
+1	531	Ouch! You know, My Lord, when pacier
+1	282	Our destination is in sight at last!
+1	66	Our plan today wasn't to repel heroic'
+1	438	Overlord trouble! It'll be all manner'
+1	4	Overlord very happy. I salute you.
+1	391	Overlord would I be if I didn't set out'
+1	2	Overlord!? No, sir. It's lonely at'
+1	393	Overlord's darling daughter...'
+1	393	Overlord. So much to do. So many
+1	432	Overlords can't die...can they...?'
+1	525	Pah! I'll bet these heroic cretins'
+1	269	Paint me a pretty pickture, Lord!
+1	525	Pathetic!
+1	97	Pause Menu on the World Map Screen</col>.
+1	536	Pay attention to heroic utterances and
+1	171	Perfect. The phone reception's great!'
+1	30	Perhaps a God of Destruction isn't'
+1	655	Perhaps you've spawned a mighty monster'
+1	405	Phenomenal! Top notch! Spiffy! Fab!
+1	530	Pheromones released by Liliths...
+1	169	Phew! I was sending Overlord mind
+1	14	Phew...
+1	526	Place land-based monsters at the
+1	93	Play nicely now!
+1	66	Please accept my apologies, My Lords.
+1	46	Please insert some storage media containing
+1	514	Please note, My Lord, that Mages' basic'
+1	519	Please note, My Lord, that the next hero
+1	380	Please wait a moment...
+1	382	Please wait for a while...
+1	186	Please, for goodness sake, don't do'
+1	438	Please...shut...up...! This...is...
+1	6	Polish your culling skills and use
+1	57	Posture this! Posture that! Who cares
+1	8	Power for boosting our forces.
+1	626	Power hitting a certain level.
+1	414	Power won't go up, so it's like having
+1	537	Power you'll need to have left in order'
+1	294	Power! What are you going to do now,
+1	1	Practice makes perfect, My Lord!
+1	7	Praise be to you, My Lord!
+1	391	Praise be to you, almighty deity of
+1	99	Press the START button if this is the
+1	613	Pressing both the L and R buttons on the
+1	297	Pretty snazzy, eh?
+1	412	Pull yourself together and give them
+1	33	Put down the pickaxe, My Lord!
+1	81	Put your axe heads together and come up
+1	420	Quickly! Engage evasive maneuvers!
+1	413	Quickly, get ready to give those heroes
+1	409	Quit
+1	413	Quite a convincing evil speech, don't'
+1	62	R-Really? I mean, it was just a giggle
+1	280	Rain down the non-magical pain, My Lord!
+1	21	Read the manual or pay a little visit to
+1	296	Really? Is that so? Well, why don't'
+1	61	Really? That's the nicest thing you've
+1	257	Really? You want me to use the powerful
+1	70	Relentlessly picky and selfish beyond
+1	622	Remember - you can check heroes''
+1	295	Remember that, and you won't go far'
+1	639	Remember this little ditty and you'll'
+1	657	Remember, My Lord, if you want to bone
+1	428	Remember, scouts leave after wandering
+1	21	Remembering every monster you can summon
+1	443	Repeat after me...
+1	28	Repeat that, and you'll have 99 Molds'
+1	57	Reports suggest some sly heroes were
+1	219	Right, choose the heroes you wish to
+1	256	Right, let's continue, shall we?'
+1	44	Right, let's get on with plotting world'
+1	428	Right, the next batch of heroes will be
+1	415	Right, win this one, and that's our'
+1	377	Right. Well, when you're refreshed,'
+1	613	Right. What I'm trying to say is that we'
+1	623	Runeborn monsters all have a most
+1	418	Rush stage, where the heroes just keep
+1	368	S Rank, My Lord!
+1	234	SIGNED 1ST OVERLORD.~
+1	226	Save Data → Load.
+1	276	Say ~hooray~! ...Ah, forget it.
+1	226	Screen by selecting Options → Manage
+1	410	Screen?
+1	427	See you in a bit. Oh, sorry. Almost
+1	263	See you next time, sire!
+1	444	See you, Pickaxe! Come and play again
+1	66	See you, Pickaxes! I really dig your
+1	297	See, dad agrees with me. That's the'
+1	59	Seems your job's pretty easy, dad.'
+1	59	Sending weedy heroes like that to topple
+1	227	Set the depth of your dungeon and the
+1	401	Shall we go, My Lord, and wreak
+1	74	She was saying that as your sister she
+1	234	Should I press the button?
+1	419	Show me that you can continue to ride
+1	91	Shuffle is performed!
+1	15	Simply magnificent, My Lord!
+1	56	Since his job is killing heroes, we
+1	237	Since you're doing so well, why not'
+1	31	Skelewife and Skelekids...
+1	431	Skillful dungeoneers only dig dungeons
+1	36	Slain monsters spew forth their mana and
+1	515	Slay heroes fast to earn a <col:255,0,153,255>Time Bonus</col>
+1	84	Slimeblossoms don't bloom when you're
+1	30	Slimemosses travel in will be determined
+1	23	Slimemosses.
+1	74	So I promised I'd find her someone,'
+1	393	So I've got no choice as his sole'
+1	623	So a Wookiemon boosts the defense of
+1	378	So be it. Well, I hope to find you in
+1	522	So dig <col:255,0,153,255>narrow</col> corridors and water
+1	84	So don't sit back if they're dragging my
+1	28	So don't vex your divine brain too much'
+1	265	So don't!'
+1	636	So dust yourself off, My Lord and try
+1	641	So get it right next time, you useless,
+1	516	So get your monsters to look out for
+1	241	So give those a go as well if you want
+1	90	So my husband-to-be brings a girl pal
+1	417	So once they've worked up enough of a'
+1	616	So outside their watery natural habitat,
+1	3	So pink and squidgy! I could gaze at it
+1	664	So put your feet up and have a look,
+1	519	So relax, calm your pick-arm and take
+1	615	So relax, spawn hideously powerful
+1	631	So start by digging soil that looks like
+1	443	So that's a Hero Rush, is it? Nice'
+1	56	So that's the plan, My Lords! I want you'
+1	9	So the beast sealed within the Colossal
+1	428	So the best approach is still to try
+1	613	So there. Now go back and do it properly.
+1	677	So they finally made it...
+1	32	So they're weak and very demanding...'
+1	83	So this rugged type's going to be my'
+1	29	So we have to wait a wee while? Well,
+1	23	So when the mood takes you, My Lord, why
+1	119	So you definitely need them around
+1	438	So you go ahead and enjoy double the
+1	241	So you might have mastered all the
+1	254	So you want me to use my r-r-renowned
+1	372	So you want me to whip out the secret
+1	377	So you want to go outside and play?
+1	43	So you want to head to Badman's Chamber?'
+1	372	So you were just letting off a little
+1	74	So you weren't looking for a husband for'
+1	378	So you're not on top form today and you'
+1	274	So, I suppose I'd better wish you'
+1	74	So, Mallory - take your - ahem - pick.
+1	418	So, My Lord, are you finally getting
+1	36	So, My Lord, even when your Dig Power is
+1	27	So, My Lord, when they act up, just give
+1	66	So, My Lords, if what my dear daughter
+1	295	So, here we are. I know, I know. I said
+1	271	So, it's time for the heroes to arrive.'
+1	289	So, it's time for the last hero...'
+1	444	So, so many of them...
+1	260	So, the time has finally come for the
+1	394	So, was there some unfinished business
+1	129	So, where are you going to put me?
+1	124	So, where would you like me to stand?
+1	128	So, where's my VIP seat, then?'
+1	56	So, yes. That's why I summoned you'
+1	415	So, you managed to smash those heroes
+1	30	Soil within approximately a 3 block area
+1	84	Some heroes can use <col:255,0,153,255>disguises</col>,
+1	433	Someday...
+1	3	Sometimes you just want to see weird
+1	634	Sorry I didn't tell you that earlier,'
+1	104	Sorry, I can't give you any advice. You'
+1	12	Sorry, I got a bit carried away. But
+1	32	Sorry, I just had to call a halt to it.
+1	258	Sorry, My Lord. You can't retry a stage'
+1	435	Sorry, but it's Game Over for you...'
+1	613	Sound familiar, My Lord?
+1	7	Souper Hurtles into shape!
+1	61	Speaking of Overlord's jobs, I need to'
+1	439	Speaking of heroes' corpses, have'
+1	61	Spinning a tapestry of trickery and lies
+1	636	Spirits behave in precisely the
+1	637	Spirits in runes' immediate vicinity'
+1	637	Spirits to march into its maw.
+1	622	Spirits. My daughter says it's why their'
+1	405	Splendid! Magnificent! Extraordinary!
+1	378	Splendid. Wanting to see things through
+1	409	Stay
+1	264	Step 2's through!'
+1	281	Step 7 starts here!
+1	284	Step 8 is about to start! Eight's'
+1	287	Step 9's starting! Get your picking'
+1	412	Still, I shouldn't belittle your'
+1	430	Still, a nice warm-up for the last
+1	68	Still, it's always nice to have a few'
+1	9	Still, keep searching for new fossils
+1	86	Stop brooding, dad. You know what
+1	24	Stop! Cease! And desist!
+1	25	Stop, My Lord!
+1	46	Story Mode data as fast as you possibly
+1	10	Such speed! Such grace! Truly, you
+1	56	Sure!
+1	70	Surely one half-decent hero's going to'
+1	444	TERRIBLE NIGHTMARES!!!
+1	629	Take a long hard look at the soil first.
+1	391	Take a look at this world!
+1	523	Take your alchemists. It seems they can
+1	254	Takin' it back for a blast from the'
+1	637	Tap that block to get a rune!
+1	633	Tap the rattling soil blocks and water
+1	633	Tap them to get your Water Lilies!
+1	438	Thank...you...so very...much... Here...
+1	57	Thanks, heroes!
+1	613	That couldn't be further from the truth.'
+1	271	That either means they're very close'
+1	435	That enough trumpet-blowing for you?
+1	435	That felt good! Oh, sorry, I just
+1	528	That goes for other heroes too.
+1	414	That means the heroes will just keep
+1	232	That means you can experiment with
+1	640	That means, if he can't go right, he'll
+1	539	That might be the way to get the
+1	5	That reward's as good as ours!'
+1	11	That shimmering golden hue could only
+1	24	That soil right in the center of the
+1	14	That was a close one, My Lord.
+1	17	That was an awesome performance,
+1	627	That was the moment!
+1	34	That way, even if they snare me and try
+1	224	That way, if there's any you're having
+1	27	That way, they'll see the error of their'
+1	8	That way, you can save valuable Dig
+1	632	That way, your monsters' power won't be
+1	7	That'll be perfect for dealing with'
+1	81	That'll buy you more time to put your'
+1	259	That's Step 1 done and done!'
+1	288	That's Step 10 taken care of!'
+1	267	That's Step 3 seen to! But the games are'
+1	270	That's Step 4 finished. Goodness, look'
+1	273	That's Step 5 finished with. Wow, 50'
+1	279	That's Step 7 done and done!'
+1	285	That's Step 9 nailed! There's no
+1	627	That's a Dragon Orb. Gather a few more'
+1	613	That's a deeply wonderful thing. But'
+1	66	That's all for today. Thank you both'
+1	123	That's all the advice I've got for you
+1	628	That's all there is to it!'
+1	618	That's easier said than done, My Lord.'
+1	433	That's great, eh? We can get three out'
+1	444	That's it. I've said my piece...
+1	444	That's just how it is, right?'
+1	59	That's my girl! Let's give those heroes
+1	26	That's no good at all!'
+1	368	That's rather good.'
+1	438	That's right! Badman's back
+1	92	That's right, dungeon-diggers, you get'
+1	6	That's some fine culling, My Lord!'
+1	636	That's the way to do it, My Lord!'
+1	25	That's the way to whittle down their HP'
+1	79	That's two heroes with one stone!'
+1	71	That's what I like to see! Two vengeful'
+1	2	That's why I told them that they didn't
+1	665	That's why it's a good idea to feed up
+1	38	That's why the safest option is to'
+1	65	That's why we've got this darn conveyor
+1	32	That's why you need to carefully present'
+1	32	That's why you need to tap their prey'
+1	236	The Daily Challenges come in chunks of
+1	28	The Lilies will release nutrients which
+1	631	The Nutri-Go-Round
+1	442	The Pick who Gets it...Puck!
+1	413	The Underworld is my love-nest, not the
+1	413	The Underworld is no place for young
+1	260	The bar's not been set too high this'
+1	31	The best approach is to dig detours to
+1	12	The clue's in the name.'
+1	625	The crucial thing is that with its burly
+1	72	The custody battle would be apocalyptic.
+1	20	The deadline for entry to the monster
+1	393	The doctor warned him about
+1	289	The dragged-on warrior...
+1	82	The dungeon is a tough task mistress.
+1	265	The dungeon itself is also split into
+1	515	The dungeon was a right old mess at
+1	622	The dungeon's brimming with lovely,'
+1	275	The end of the road! Iiiit's...Step 5!!!'
+1	441	The fate of the world rests on this one
+1	289	The final fantasist...
+1	28	The first step is to master the basics.
+1	519	The first two times, the hero is alone,
+1	425	The force of the explosion is amazing,
+1	1	The goal is to be able to know instantly
+1	220	The heroes are on their way. Pour
+1	641	The idea was to get your hands on the
+1	25	The important thing is that the Omnom
+1	24	The key here is understanding the way
+1	239	The light of your brilliance, Lord,
+1	432	The monsters you dug up were so good,
+1	418	The next one is on his way right now!
+1	33	The not-so-glorious revolution
+1	631	The nutrient cycle can be a complex
+1	636	The only difference is that one sucks
+1	382	The other God of Destruction is
+1	380	The other God of Destruction is deep
+1	385	The other God of Destruction seems to
+1	386	The other pickaxe has got fed up.
+1	113	The ratio of the %s
+1	629	The sands of time have run away,
+1	60	The seas will effervesce and the heavens
+1	234	The sound of something opening
+1	89	The speed of these impudent pups!
+1	524	The state of a hero's motivation can be'
+1	21	The test is over! Put down your pickaxe
+1	67	The thought of my daughter shacking up
+1	638	The thought will keep me going while
+1	265	The time has come for the heroes to
+1	296	The time limit will carry on counting
+1	37	The tough hero had such eye-wateringly
+1	444	The world will never know peace, and...
+1	435	The...heroes...are...coming!
+1	34	Their HP was so far off the scale that
+1	424	Their first priority is monsters, but
+1	9	Their fossilized forms are exhumed from
+1	441	Their names may be silly, but their
+1	82	Then <col:255,0,153,255>Priests and Warriors will be unable</col>
+1	639	Then by getting Omnom Flies to breed,
+1	235	Then hurry up and finish your daily
+1	635	Then it's just a matter of furnishing'
+1	28	Then simply cull them again!
+1	537	Then you can calculate just how much Dig
+1	35	Then you can dig side tracks with the
+1	537	Then you can invite in the heroes you've'
+1	531	Then you'd feel my pain...'
+1	38	Then you'll be able to minimize the'
+1	633	Then, if you can remain patient a while
+1	31	Then, when he turns into a Corpse King,
+1	425	Then, when heroes come and try to open
+1	623	There are all sorts of monsters just
+1	619	There are also levels in the realm of
+1	103	There are currently, let's'
+1	418	There are more heroes on their way to
+1	436	There are...two heroes...approaching...
+1	438	There is no escaping it, just as there
+1	5	There it is! A Herculomnom!
+1	2	There needs to be someone in charge!
+1	61	There was no sincerity in my
+1	75	There! I've finished my homework!'
+1	295	There'll be heroes along in a little'
+1	280	There'll be heroes here soon, and they'
+1	295	There's a very good reason. Just put'
+1	20	There's a worrying absence of Dvagons!'
+1	391	There's all sorts of fancy new areas and'
+1	435	There's another Extra Hero on the way.'
+1	540	There's just something going awry.'
+1	626	There's no guarantee, mind you.'
+1	296	There's no soil there, so it's no place
+1	241	There's not a puzzle in the world too'
+1	516	There's nothing I like less than sly,'
+1	615	There's now 10 more Slimemosses in the'
+1	442	There's someone coming!'
+1	443	There's someone on their way here!'
+1	67	There's something about a rusty copper'
+1	626	These circumstances might be a
+1	523	These heroes are a most disreputable
+1	618	These heroes are sly and they'll work'
+1	70	These heroes are the pits! I can't stand'
+1	526	These heroes have a lot of gaul.
+1	62	These heroes will pay!
+1	626	These heroic hellraisers are a most
+1	62	These lectures are boooooring!
+1	70	These losers will do anything to avoid
+1	428	These nosy slackers just come along,
+1	518	These two heroes boast skills that mean
+1	79	They <col:255,0,153,255>don't seem to have ranged attacks</col>'
+1	516	They can also disguise themselves as
+1	534	They can launch magic attacks or spray
+1	68	They didn't even look like proper'
+1	417	They didn't find me, which is the main'
+1	2	They do have to face rampaging heroes on
+1	414	They don't come to look for me, but for'
+1	637	They go in a straight line until they
+1	417	They head home once they've had'
+1	429	They look like scouts though, so I'll'
+1	27	They might talk the talk, but they're'
+1	424	They seem pretty <col:255,0,153,255>weak against magical
+1	422	They seem to be on some kind of
+1	2	They tell me I don't appreciate how hard'
+1	28	They will grow into Water Lilies again
+1	429	They'll just take a look around and'
+1	84	They'll need to buy some glossy wedding'
+1	427	They'll only get confused if you go and'
+1	622	They'll reduce heroes who are vulnerable'
+1	413	They'll still tie me up and take me'
+1	79	They're all rusty and misshapen and'
+1	236	They're bite-sized portions designed to'
+1	58	They're both going to do all they can'
+1	112	They're extremely effective against'
+1	435	They're here to do some level-grinding,'
+1	413	They're here to level-grind, and'
+1	268	They're here.'
+1	433	They're just here to get as much'
+1	422	They're like mages in that they attack'
+1	111	They're much more useful against heroes'
+1	424	They're so annoying with all their holy'
+1	436	They...will...be...here...very...
+1	361	Things didn't pan out as you'd hoped.
+1	190	Think carefully, now. If I get carried
+1	537	This area is mid-campaign and the heroes
+1	13	This can come in very handy for keeping
+1	519	This despicable episode was an example
+1	524	This hero's cheery grin and rosy cheeks'
+1	656	This is a nice way to save time when
+1	613	This is actually the third time I've'
+1	57	This is boooooooooring!
+1	613	This is gold-plated advice I'm giving'
+1	78	This is great!
+1	85	This is more like it! Now, these are the
+1	540	This is most regrettable...
+1	541	This is no fun! I'm going back to the'
+1	540	This is so incredibly, unbelievably,
+1	534	This is so unfair...
+1	625	This is the bug that appears when large
+1	224	This is the place to come if you want
+1	41	This is the text displayed when you
+1	12	This is training, so naturally you're'
+1	413	This is where my darlings dwell! The
+1	236	This is where you can flex your
+1	422	This lot don't seem too tough, so just'
+1	3	This means it's usually unheard of for'
+1	417	This one looks like a martial artist
+1	435	This one's after experience, so it'll
+1	363	This replay is too long, and cannot be
+1	531	This rope doesn't half chafe against'
+1	24	This time you were aiming for soil with
+1	613	This time, I've included monsters and'
+1	618	This time, our hapless hero came alone.
+1	641	This wasn't the way it was meant to go,'
+1	391	This won't do at all! What sort of evil'
+1	654	Those barbaric heroes are at the gates,
+1	34	Those beastly heroes had monstrous
+1	534	Those floaty things Shamans shoot out
+1	14	Those heroes have definitely been up to
+1	27	Those smart-alecks claim they're full'
+1	424	Those types of puffed-up do-gooders are
+1	540	Though of course, you shouldn't get'
+1	84	Three grooms, no less! This could be
+1	34	Throw everything you've got at them,'
+1	430	Throwing that weird water about the
+1	57	Throwing your head back and laughing
+1	538	Tied up by a beautiful hero showing
+1	655	Time Bonus will be.
+1	290	Time for you to take on Step 10!
+1	266	Time to do Step 2!
+1	631	Time's up, My Lord! But there's always
+1	16	Times have changed, My Lord. We live in
+1	9	To be honest, I was just thinking of
+1	34	To do that, My Lord, you're going to'
+1	23	To do that, you need to first prepare
+1	620	To get the bestest, baddest monsters,
+1	517	To keep the hero out of your hair, focus
+1	23	To make a Slimeblossom with 8 or more
+1	543	To think, I was revived just to witness
+1	86	To think, a heroic cretin like that
+1	239	To witness work of this magnificence is
+1	24	Today didn't go to plan, but I know you'll
+1	85	Together we can rule the world!
+1	82	Too bad, my friends!
+1	27	Tough love is what those Souper Hurtles
+1	296	Tower. Not that we can see anything
+1	391	Tower. That's the one on the left of'
+1	415	Tower. You're doing quite well.'
+1	119	Training Mode.
+1	60	Training.
+1	13	Truly, monster's IQ development is the'
+1	429	Try and defeat them before they run
+1	80	Try ideas like digging your dungeon in a
+1	514	Try to avoid making your dungeon too
+1	60	Try to sound a bit more like the sole
+1	637	Turning now to the runes you need to
+1	234	UPDATE. UPDATE BAD. BETTER NO PUSH.
+1	672	Ugh! Hideous heroes on the loose!
+1	524	Ugh! It's so bright! It's so beautiful!
+1	441	Ugh. I've got more power in my little'
+1	441	Ugh...
+1	442	Uh-oh!
+1	80	Uh-oh. I think my dad's losing his grip'
+1	268	Um, sorry to spring it on you like
+1	190	Umm, okay. You're the boss!'
+1	230	Umm...that one, and...
+1	405	Ummm. So. Let's commence the assault'
+1	84	Ummm... Dream on, dad.
+1	56	Ummm... Sure. Okay. Nice one, dad.
+1	423	Underworld if they knew that all there
+1	73	Underworld itself!
+1	39	Underworld that gets my sacrificial goat,
+1	541	Underworld to summon a more evil pickaxe
+1	674	Underworld! Yes. I'm talking about'
+1	615	Underworld, all thanks to you!
+1	418	Unfortunately, no matter how good you
+1	614	Unleash your awesome and malevolent power
+1	17	Until the wretched hero opens the lid,
+1	693	Urgh! A couple of lovebird heroes!
+1	79	Urgh! Giant pickaxes in love with me!?
+1	391	Urgh! Look at this place! So peaceful
+1	37	Urgh! The bitter taste of utter failure!
+1	34	Urgh! They were just too powerful!
+1	37	Urgh, the thought makes me want to
+1	76	Urgh...
+1	435	Urgh... As long as there is...evil in
+1	435	Urgh...! They're...coming...!'
+1	438	Urgh....
+1	593	Urgh...it seems to me like you were
+1	635	Use this digging technique to spawn a
+1	526	Use water to bring monsters to areas
+1	16	Use water to reduce your dungeon
+1	8	Use what you've learned today when'
+1	81	Use your <col:255,0,153,255>pickaxe skills at the same time</col>
+1	68	Useless, weren't they, My Lords?'
+1	616	Utilize this wisely and you can repel
+1	235	Very well.
+1	256	Very well. Go and absorb some nutrients
+1	257	Very well. I hope your change of heart
+1	263	Very well. I will await your return.
+1	383	Very well. Let us proceed.
+1	295	Very well. Let's begin!'
+1	263	Very well. May the dungeoneering
+1	257	Very well. Okay, we're skipping this'
+1	261	Very well. On with the show!
+1	383	Very well. Please choose the
+1	426	Victory! Our incredibly well-
+1	537	WHY-OH-WHY-OH-WHYYYYYY!?!?!?!?
+1	412	Waaaaaaaah!~ It's very ungodly!'
+1	391	Wait a minute? Your hideous gnarled
+1	639	Wait, watch 'em die, look for the sign,'
+1	44	Want to head to Badman's Chamber?'
+1	623	Want to hear a fun fact? Runeborn
+1	365	Want to watch it again, My Lord?
+1	534	Warriors are one thing, but Shamans have
+1	444	Was it fun?
+1	444	Was it just an easy way to kill
+1	630	Water always flows downwards. That's a'
+1	527	Waves of heroic dolts lining up to
+1	424	We can't continue to let these kinds of'
+1	437	We could make a bit of money from the
+1	64	We did it! Everything worked like
+1	442	We did it, My Lord!
+1	393	We haven't got much time, so let's get
+1	436	We might as well give them gift-wrapped
+1	36	We must fight to the very end and wipe
+1	437	We should write this tear-jerker down.
+1	444	We thought we were going to get killed
+1	61	We took the castle!
+1	416	We were underground the whole time, so
+1	444	We'll carry on fighting those who'
+1	444	We'll carry on guarding the world'
+1	444	We'll carry on living our lives to the'
+1	63	We'll get back to your training, just'
+1	30	We'll pull through!'
+1	434	We're an Omnom's whisker from bringing
+1	293	We're out of Dig Power! There's not
+1	402	We've already conquered that area,'
+1	511	We've barely got started and we've
+1	64	We've got more company.'
+1	225	Welcome to Badman's Chamber! Do you'
+1	224	Welcome to Badman's Chamber!'
+1	236	Welcome to Dungeon-a-Day Mode!
+1	242	Welcome to Dungeon-a-Day Mode, My Lord.
+1	254	Well alright, but if I do, you'll lose'
+1	381	Well then, let's do it again.'
+1	400	Well then, shall we proceed?
+1	295	Well, <col:255,0,153,255>press the □ button to dig</col>.
+1	65	Well, I bet the big Pickaxes would have
+1	629	Well, I don't have a hat, but I'll be
+1	2	Well, I'm not entirely without sympathy.'
+1	278	Well, I'm sure.'
+1	63	Well, I've learned that shouting at the'
+1	626	Well, My Lord, if you keep pumping out
+1	65	Well, My Lords, I'm ready to throw in'
+1	678	Well, after all, you did invite them in,
+1	435	Well, he who fights and lets the other
+1	364	Well, here goes!
+1	297	Well, here we are in Area 3: The
+1	27	Well, if they're not going to listen to'
+1	613	Well, if you think of it as nonsense,
+1	444	Well, in this world, you can join
+1	391	Well, let's leave those trifling details'
+1	443	Well, most of it, at least. And it's'
+1	238	Well, now you're free to attempt Level'
+1	92	Well, remember that even if Badmella or
+1	444	Well, thanks to you, we've taken over'
+1	59	Well, that didn't look all that tough!'
+1	429	Well, that particular bird in the hand
+1	276	Well, that's Step 6 seen to. Hip-hip...'
+1	296	Well, that's probably for the best.'
+1	2	Well, the monsters didn't look too'
+1	403	Well, then. Stop messing around and
+1	423	Well, they're known as <col:255,0,153,255>Dragon Orbs</col>, and'
+1	81	Well, this hero turns up unfashionably
+1	515	Well, this is hardly the time to be
+1	431	Well, this kind of thing will happen if
+1	296	Well, well, well. Here we are at Ludgala
+1	625	Well, you can browse the Almanac to
+1	28	Well, you could cull Mold on the soil's'
+1	437	Well, you get fired up, I'll get'
+1	9	Whale I never! Ahem.
+1	440	What I need is the world, and after two
+1	393	What I'd really like is to sit back and'
+1	367	What a glorious spectacle of divine
+1	528	What a sorry shambles! My Lord,
+1	444	What an exciting journey of world
+1	74	What are you doing making an unscheduled
+1	10	What are you making that face
+1	60	What do you mean!? How am I supposed
+1	70	What does a girl have to do to find a
+1	58	What does it matter?
+1	110	What exactly are you up to? Are you
+1	443	What happened, did you bite your tongue
+1	532	What have you done!? My glittering debut
+1	441	What is it you young people say? Oh
+1	62	What is it, Badmella?
+1	63	What is it? And why are you talking in
+1	0	What is this blinding pink light I see?
+1	71	What is this!? Speed dating!?
+1	542	What is with these heroes!?
+1	72	What teamwork! Is there anything more
+1	27	What they really long for, deep down
+1	216	What would you like to do?
+1	62	What!? Those pitiful whelps dare to
+1	637	What's seems to be the trouble, My Lord?'
+1	613	What's that!? You think I'm spouting
+1	625	What's that, My Lord? A tapeworm!?'
+1	12	What's that, My Lord? You want to see'
+1	414	What's that? Why am I suddenly telling'
+1	235	What's that? You want to leave this'
+1	297	What's wrong with it, you big meanie?'
+1	439	What? Don't be stupid, pickaxes don't
+1	431	What? That wasn't a scouting trip! Did'
+1	427	What? That's it? That's all they had?
+1	423	What? That's pretty good, isn't it? At
+1	410	What? You want to go back to the Title
+1	635	When a Lizardman is well-fed, his little
+1	661	When damage is inflicted on heroes,
+1	618	When heroes turn up en masse, split them
+1	661	When it <col:255,0,153,255>points up</col>, they'll attack more,'
+1	525	When things get hectic, press the
+1	622	When you can't seem to dispatch a hero,'
+1	30	When you cull monsters, their nutrients
+1	296	When you've satisfied your curiosity,'
+1	127	Where d'you want me to stand?'
+1	47	Where do you want me to skulk, My Lord?
+1	281	Where it stops, nobody knows!
+1	134	Where shall I stand, then? Hurry up,
+1	5	Whether it's world-domination or raising'
+1	79	Which brings me onto the subject
+1	62	Which is where you come in, O almighty
+1	241	Which is why I recommend replaying each
+1	3	Which is why it's such a rare treat to'
+1	83	While he's busy making the wedding'
+1	666	While heroes are busy with this, you can
+1	672	While they're split up, focus on'
+1	295	While we're here, I suppose I'd better
+1	74	Who cares anyway? I give up!
+1	391	Who did it? I don't have the foggiest'
+1	435	Who...dares...disturb...my...slumber...?
+1	414	Why anyone wouldn't want to come'
+1	74	Why do these guys keep turning up with
+1	111	Why don't you try spawning some'
+1	431	Why even bother coming?
+1	535	Why must the beautiful die so young?
+1	76	Why not agree on strategies like
+1	512	Why not give <col:255,0,153,255>Training Mode</col> another shot,
+1	3	Why not try getting Liliths to absorb
+1	441	Why now, of all times?
+1	520	Why now?
+1	89	Why were they hurrying about the place
+1	542	Why'd they have to capture me? Couldn't
+1	242	Will it be a Daily Challenge or a God
+1	640	With a bit more thought, you should be
+1	75	With all due respect, that was a
+1	39	With luck, you might be able to wear
+1	637	With that in mind, you can dig a path
+1	0	With the big day just around the corner,
+1	13	With the dungeon bustling with little
+1	621	With the skills you've mastered, you'll
+1	14	With you on my side, My Lord, I can take
+1	614	With your Majestic Evilness looking out
+1	61	With your help, I was able to do my
+1	22	World domination is a lot less stressful
+1	374	Wottaloozza spell?
+1	46	Would you believe it!? No storage media
+1	217	Would you like to take things back to
+1	57	Would you mind waiting just a moment?
+1	121	Wow! A Shin Dragon! Maybe you are a
+1	65	Wow, that's your theory, dad? '
+1	432	Wow. Not bad for a pickaxe.
+1	530	Wretched heroes, running around like
+1	532	Write out the instruction manual ten
+1	16	Y-You did it, My Lord!
+1	372	Y-You don't? How marvelous!'
+1	295	Y-You haven't? My goodness, Lord, you'
+1	56	YOU WILL OBEY ME!!!
+1	640	YOU! LET! HIM! GET! AWAY!
+1	77	Yay! I finished my homework!
+1	76	Yay! I've finished my homework!'
+1	57	Yay! No more posture training!
+1	78	Yay! No more time for my training!
+1	60	Yay! That sounded cool! Go dad!
+1	66	Yay! We did it! Let's go home and have'
+1	61	Yay! We did it! We did it!
+1	436	Yeah! What he said!
+1	440	Yeah, I get it. A kind of ~thanks for
+1	515	Yep, those three-hero parties are a lot
+1	418	Yes, I know it's a little harsh, but it'
+1	8	Yes, I make that 99 Molds!
+1	391	Yes, I'm talking about <col:255,128,128,255>YOU</col>, staring at'
+1	634	Yes. Well. Ummm...
+1	68	Yet I fear more sub-standard suitors are
+1	78	You Pickaxes obviously don't get on.'
+1	1	You aced it, My Lord!
+1	23	You are trying my patience today,
+1	16	You bested that pesky hero without
+1	14	You build up your monsters' strength and'
+1	513	You can adjust the <col:255,0,153,255>difficulty level</col> by
+1	626	You can adjust the difficulty level on
+1	224	You can advance your dungeoneering
+1	444	You can be a fearless pick-wielding
+1	12	You can be a rather demanding deity at
+1	536	You can destroy the barrels and meat
+1	75	You can do it together, you know.
+1	641	You can do it, My Lord! You're the best!'
+1	17	You can either go with low-maintenance
+1	30	You can either keep culling monsters to
+1	9	You can even find regular, everyday
+1	91	You can even move my esteemed self and
+1	32	You can fling food at them, but they
+1	444	You can laugh with us, and maybe
+1	647	You can level up the monsters using
+1	646	You can level up your monsters using
+1	226	You can load save data from the Title
+1	231	You can now add monsters
+1	229	You can now find out all kinds of
+1	623	You can tell which rune is which by
+1	654	You can unleash these pickaxe skills by
+1	137	You can use Dig Power to level up your
+1	136	You can use Dig Power to strengthen
+1	530	You can use all of these to slow down
+1	635	You can't go over it too many times.'
+1	28	You can't grow Molds without having a'
+1	512	You can't win a war with Slimemosses'
+1	613	You clearly know this series inside-out,
+1	87	You could have used a <col:255,0,153,255>Scuffle Shuffle</col> to
+1	2	You did it, My Lord!
+1	627	You didn't manage to get it?'
+1	613	You didn't really believe that, did you?'
+1	409	You do move in mysterious ways.
+1	409	You do really want to quit, but you're'
+1	529	You don't even need to call them.'
+1	644	You don't have enough Dig Power left'
+1	645	You don't have enough Dig Power to'
+1	112	You don't have many mana-based'
+1	529	You don't need to defeat them to clear'
+1	77	You don't want me to behave less'
+1	632	You don't want that, do you, My Lord?'
+1	73	You guys are the best!
+1	13	You have advanced the cause of the
+1	30	You have been paying attention, I trust.
+1	239	You have passed Daily Challenge
+1	75	You haven't seen the last of me!'
+1	79	You heard the lady, My Lords!
+1	393	You just think it's a fairly standard'
+1	632	You know how I like to skulk!
+1	12	You know that.
+1	525	You know, My Lord, when you have three
+1	84	You know, My Lords, those heroes aren't'
+1	72	You know, all this talk of Badmella's'
+1	2	You know, sometimes I think you're the'
+1	3	You know...
+1	39	You let them escape, My Lord!
+1	236	You may already know where your skills
+1	537	You may also hit upon ways to optimize
+1	9	You may be a little disappointed when
+1	76	You may have defeated me this time,
+1	624	You might just get a pleasant surprise!
+1	627	You missed your chance! When the hero's'
+1	540	You must fight your own battles!
+1	6	You must have had those moments when you
+1	23	You need to be able manage nutrient and
+1	28	You need to dig a channel exclusively
+1	82	You need to focus on team work all the
+1	620	You need to look after that beast!
+1	516	You need to smash any <col:255,0,153,255>Barrel Bombs</col> or
+1	368	You need to try a little harder...
+1	649	You okay with this, Pickaxe?
+1	6	You only have to be told once and you
+1	237	You passed Daily Challenge Difficulty
+1	394	You really are a peerlessly insensitive
+1	15	You really led that hero on a merry
+1	375	You really want me to cast Gettlostikus
+1	650	You really want to open the door to the
+1	69	You see! That's what happens when heroes'
+1	639	You see, My Lord, it should be easy.
+1	22	You should have culled Slimemosses above
+1	292	You should try them out.
+1	296	You stay down here with me and dig,
+1	376	You still wish to retire?
+1	59	You tell 'em, dad!'
+1	58	You think I'm going to let you walk off'
+1	2	You think it's easy being an evil'
+1	613	You think that's okay?'
+1	531	You try being tied up by a hero.
+1	533	You useless, dirty, stinky excuse for
+1	379	You want to replay
+1	381	You want to replay the
+1	76	You were just picking away like headless
+1	627	You what!?
+1	366	You wish to return to the Title Screen?
+1	431	You'd better make the most of your'
+1	296	You'd stick out like a sore thumb, and'
+1	80	You'll also need to make maximum use of'
+1	653	You'll be able to see a ring around'
+1	0	You'll come along and watch, won't you,
+1	9	You'll end up with different monsters'
+1	9	You'll find there's nothing like a
+1	13	You'll find they behave differently'
+1	229	You'll get an overview of everything'
+1	619	You'll have noticed that if you can'
+1	274	You'll have to beef up my minions a bit'
+1	427	You'll have to spend the whole time'
+1	417	You'll have to win our good name back'
+1	23	You'll need to look after that Slimemoss'
+1	95	You'll never get your hands on my'
+1	32	You'll see, My Lord. It'll be worth it
+1	532	You're a disgrace to the name of divine'
+1	75	You're all a bunch of losers!'
+1	169	You're definitely going to put me here,'
+1	224	You're free to set the amount of'
+1	409	You're going to leave me and my minions'
+1	79	You're in love with her, aren't you?
+1	651	You're inviting heroes into the dungeon?'
+1	285	You're on fire!!!'
+1	234	You're right. I'll leave it and go back
+1	234	You're right. We don't understand the
+1	125	You're ruining my outfit!'
+1	665	You're the daddy, My Lord.'
+1	14	You're the finest God of Destruction an'
+1	613	You're very welcome.'
+1	403	You've already conquered that area!'
+1	4	You've created a unique monster known'
+1	4	You've excelled yourself, My Lord!'
+1	241	You've finished every single Daily'
+1	442	You've fought by our sides through'
+1	29	You've got a bit of time to kill till'
+1	78	You've got no chance of beating those'
+1	366	You've had enough, My Lord?'
+1	613	You've just pressed the L and R buttons'
+1	429	You've massacred heroes and made a name'
+1	30	You've really let me down this time!'
+1	7	You've whipped those little rogue'
+1	30	Your eyes have glazed over, My Lord.
+1	391	Your hallowed name is...
+1	391	Your job, My Lord, will be to spawn
+1	4	Your judicious pick-swinging was a
+1	643	Your monsters are all at maximum
+1	56	Your old man's summoning skills aren't
+1	239	Your pick-swinging was as peerless as
+1	37	Your surest bet is to use treasure
+1	28	Your time's up, My Lord!'
+1	366	Your wish is my command!
+1	68	Your words are music to my ears!
+1	406	ZZZZzzzzzz...
+1	627	a Dragon Orb?
+1	419	a God-in-training, but a fully-fledged
+1	12	a Long Dragon full of mana?
+1	86	a brain. Being with an idiot would just
+1	16	a brave new eco-conscious era.
+1	513	a bunch of ordinary, mediocre,
+1	66	a celebratory cup of heroes' blood!'
+1	286	a couple more of the schleps
+1	75	a couple of amateur pickaxe-wielding
+1	2	a daily basis.
+1	385	a day, shall we?
+1	67	a degree in Advanced Quest Theory.
+1	30	a delicate task like this.
+1	540	a different kind of monster?
+1	69	a dungeon. How dull is that!?
+1	618	a few heroes for sport, who can?
+1	84	a good bashing!
+1	613	a great deal of experience and developed
+1	236	a grueling 50 tests.
+1	92	a half-minute grace period that we like
+1	91	a hard time, you should try using your
+1	542	a mess!
+1	593	a mistake I'll gladly overlook.'
+1	11	a monster like him could really come
+1	59	a mountain of spade work.
+1	533	a pickaxe!
+1	517	a runeborn monster.
+1	76	a single strategy?
+1	24	a unique monster.
+1	59	a welcome they won't forget!'
+1	613	a whole heap of utter nonsense?
+1	90	abandoning her inheritance and running
+1	231	able to add more monsters.
+1	640	able to push him to his limits before
+1	621	about the food chain and breeding.
+1	429	about this one. Ahh well...
+1	520	about. It tears terrible holes in
+1	83	absconding to the mountains to run
+1	3	absorb mana or prey upon Spirits.
+1	24	absorb surplus mana.
+1	412	achievements, I suppose. A victory
+1	425	across the ones that look like
+1	437	adventure come to a sudden and messy
+1	77	advice...
+1	522	afford to spend plenty of time spawning
+1	522	afraid to experiment, My Lord!
+1	61	after all...
+1	437	again! Aaacch!
+1	636	again. The circulation of mana is just
+1	57	age, and I know it hasn't been easy since'
+1	103	alive and kicking!
+1	3	all day.
+1	18	all heroes must eventually crumble.
+1	534	all in the design documents.
+1	626	all manner of runeborn creatures...
+1	48	all over for the forces of evil.
+1	443	all thanks to your divine pick-swinging
+1	84	all that tough if you just pick them off
+1	418	all the heroes.
+1	417	all the monsters they came to kill
+1	630	all you have to do is tap them.
+1	68	allies. They'd just teamed up 'cos they
+1	239	almighty brainiac!
+1	377	almighty trouncing.
+1	293	alone dig a dungeon!
+1	512	alone! You need a few Omnom footsoldiers
+1	90	along when he goes a-wooing, eh?
+1	12	always do some more training.
+1	431	always keep them well-stocked.
+1	518	an attack as their powers dip.
+1	20	an egg.
+1	444	an end, so don't worry - you don't
+1	391	an entrance than seizing it and defacing
+1	239	an honor and a privilege! All hail the
+1	56	analysis-study-project-thingy.
+1	21	ancient dead guy probably said.
+1	515	and <col:255,0,153,255>boost your Dig Power</col>.
+1	36	and again!
+1	428	and annihilate them as quickly as you
+1	16	and aquatic monsters.
+1	614	and build the nastiest dungeons in the
+1	515	and consulting the Almanac to find out
+1	36	and derail their attacks.
+1	34	and don't let our horrendous horde die'
+1	538	and dreams can never be destroyed.
+1	70	and end up with loads left over!
+1	4	and exciting monsters out there waiting
+1	224	and figure out how to beat them.
+1	524	and foremost.
+1	527	and go pickaxe-skill crazy!
+1	417	and gone home for supper.
+1	425	and grows more so with every nutrient
+1	74	and hatched this plan to lure would-be
+1	433	and he'll be as good as new!'
+1	523	and his underlings die too! Everyone's a'
+1	413	and impress each other!
+1	65	and interrupt it.
+1	375	and let you retire?
+1	410	and let's get on with it!'
+1	295	and make some lovely monsters.
+1	30	and mana will be absorbed by the nearest
+1	283	and maybe a Lizardman or two.
+1	24	and nutrient levels in your soil just
+1	224	and opening the Edit Menu.
+1	21	and pass your papers to the front!
+1	28	and return to the surface of the water.
+1	16	and ruin those heroes' lives!'
+1	435	and runs away lives to fight another
+1	438	and set us free.
+1	427	and show them who's boss?'
+1	391	and sunny and nice...
+1	263	and suspend the dungeoneering for the
+1	236	and the gutsy godliness, why not give
+1	656	and the pickaxe will <col:255,0,153,255>cycle instantly</col>
+1	620	and then boast to all your divine pals.
+1	28	and then it's just a matter of culling'
+1	627	and trade them for a new pick.
+1	391	and transform them into warped pillars
+1	224	and tweaking their ecosystems.
+1	524	and use healing magic, right?
+1	8	and using it wisely, you can cut back on
+1	655	and want the heroes to share in your
+1	367	and watch it again and again?
+1	5	and we'll be laughing all the way to'
+1	236	and weaknesses lie, but there's no harm'
+1	661	and when it <col:255,0,153,255>points down</col>, they'll'
+1	27	and won't eat or lay any blasted eggs.'
+1	36	and you can beat that bogged-down
+1	81	and you launch <col:255,0,153,255>Scuffle Shuffle</col>, right?
+1	615	and you'll be able to welcome the heroes'
+1	35	and you're bound to detect some pattern'
+1	432	annoying since he's been out for'
+1	274	annoying! There are two of the rascals!
+1	29	another crack at it.
+1	28	another day.
+1	540	another god to dig in your place.
+1	418	another in this one.
+1	627	another one! Honestly, you're just too'
+1	640	another shot, My Lord!
+1	414	another, or it's curtains!'
+1	105	any advice yet?
+1	34	any damage at all.
+1	14	anything these heroes can throw at us!
+1	104	anything with.
+1	613	anyway?
+1	428	appear if you have a certain monster
+1	414	appear when the difficulty level is set
+1	74	appearance! You weren't in the previous'
+1	37	appetite and embark on a limitless
+1	616	aquatic monsters along with it.
+1	620	are all dying off.
+1	519	are deceased.
+1	241	are different from those who appear in
+1	524	are far too wholesome for my taste. And
+1	418	are going to keep coming one after
+1	441	are headed for the dungeon as we speak.
+1	528	are neutralized when <col:255,0,153,255>they're in water</col>.'
+1	537	are no pushover. I'm sure you're tempted
+1	665	are often as weak as kittens.
+1	613	are other things to do...
+1	73	are pale types with silly floppy hair.
+1	526	are so much cooler!?
+1	122	are we? Very impressive.
+1	526	are you ever torn between using aquatic
+1	542	are you to leave me by the entrance.
+1	404	area again?
+1	630	area lacking in nutrients, you can't get'
+1	518	area with few monsters and then launch
+1	58	aren't you, My Lords?'
+1	58	arm in arm with a ne'er-do-well heroic'
+1	428	arms around and trying to cast silly
+1	428	around a little, but try not to let
+1	83	around barefoot and milk goats!
+1	637	around it, leaving it on its lonesome.
+1	35	around the dungeon paths.
+1	434	around, and the phone signal here is
+1	70	arrive at some point.
+1	265	arrive. And there are three of them
+1	17	art of utilizing treasure chests?
+1	523	as I could spit them.
+1	625	as Long Omnoms.
+1	4	as a Leviathomnom.
+1	32	as a dollop of dragon dung.
+1	431	as deep as absolutely necessary, and
+1	31	as quick as you can.
+1	63	as soon as these heroes have been
+1	515	as they look, those heroes...
+1	417	as well - that would be mortifying.
+1	414	as well!
+1	25	aside from the Omnom Fly to clobber
+1	295	ask - have you completed your <col:255,0,153,255>training?</col>
+1	236	aspect of dungeoneering, be it critical
+1	85	at first on taking out that wretched
+1	34	at first they didn't seem to be taking '
+1	9	at fossils.
+1	432	at hand than we thought!
+1	415	at last, did you? I was worried for a
+1	36	at rock bottom, you're not out for the'
+1	270	at the time! Doesn't it fly when'
+1	512	at the very least.
+1	81	at yourselves, Pickaxes!
+1	57	attack while I'm distracted by my'
+1	638	attacks to be directed up or down.
+1	424	attacks</col>, so it's time to put your mana'
+1	420	automatically level up by one</col>, which
+1	243	avoiding it - you failed. Try harder
+1	93	away at your partner's soil uses more'
+1	533	away by those heroes.
+1	251	away! Let's begin Daily Challenge'
+1	665	baby beasties before the heroes arrive.
+1	520	back to the Title Screen!
+1	296	back to work.
+1	80	backside, but you just have to
+1	426	badness as well! Excellent!
+1	28	base layer of soil to soak up mana and
+1	75	basics.
+1	442	battle after battle. You really are...
+1	441	battle! It's like a normal battle,'
+1	247	bay! Let's begin Daily Challenge'
+1	435	be a bit of monster-mashing, then
+1	621	be able to build a mighty horde without
+1	416	be revealed!
+1	236	be saved in your profile, so you can
+1	34	be time to stop them.
+1	620	beast may be, if it doesn't eat, it'll
+1	9	beasts.
+1	422	beat us if you tried ten thousand
+1	297	beauty of the father-daughter bond -
+1	291	become available, My Lord! You should
+1	31	bed in the morning!
+1	418	beef up your horde to beat!
+1	73	been an epic task, hasn't it?'
+1	74	been fooled, they'd already be in'
+1	58	been lining up.
+1	22	been savaged by the critics for its
+1	444	been unforgettable!
+1	283	been up to, My Lord?
+1	617	before trying the tough stuff.
+1	28	before you know it! You could do it with
+1	234	before... It's a...a switch...and some'
+1	56	being rude to the gods, he sounds really
+1	65	belt of heroes turning up. What do you
+1	539	better of these heroes.
+1	656	between me and the heroes.
+1	76	between you, so start acting like it!
+1	61	big fat LIAR!!! THE END~
+1	81	big ugly deities like you!
+1	667	big-mouthed heroes' comments.'
+1	432	bill's not going to pay itself!'
+1	190	bit more carefully, will you?
+1	24	bit stiff even for an omnipotent God of
+1	68	bites the dust! And he turned up with
+1	73	blankets flung on the flames of love!
+1	30	blocks of soil.
+1	86	blood pressure.
+1	401	bloody vengeance?
+1	619	blossoms from either.
+1	622	boast different attacks from their
+1	664	boil, My Lord!
+1	67	boil.
+1	9	bolster our forces!
+1	431	bonus before they get here!
+1	429	bonus, of course.
+1	437	book rights. Ha!
+1	30	boost particular blocks of soil...
+1	619	both Water Lily Buds and Mana Lily Buds
+1	626	bother turning up when the difficulty is
+1	444	bothered with our silly little
+1	616	bouncing new-born Aquachnids!
+1	436	boxes of experience when they walk
+1	13	brainiacs, it'll become an even more'
+1	77	breathed his last...
+1	437	breaths... Ahh-phew...
+1	635	breeding is no stroll in the park.
+1	228	buds to spawn. You can't pick anything'
+1	634	building a goodly stock of Slimemosses
+1	637	bump into a wall, at which point they
+1	539	bunch before, about a year ago.
+1	239	bunch!
+1	523	bunch! I wouldn't trust them as far'
+1	631	business, and I know how frustrating it
+1	435	but I think you should grind them to a
+1	3	but if I did, I'd be removing it in your'
+1	424	but it just gets a bit much...
+1	619	but it's always worth a shot.'
+1	84	but it's not too late to expose them'
+1	58	but marrying a HERO!?
+1	2	but my bar is now officially up and
+1	14	but now I'm not so sure.'
+1	629	but that's all.'
+1	31	but will also help him recover!
+1	63	but with you both on my side, all's well'
+1	667	but you can choose to not display those
+1	79	but you're not trying to let Badmella'
+1	441	but, er...importanter...
+1	613	button combinations that weren't in the'
+1	673	button!
+1	417	by battering this next one. Okay,
+1	30	by which soil gets the nutrients.
+1	106	by, your dungeon's a little lacking in'
+1	622	cackling Liliths! It seems you've'
+1	420	campaign!
+1	296	can <col:255,0,153,255>press the △ button to zoom out</col>. You
+1	631	can be when it's not going well.'
+1	12	can get, you're going to have to give'
+1	664	can view your force's stats?'
+1	537	can work on their dungeon IQ!
+1	46	can!
+1	418	can't be helped. And think how pleased'
+1	32	can't chew it properly. Their predatory'
+1	393	can't lead his minions.'
+1	433	can't you see?'
+1	287	cap on!
+1	544	captured. His tenuous grip on reality
+1	14	care of those beastly heroes, My Lord.
+1	406	catching up on my beauty sleep. Want
+1	515	caught me, after all.
+1	241	celebrate too much, though...
+1	634	chain is rather tricky to get one's'
+1	373	challenge and leave the deadly ~Quit~
+1	236	challenges to keep yourself sharp!
+1	238	challenges with a glint in your eye,
+1	35	chance of sending that hero packing.
+1	637	change direction.
+1	522	channels in a <col:255,0,153,255>zig-zag</col> pattern before
+1	15	chase, didn't you?'
+1	441	chatter. The battle that will decide
+1	70	cheapskates who have stacks of great
+1	425	chest, it will turn into a Mimic and
+1	37	chests and Mimics to do irreparable
+1	17	chests can do damage to heroes, put them
+1	76	chickens! Couldn't you at least agree on'
+1	65	chose the dungeon, right?
+1	631	circulating nutrients.
+1	56	class, her teachers and all the parents
+1	295	classroom to the battlefield.
+1	41	clear Area 3! Gaze on it and tremble!
+1	297	clever pickaxe, you know that? You'll'
+1	64	clockwork! Now, let's get on with'
+1	24	closer inspection...
+1	634	cocoons unless they're in a nice, narrow'
+1	393	cold, heartless pickaxe.
+1	232	combined powers!
+1	377	come back and give the heroes another
+1	21	come back and have another go!
+1	11	come from a King of Bling!
+1	431	come in handy, My Lord!
+1	517	come running.
+1	7	come through for me yet again!
+1	433	comes back and sees the dungeon in a
+1	6	comes into its own.
+1	418	coming one after another.
+1	414	coming, one after the other,
+1	70	compare! I raised you well, my dear.
+1	529	competent heroes! I just can't hold in'
+1	260	complacent. Do your worst!
+1	655	complete a stage, the higher your
+1	411	compost, and I'll keep being my'
+1	513	condition, My Lord. And that means I'm'
+1	414	conditions are and get them to come.
+1	613	confuse people!
+1	67	conjugal woods just yet. I fear more
+1	393	conquer itself!
+1	33	construction in their capable...erm...
+1	28	contact with lovely stagnant dungeon
+1	73	contestant, right on cue!
+1	263	continue unabated!
+1	422	continued aid in my mission to take
+1	614	continuously just by moving.
+1	56	cool...~
+1	79	could be effective.
+1	412	could get by with no more than random
+1	427	could get the job done!
+1	89	could have stopped them in their tracks.
+1	434	could take over the wor-
+1	31	could use a Thunderhead to soak up the
+1	37	couldn't make a dent in it.'
+1	36	count! Oh no!
+1	416	counting on more of the same from
+1	70	counting their pennies in the dark.
+1	286	couple more than normal. You'll be'
+1	624	course. But try feeding up a Dragon with
+1	29	crack the secret of the ruins.
+1	617	creatures and features, but the nutrient
+1	75	cretins. His job sucks.~
+1	31	crying his eye sockets out.
+1	26	cull the Slimemosses, using maximum
+1	516	cunning, trap-setting heroes.
+1	409	curse on you. You've been warned!'
+1	617	cycle underpins it all.
+1	61	dad was crying? Should I be worried?
+1	66	daddy does it...
+1	38	damage done by that dratted holy water.
+1	515	damage inflicted on your monsters, and
+1	37	damage to the hero's HP.'
+1	618	dancing on their graves.
+1	438	dare enter the dungeon door!
+1	391	dare to stand in our way.
+1	433	darkness back in his eyes! We're'
+1	647	darkness even stronger!
+1	438	darkness of...the...beyond...
+1	45	data. Sorry about that...
+1	393	daughter and heir but to step into
+1	60	daughter and heir of an Archfiend.
+1	62	daughter moment?
+1	84	daughter or I to the surface - give them
+1	58	daughter's side is not to assist her,'
+1	95	daughter, you scoundrels!
+1	69	daughter.
+1	619	daunting, My Lord. You don't have to do'
+1	435	day~?
+1	417	dead hero - let's send these fools on'
+1	69	deadbeats coming to woo my beloved
+1	393	deathlier-than-usual pallor. He
+1	70	decent man!? Grargh! This is so annoying!
+1	68	decent this time...
+1	382	deep in thought...
+1	629	deeply disappointed.
+1	443	defeated the final Hero Rush, and the
+1	36	defenses and then tie them down with
+1	633	deities everywhere. Just get some water
+1	62	deities of devastation and demolition.
+1	444	deity and dispatch heroes with
+1	27	deity of demolition, but there are times
+1	394	deity, are you not?
+1	419	delightful destruction!
+1	11	delightful rictus smile!
+1	13	delightfully deadly place.
+1	391	demolition and DIY devastation. Yes!
+1	16	demonic eyes to the potential of water
+1	391	desire to rule the world and graced me
+1	296	desperate to climb the tower?
+1	87	destined to be utterly defeated?
+1	295	destruction!
+1	419	destructive deity!
+1	32	develop into Long Dragons.
+1	38	didn't seem to boast very effective'
+1	440	didn't they do well? Let's give those
+1	444	dies a glorious death in battle?
+1	626	difficulty setting a go.
+1	16	dig dirt to your heart's content without'
+1	432	digger, aren't you?'
+1	66	digging!
+1	628	digging, spawn minions and slow those
+1	640	directional preferences were to
+1	515	discussing heroes' merits. The stinkers'
+1	626	disruptive element, so please kill them
+1	17	divine judgment, My Lord!
+1	652	divine wrath down on his ridiculous
+1	522	dizzy heights and horrific lows.
+1	24	do better next time, O Evil One!
+1	527	do despise a ~Hero Rush~.
+1	511	do the Training Mode, otherwise it's'
+1	256	do you?
+1	652	do your best, in any case.
+1	438	do-gooders appear!
+1	663	do-gooding heroes are approaching!
+1	297	do. You have to think positive in
+1	393	doctors try to patch my dad up, let's'
+1	113	doesn't grow, your %s'
+1	435	doing, letting heroes escape? Idiot!
+1	444	dominated it, isn't as good as half'
+1	438	domination ever closer!
+1	444	domination it's been!'
+1	415	domination! Do your worst!
+1	442	domination! You're the world-'
+1	442	dominator's world-dominator!'
+1	31	don't forget to supply him with water'
+1	104	don't have enough monsters to do'
+1	613	don't you think you've become a little
+1	613	don't you, My Lord?'
+1	56	done with it!
+1	10	door-to-door nutrient-delivery service.
+1	661	door? What does an evil Overlord have
+1	619	down a reminder on my hand...
+1	21	down and study!
+1	414	down destruction on one hero after
+1	280	down like a ton of bricks.
+1	514	down the dungeon drain!
+1	13	down those heroic whelps.
+1	296	down though, so you'd better make it'
+1	30	down, Your Supreme Wickedness!
+1	85	dowry. Anyway, it's time for me to escape.'
+1	102	dragon-egg-timer shows...%s.
+1	625	dull dungeon, as a wise man once said.
+1	630	dungeon architect, My Lord.
+1	430	dungeon door, hm? Maggots!
+1	2	dungeon floor.
+1	81	dungeon in order, so make full use of it!
+1	24	dungeon looked just the ticket, but on
+1	623	dungeon stratum the rune is in.
+1	235	dungeon! Prove you're even better than'
+1	623	dungeon, they exert an influence over
+1	417	dungeon-cred, does it?
+1	119	dungeon-defending done.
+1	13	dungeon-dweller, from Slimemosses to
+1	438	dungeon.
+1	670	dungeon. The nerve of it!
+1	390	dungeon?
+1	25	dungeoneer claimed that reward.
+1	236	dungeoneering muscles in regular
+1	78	dungeons are full of features that let
+1	393	dying to know who I am. Well, I'm the'
+1	241	each level are different.
+1	516	each other while you destroy the
+1	81	early, so you haven't much time to spend'
+1	36	earth!
+1	37	eating binge.
+1	436	effort from the world's laziest pickaxe!'
+1	22	elegant Ladies, you need both mana- and
+1	417	embarrassing, eh, My Lord?
+1	431	empty as a Slimemoss's skull!'
+1	169	end of our beautiful dungeon and my
+1	529	end up tied up like a turkey.
+1	619	end up with super-savvy monsters.
+1	437	end? Too Bad!
+1	394	ending sequence...
+1	438	ending, dear.
+1	76	engrave Badmella's wise words on your'
+1	417	enough, but don't let this one escape'
+1	31	entire life. That poor, poor Skeleman is
+1	79	escape her training, are you?
+1	634	even a small band of monsters will be
+1	293	even enough to pick my nose, let
+1	432	even greater healing effect than we
+1	12	even more powerful beasts!
+1	61	ever said to me, Badmella.
+1	239	ever. You really are the pick of the
+1	66	every last one of those heroes.
+1	623	every monster they share the dungeon
+1	623	every other monster and hero.
+1	418	everything in the fridge!
+1	89	everything?
+1	59	evil Gods of Destruction!
+1	14	evil archfiend could ever want!
+1	423	exact.
+1	123	excellent, hasn't it? Good, good. That'
+1	438	excellently...My...Lord...
+1	444	exciting new world to have fun
+1	616	existence!
+1	433	experience as they can and then
+1	542	experience?
+1	427	explaining, and that will take away
+1	516	explode, doing damage to more and
+1	618	exterminate the pests.
+1	80	extra-special advice.
+1	630	fact of Underworld life you're going to'
+1	34	fair fight and hope to win.
+1	391	familiar...
+1	413	fantasies, foolish mortals!
+1	544	fate, I need to escape now!
+1	58	father-in-law!
+1	61	fatherly duty and show Badmella her
+1	661	favor auxiliary skills.
+1	525	feast the night away in celebration.
+1	17	fed. Gauge the situation and use your
+1	637	feed with Spirits, let me remind you
+1	514	feel going on.
+1	256	feeling a bit more motivated.
+1	418	few of them too. I hope I'll be okay...'
+1	236	few seconds to a few minutes!
+1	32	field of vision, a Dvagon instinctively
+1	241	fiendish for you! Can I call you
+1	517	fights, My Lord.
+1	632	filled with menacing monsters.
+1	58	find in a squalid dungeon!
+1	439	find in my dungeon!
+1	422	find me if we're not careful!'
+1	432	find me, so if you want to leave them
+1	79	finds you both deeply unattractive...
+1	378	fine fighting form next time.
+1	428	fine, but it wouldn't do to let them'
+1	286	fine...
+1	441	finger than all those weaklings put
+1	444	first hero's head in?'
+1	391	flashy new content!
+1	530	fleet-footed heroes.
+1	633	flowing, will you?
+1	433	fluke, but you're actually pretty good!'
+1	625	flying bug thingies.
+1	532	flying pickaxes everywhere.
+1	631	focusing nutrients in one place.
+1	37	food, so give them a few gentle taps with
+1	423	foolish mortals! Mwah-hah-hah-haaaah!!!
+1	696	fools torment me!?
+1	439	fools! It is the only rest you will
+1	415	foot firmly in the door of world
+1	16	footprint, go easy on the soil -
+1	634	for Omnoms to chow down on.
+1	238	for a God of Destruction like yourself.
+1	296	for a God of Destruction.
+1	535	for a pickaxe, I wasn't quite able to'
+1	541	for evermore!
+1	614	for me, I'm sure to keep moving closer'
+1	60	for no apparent reason...~
+1	611	for now, My Lord?
+1	612	for now, Pickaxe?
+1	435	for once.
+1	87	for shame! All we had to do was surround
+1	28	for that horrible holy water. You can't'
+1	540	for the end sequence.
+1	220	for the fun to begin!
+1	613	for the millionth time! Well done!
+1	123	for the moment.
+1	414	for us, My Lord!
+1	444	for you as well...
+1	436	for you to handle.
+1	613	for you.
+1	66	for your efforts.
+1	429	for yourself while I've just stood'
+1	10	for, My Lord!?
+1	274	for, My Lord...
+1	616	force will rapidly drain away.
+1	444	forces with us and do battle down in
+1	424	forever invading the dungeon, and I
+1	90	forever...
+1	444	forget us...
+1	427	forgot. Er...mwah-hah-hahhh! The world
+1	57	forthwith.
+1	61	foul black heart!
+1	110	found on the Internet or something?
+1	429	friends about what they saw.
+1	673	friends, family and pets! Yes,
+1	422	from a distance.
+1	296	from down here...
+1	21	from runes can be confusing.
+1	631	from soil and burp it up in other areas,
+1	435	from that terrible TV show he used to
+1	438	from the beyond!
+1	625	from the breed of insectoid giants known
+1	60	from the face of the earth!
+1	520	from the start?
+1	613	from this chit-chat.
+1	427	from your terrifying impact...
+1	392	fruition, My Lord!
+1	440	full of terrifying beasties!
+1	63	full well you did it on purpose. Still,
+1	444	fullest here, as long as you promise
+1	413	further your fiendishness.
+1	427	future of darkness and misery.
+1	9	future, feel free to swing your pickaxe
+1	73	future. Nay, for the very future of the
+1	524	gauged by the direction of the arrow by
+1	28	gauntlet once again?
+1	294	genius?
+1	417	genocide. I hate these heroes!
+1	525	get a bit confused, can it not?
+1	428	get away unharmed.
+1	420	get enough experience to go home.
+1	630	get it where you want.
+1	428	get ready.
+1	61	get some nice fireworks going over
+1	429	get the EX bonus, that's all.'
+1	35	get the hero to keep treading on a rune,
+1	418	get, those horrible heroes always seem
+1	38	get-go.
+1	31	gets us professional evildoers out of
+1	638	getting broiled.
+1	433	getting close, I can feel it!
+1	81	getting the dungeon ready.
+1	443	getting your behinds whooped!
+1	171	girls hate that!
+1	237	give Level 2 a try, hm?
+1	33	give them a bit of room to maneuver...
+1	613	given them a bit of a make-over to keep
+1	256	giving-up spell Cantus Bebotheredus,
+1	427	glad I met a God of Destruction who
+1	13	glorious revolution!
+1	107	go all the way...to the heady heights
+1	297	go far.
+1	640	go left. Bear that in mind and give it
+1	640	go right, left, down, then up
+1	80	go through with it.
+1	391	go to.
+1	56	gods! His magic powers are amazing...
+1	272	going gets too tough, just raise
+1	36	going into this without any Dig Power.
+1	164	going to be battered by spells all
+1	511	going to be very hard going...
+1	66	going to convert energy from the sun
+1	17	going to go.
+1	28	going to grow.
+1	58	going to have to get used to it...
+1	409	going to keep on digging just for me,
+1	24	going to plan, maybe you could try out
+1	126	going to stand.
+1	513	going to the <col:255,0,153,255>Pause Menu</col> from the World
+1	84	gone. Ah, This old place won't be the'
+1	97	good god, and no mistake!
+1	274	good luck!
+1	403	good times you had with dad?
+1	241	got 'em all!'
+1	26	got into the swing of things.
+1	622	got mana circulation down pat.
+1	74	got started.
+1	372	gracefully?
+1	524	gradually as they traipse about.
+1	540	grasp of the fundamentals.
+1	37	grasp your pickaxe and do battle once
+1	438	gratitude...
+1	438	great wave of terror will roll through
+1	284	great, or so they say. Or is that
+1	245	grey! Let's begin Daily Challenge'
+1	427	ground and swing your pick around a bit
+1	61	ground! Prepare for utter annihilation!
+1	20	grow weak that easily!
+1	641	grubby mitts on yours truly.
+1	68	had no other friends.
+1	20	had to do was bash it with your pickaxe!
+1	58	half-decent husband.
+1	674	handle this, My Lord, with such a
+1	392	hands, the world is ours. Easy!
+1	613	happen...
+1	391	happened to the good times?
+1	92	happening in the first place, you can
+1	2	happy, but it's not my job to be'
+1	418	harass us as we speak.
+1	418	hard-headed heroes who you'll have to'
+1	438	hard...enough...without...you...
+1	98	harder, My Lord! Didn't I tell you'
+1	641	harsh, but that hero was hardly a
+1	46	has been inserted!
+1	33	has ended in spectacular failure.
+1	532	has ended in utter disaster.
+1	429	has fled the, um...bush, so...er...
+1	74	hasn't paid the electricity bill again!'
+1	15	hassle, but once you've summoned them,'
+1	34	haul and produce plenty of attack-minded
+1	108	have a hard time here.
+1	117	have a mutation on your hands...
+1	438	have a...30 second grace period to try
+1	534	have all sorts of effects.
+1	6	have an expert teacher!
+1	440	have it!
+1	424	have no choice but to face them...
+1	411	have nothing to worry about!
+1	371	have our ups and downs, let's stick'
+1	57	have overheard me.
+1	385	have run out of patience. Let's call it'
+1	641	have slain him with ease.
+1	34	have to dig the longest, deepest dungeon
+1	620	have to keep asking why your monsters
+1	91	have to keep turning up like this?
+1	444	have to stay much longer.
+1	630	have to take on board, My Lord.
+1	435	have. WELL DONE, DAD! KEEP IT UP!
+1	77	having a crisis of confidence...~
+1	16	having to dirty your hands digging.
+1	70	having to use their potions and elixirs,
+1	73	he didn't get eaten by a Lilith.'
+1	634	head around.
+1	391	head to the first tower.
+1	520	head, you might as well just have gone
+1	69	heading straight to the next dungeon
+1	432	heads in and bring him back! My phone
+1	526	heart of your army, with aquatic beasts
+1	76	heart! Literally...
+1	56	hearts and bolster my reputation as
+1	618	heels, you'll be able to crack even the'
+1	418	hell!
+1	60	hell. Right, Badmella?
+1	25	hellish Herculomnom hooligans runs riot,
+1	425	here right now.
+1	428	here soon, so spruce up the dungeon and
+1	56	here today to assist Badmella with her
+1	56	here, My Lords.
+1	424	here, they'll be happy too.'
+1	36	hero black and blue.
+1	35	hero lost.
+1	413	hero louts headed right this way!
+1	424	hero types!
+1	417	hero, you show them who's boss!'
+1	416	hero-exterminating labors will
+1	62	hero-hunting thing you do so well!
+1	232	hero-trouncing techniques that use our
+1	440	heroes a hand! Mwah-hah-hah!
+1	674	heroes again...
+1	667	heroes are back in town!
+1	38	heroes come knocking.
+1	628	heroes down!
+1	531	heroes drag me out of the dungeon,
+1	423	heroes drop them. Just so you know.
+1	411	heroes has only just begun, so steel
+1	19	heroes have carried out their mission,
+1	53	heroes into the dungeon?
+1	423	heroes leave behind?
+1	626	heroes might put in an appearance.
+1	417	heroes on their way here to meddle
+1	525	heroes rampaging around the place, it can
+1	81	heroes run round like they own the
+1	56	heroes that wander in!
+1	260	heroes to arrive. Are you ready, Lord?
+1	393	heroes to do it to...
+1	414	heroes until you hear that sweet, sweet
+1	625	heroes who previously seemed invincible
+1	135	heroes will be here soon!
+1	17	heroes will recover HP...
+1	616	heroes with a flood of lovely stagnant
+1	112	heroes with high defense, you know.
+1	632	heroes with maximum efficiency.
+1	31	heroes' attacks.'
+1	442	heroes' hands, you never doubted your'
+1	515	heroes' weak spots.'
+1	538	heroes' wrath, I still have faith in'
+1	538	heroes, a God of Destruction's hopes'
+1	413	heroes, after all.
+1	36	heroes, while Thunderheads blind them
+1	78	heroes.
+1	539	heroes. With their stats, it's no wonder'
+1	76	heroes...
+1	217	heroes?
+1	662	heroic curs are on their way!
+1	668	heroic do-gooders are on their way!
+1	652	heroic head!
+1	650	heroic horde, My Lord?
+1	74	heroic love interest been going?
+1	48	heroic whelps!
+1	37	high defense levels that normal monsters
+1	85	high-achieving heroes I've been seeking!'
+1	23	higher than 9, and you'll have soil that'
+1	443	highest prayer of gratitude, don't you?'
+1	434	him back!
+1	87	him with monsters.
+1	11	his abilities are off the scale!
+1	68	his pals! What a sap...
+1	393	his shoes and run his army.
+1	85	his stupid war cry.
+1	58	his usual cheerfully maniacal self,
+1	614	history of the Underworld!
+1	537	hit Badman's Chamber!'
+1	511	hit a brick wall!
+1	61	hollow words just then.
+1	24	home for my dinner...
+1	3	honor.
+1	638	horizontal tunnels so the hero ends up
+1	101	hours since you started digging the
+1	35	how I hate to repeat myself!
+1	57	how I look!? Why do I have to laugh
+1	217	how they were before we summoned the
+1	1	how to adapt your dungeon design to the
+1	33	how to do that!
+1	57	how to pose! Come on!
+1	414	hunting or level-grinding.
+1	83	husband? He smells of sour milk, but
+1	74	husbands to the dungeon.
+1	77	hysterically. You like me just the
+1	391	idea.
+1	536	if any meat or barrels are dropped,
+1	424	if they find me while they're down'
+1	423	if you collect enough of them, very
+1	9	if you soaked them in water.
+1	274	if you want to weather this little
+1	430	if you will. Mwah-hah-hah!
+1	119	if you're going to get some serious'
+1	67	ill-suited suitors are on the way.
+1	57	importance of good posture.
+1	426	impressed by your world-beating
+1	436	impressed. They looked way too tough
+1	36	impressive line of attack.
+1	297	impressive names. It adds...class.
+1	122	impressive? More of them!
+1	418	improve my horde until you've taken out'
+1	638	in a family game!
+1	33	in advance.
+1	380	in deliberation...
+1	669	in here! They're mine now...'
+1	236	in making it official, is there?
+1	66	in my own graven image.
+1	72	in perfect harmony?
+1	622	in ranged attacks.
+1	25	in record time.
+1	232	in the dungeon as well as my awesome
+1	32	in the end. Come on! Give it another
+1	265	in the heroes' hands in no time flat.'
+1	409	in the lurch!? Now of all times!?
+1	59	in the next stage.
+1	637	in the right direction.
+1	675	in the vicinity!
+1	653	in the vicinity. Yes, My Lord, I'm afraid'
+1	74	in the way of romance.
+1	9	in water as fast as you can.
+1	614	in you! You saved my pallid skin!
+1	2	in-the-street cuties! Bravo!
+1	257	incantation Darnivemadeamessofthisone to
+1	31	increase, so it's best to start on the'
+1	229	incredibly easily!
+1	526	injustice, wrongitude and indecency
+1	27	inside, is a stern disciplinarian deity
+1	69	insist on drifting into dungeons without
+1	1	insist on invading my privacy has
+1	540	inspiration. Otherwise you could ask
+1	72	inspiring than seeing two pickaxes swung
+1	113	instead...
+1	69	intact!
+1	24	intelligence report.
+1	84	interesting.
+1	414	interesting...
+1	62	interrupt my sentimental father-
+1	66	into a malevolent dark force...
+1	11	into his own.
+1	613	invaded. Thanks very much.
+1	66	invaders, but to focus on molding you
+1	420	involved...
+1	420	irregular heroes detected!
+1	412	is a victory, after all.
+1	42	is corrupted. Sorry about that...
+1	423	is deeper down is more soil...?
+1	544	is loosening rapidly.
+1	438	is no escaping my deadly dungeon!
+1	61	is part and parcel of an Overlord's job!'
+1	56	is run along tight military lines with
+1	513	is standard operating procedure in the
+1	419	is swift and furious!
+1	613	is that!? There's nothing that would'
+1	90	is the last stage, and a girl can't wait'
+1	56	is to write a report about my dad's'
+1	444	isn't it? This is your big moment,'
+1	393	isn't much use to anyone right now.'
+1	12	it a go in Story Mode.
+1	236	it a go?
+1	637	it again - they move in precisely the
+1	665	it already, but freshly-spawned monsters
+1	33	it another shot. Just make those Omnoms
+1	5	it can't be done on the cheap.'
+1	83	it could be worse...
+1	418	it goes and happens!
+1	537	it helps me deal with the pain.
+1	619	it if you don't want to.'
+1	417	it never rains but it pours!
+1	420	it out in Training Mode.
+1	12	it really stretch its neck?
+1	630	it to flow back up.
+1	631	it up in no time.
+1	391	it with something evil and cool.
+1	427	it would be quicker too?
+1	442	it! I haven't seen pick-swinging like'
+1	58	it's because I'm getting married.
+1	239	it's blinding!'
+1	529	it's ended in tears.'
+1	39	it's heroes scarpering!'
+1	617	it's like a jab. You need to master it'
+1	12	it's longer than I foresaw even in my'
+1	56	it's to help me with my homework and be'
+1	631	it, we'll never conquer the world.'
+1	70	items but don't want to use them.'
+1	624	its life, it expends its fading energy
+1	425	job called a shaman or something. I've'
+1	544	job. If I'm going to avoid the same'
+1	4	joy to behold.
+1	655	joy?
+1	56	just ask the other one, okay?
+1	622	just brought into existence specialize
+1	494	just don't know how to play well.'
+1	537	just faced and see how many monsters it
+1	429	just for form's sake. And for the'
+1	284	just me...?
+1	534	just now! Give me my compliments back!
+1	296	just say mean things about you.
+1	429	just snooze through this one too.
+1	91	just use it willy-nilly.
+1	431	just want to sit there with your mouth
+1	428	just won't earn much Dig Power.'
+1	92	keep tabs on what your dungeoneering
+1	393	keep the show on the road.
+1	236	keep your skills fresh, lasting from a
+1	69	keeping Badmella's honor and chastity'
+1	624	keeps me coming back.
+1	13	key to developing the dungeon itself.
+1	30	keys to success here, My Lord.
+1	391	kind of legendary engraving...
+1	86	kiss! It makes my blood boil.
+1	370	knocking, keep on digging!
+1	2	know how the Underworld really works.
+1	2	know if I could carry on.
+1	6	know just what to do. But then, you do
+1	639	know just what to do...
+1	439	know stuff like that!
+1	16	know what they say - where there's a God'
+1	224	knowledge by digging different dungeons
+1	30	knowledge of the basics - the Dungeon
+1	632	labyrinth. Make a decent-sized dungeon
+1	22	lack of lovely Ladies.
+1	31	land the killer blow!
+1	540	last hero, and the world would have been
+1	20	last year all over again!
+1	240	last, er...sausage to, um...fry...
+1	56	latest assignment.
+1	625	learn more, and I can save my breath.
+1	694	least favorite heroes are here!
+1	423	least you get something for them!
+1	84	leave me and can grow old here with her
+1	638	left and right, so don't expect their'
+1	415	left to face here at Dundadunduuun
+1	240	left to overcome...Daily Challenge
+1	224	leisure. No time limits here!
+1	526	lending support.
+1	74	let you get on with it!
+1	369	let you retire?
+1	418	letting them slaughter us, hm?
+1	241	level a few times to make sure you've'
+1	627	level before and got the Orb already?
+1	625	level higher than a regular Omnom.
+1	645	level up your monsters! Too bad,
+1	50	level up your monsters.
+1	540	level? Or avoid the EX stages?
+1	241	levels, but that doesn't mean you've
+1	519	liable to raise my blood pressure.
+1	630	life is crucial to your success as a
+1	57	like an idiot?
+1	33	like it ain't no thang...'
+1	638	like making Lizardmen, right?
+1	68	like that hasn't got a hope with a fine'
+1	440	like that.
+1	89	like that? Why must young people rush
+1	78	like this that will bring the two gods
+1	78	like this!
+1	62	like this, put my head back and go:
+1	231	like until the gauge on the right
+1	408	like you've never dug before!'
+1	414	like...trains!
+1	413	limb-from-limb!
+1	674	limited supply of monsters.
+1	631	limits the options for the soil they'll'
+1	514	lines.
+1	418	list of Totally Amazing Things That
+1	274	little more hardcore than I'd bargained'
+1	30	little.
+1	1	lives easier, and the heroes' wretched'
+1	1	lives much harder!
+1	444	living here in our little world.
+1	633	longer, the buds will balloon in size.
+1	236	look at them later.
+1	280	look like the type who can't be beaten'
+1	412	look too tough to me.
+1	65	looked at the number of stages when they
+1	58	looking for a man, eligible heroes have
+1	414	looking for me I don't know, but if'
+1	429	loose on the next stage! Onward!
+1	429	lost pride on this one.
+1	235	lovely level and go back to the
+1	413	lovers to come in order to try
+1	57	lurking by the dungeon door and may
+1	84	magazines. Meanwhile, I'll pay a quick'
+1	417	maggot-food, will you?
+1	522	magic attacks.
+1	514	magical attacks blast energy in straight
+1	622	magical defense and other stats in the
+1	292	magically become available, My Lord!
+1	9	magnificent beast reigned supreme.
+1	673	magnificent horde by pressing the SELECT
+1	411	magnificent self!
+1	28	main stream of holy water.
+1	613	majorly suck about it.
+1	613	majorly suck!
+1	28	make Mold from it, you see.
+1	283	make it through this one, My Lord!
+1	666	make use of the time to spawn monsters
+1	420	makes for great Dig Power savings.
+1	71	makes him look cool? All it does is show
+1	428	makes me mad! Gets my indigestion going
+1	123	makes me very proud.
+1	420	making good use of <col:255,0,153,255>mutation</col>?
+1	119	making runes, you can learn how in
+1	29	malevolent God of Destruction couldn't'
+1	23	mana levels with precision and speed.
+1	12	mana, but you're the - ahem - mana for'
+1	23	mana, you need to make a Slimemoss with
+1	111	mana-based monsters as well?
+1	24	mana-heavy compared to the target in the
+1	630	management skills a little below par,
+1	57	maniacally is so ten eons ago. None
+1	613	manual.
+1	274	match for them.
+1	289	match for you, My Lord!
+1	81	max? It freezes time in the dungeon, so
+1	57	may have raised my voice a touch when I
+1	25	maybe there'll be another reward.'
+1	56	me by assisting me in this glorious aim!
+1	520	me get caught, thinking you'd try again'
+1	59	me just makes you look bad.
+1	613	me to chatter on like this...
+1	391	me to introduce myself...
+1	391	me with your big, goggly eyes.
+1	412	me, and it's game over for you.'
+1	432	me, they just want to beat up some of
+1	87	me. I bet he'll only show his vulnerable'
+1	434	meaningless stuff again! He must be
+1	414	meet certain criteria.
+1	4	merge, they grow much longer than
+1	444	merry abandon...
+1	234	message, so the only way to find out is
+1	63	message...
+1	169	messages saying ~Not there! Not there!~
+1	625	metamorphose, so won't turn into'
+1	626	mid-rampage if you can.
+1	444	might be just a way of passing the
+1	296	might just catch a glimpse...
+1	426	might, and further my mission for world
+1	438	might...turn the power...off...
+1	15	mighty hearts of evilness!
+1	432	miles around!
+1	73	milksop.
+1	518	mincemeat of these heroic invaders.
+1	540	mine!
+1	613	minions just to fill the Almanac?
+1	615	minions' collective strength.'
+1	363	minutes of footage.
+1	79	miserable heroes?
+1	76	miserable heroic lives! Mwah-hah-hah!
+1	9	miserably.
+1	424	missions and chosen warriors and all
+1	616	mistress.
+1	391	mixed up with another god. Please allow
+1	530	mockery of me and my minions!
+1	415	moment there.
+1	263	moment?
+1	412	monster would be cause for a victorious
+1	274	monster-... Oh. Ah. Oh dear.
+1	616	monster-filled water.
+1	91	monsters and heroes...
+1	56	monsters and kill heroes. Simple!
+1	615	monsters and send that Horde Power
+1	280	monsters are your friends.
+1	24	monsters behave and knowing how to tweak
+1	36	monsters can die and be reborn again
+1	623	monsters differ depending on which
+1	542	monsters gang up on them.
+1	664	monsters have been spawned!
+1	417	monsters in order to improve their
+1	9	monsters lurking inside fossils.
+1	514	monsters that spells can't get through.'
+1	422	monsters to help them out, so be
+1	30	monsters too far away from soil.
+1	444	monsters who died for you and
+1	522	monsters you can upgrade. Don't be'
+1	3	monsters, and you just might discover
+1	424	monsters, apparently.
+1	112	monsters, do you?
+1	3	monsters, right? And you do want to fill
+1	93	monsters, you'll lose more Dig Power as'
+1	137	monsters. Hurry up and choose, will you?
+1	428	more accurately, dirty spies!
+1	440	more batches of heroes, I'm going to'
+1	428	more difficult.
+1	1	more fiendishly-designed dungeons!
+1	73	more fun than marriage?
+1	618	more heroes there are, the more potent a
+1	76	more impressed by my advice than dad's~.'
+1	68	more skeletons about the place.
+1	516	more surrounding monsters.
+1	37	more!
+1	362	most awkward moments, don't they?'
+1	60	most divine wrath and wipe all herokind
+1	62	most insanely maniacal laugh I've heard'
+1	8	motion, was it not?
+1	391	mountain. And there seems to be some
+1	437	mouth... Ahh-phew... Deep, calming
+1	373	move to another time.
+1	32	much prey for it to devour all at once.
+1	227	much water there is as well.
+1	79	muddy. And they stink...
+1	525	mumbling something: ~I bagged Badman!
+1	413	murdered enough of my minions!
+1	618	murderously marvelous deity!
+1	518	muscle...
+1	69	my dungeon door!?
+1	671	my dungeon on a conveyor belt.
+1	91	my extremely well-behaved daughter!
+1	531	my legs. And do they have to tie me
+1	71	my look?
+1	391	my monstrous minions and destroy
+1	664	my privacy! It makes my black blood
+1	2	my staff have been known to complain.
+1	529	my tears... (sniffle)
+1	520	my trousers, you know.
+1	438	myself will occupy the depths of the
+1	412	myself, but runeborn beasts instead.
+1	40	mysterious girl!?
+1	513	n00b difficulty setting.
+1	613	name of the game yet again just to
+1	434	nearly better!
+1	391	need to conquer this world inch by inch.
+1	27	need, and lots of it!
+1	621	needing to dig and you'll be able to'
+1	88	nest and leave me all alone...
+1	425	never heard of it.
+1	35	never let your old buddy Badman down,
+1	429	never saw how much destructive
+1	98	never to give up?
+1	433	never tries to talk to you, though?
+1	625	new body, it's now much stronger. It's a
+1	393	new management, but your job description
+1	428	next stage if Extra Heroes leave, you
+1	243	next time.
+1	665	nice day...
+1	108	nice dungeon. Even tough heroes would
+1	56	nice gods why I summoned them?
+1	423	nice things happen.
+1	56	nice to meet you. My name's Badmella.'
+1	624	nice, narrow corridor with a hero being
+1	394	nights coming up with that deeply moving
+1	14	no good. There was something fishy about
+1	435	no wonder you've dominated 66.666% of'
+1	513	no-mark heroes!
+1	27	nonsense. But you're a big softie!'
+1	90	nonsense?
+1	12	not going to see it in its full neck-
+1	254	not happy with them...
+1	23	not have another try?
+1	66	not one but TWO Gods of Destruction.
+1	60	not satisfied. Listen to this one...
+1	393	not that simple...
+1	87	not to worry. Now to the Underworld
+1	444	not working!
+1	416	noticeable, but...
+1	524	now I'm at their mercy...'
+1	436	now!
+1	515	now.
+1	441	number of heroes headed right this way.
+1	227	number of nutrients. You can choose how
+1	625	numbers of Omnoms <col:255,0,0,255>starve to death</col>.
+1	72	nuptials has made me sensitive to folks
+1	24	nutrient and mana levels.
+1	22	nutrient-fuelled Level 2 runes.
+1	622	nutrient-spawned brethren.
+1	22	nutrients BEFORE making the rune.
+1	231	nutrients and mana, you may not be
+1	624	nutrients before it dies...
+1	28	nutrients from water and soil.
+1	36	nutrients into near-by soil, which water
+1	224	nutrients, choose which monsters you
+1	23	nutrients, you won't be able to spawn'
+1	89	obsessively at my chin. Well, each to
+1	617	of 10 wiggly and wonderful Omnoms!
+1	444	of Destruction is too...
+1	16	of Destruction, there's a way!'
+1	22	of Destruction, what the heck are you
+1	637	of Level 3 soil.
+1	519	of a Hero Rush. This sort of carry-on is
+1	624	of dragonkind? Or did you get a Lilith
+1	631	of dungeon design. Unless you master
+1	23	of effort, but that's par for the course'
+1	391	of evilness...
+1	262	of fifty tough tests! Let the God
+1	69	of forward planning, darn it!
+1	438	of hero-flummoxing fun!
+1	107	of mediocrity.
+1	75	of my unparalleled evilness?
+1	34	of neglect.
+1	32	of nutrition is too high, Dvagons won't'
+1	413	of our dastardly dungeon!
+1	69	of pathetic whelpdom! How dare he darken
+1	56	of pickaxe-wielding gods.
+1	30	of soil that you don't want to absorb'
+1	613	of stats like that!?
+1	58	of the Underworld? I can't be a hero's
+1	637	of the basics.
+1	57	of the cool Overlords do it...
+1	653	of the dungeon.
+1	441	of the final hero assault.
+1	433	of the way at once! ...No?
+1	37	of the worst case scenario...
+1	79	of those hopeless heroes...
+1	422	of time has passed</col>.
+1	632	off by the heroes. The End.
+1	413	off if they find me, though. They're'
+1	542	off one at a time and level up.
+1	90	off to open a cafe or something.
+1	190	off, it's curtains for you and the'
+1	412	off, of course.
+1	429	off. We need to claw back a little
+1	417	off</col>, so be careful!
+1	61	old man in his full glory.
+1	84	old man...
+1	280	old-fashioned physical way, they'll go'
+1	234	ominously drifts up from the depths of
+1	405	on Area 2, shall we?
+1	84	on Dig Power, but you should be able to
+1	517	on building your dungeon without runes
+1	616	on land. Yes, reality is a cruel, cruel
+1	624	on laying an egg.
+1	80	on reality. This isn't good...'
+1	515	on stages you've already cleared.'
+1	238	on the Daily Challenge difficulty scale,
+1	635	on their numbers.
+1	417	on their way to a suitably hellish
+1	68	on their way. But I'll make sure their'
+1	392	on to Ludgala Tower and get into our
+1	444	on with your lives, and one day you'll'
+1	655	once more, My Lord!
+1	30	once, so pay close attention, My Lord.
+1	84	one at a time.
+1	35	one direction when they're sniffing'
+1	61	one of the big pickaxes. It was fun!~
+1	392	one way to skin a hero!
+1	257	one, won't you?'
+1	65	one.
+1	68	only bride will be DEATH!
+1	215	only has three dimensions! There's no'
+1	267	only just beginning...
+1	2	only one who understands me, My Lord.
+1	28	only the Water Lilies that come to the
+1	28	only water, those Molds just aren't'
+1	431	open and watch what happens!
+1	526	operations, but use the water's flow and'
+1	613	opportunity to find new and fresh
+1	442	oppressor's throne! Whoopee!!!'
+1	512	or <col:255,0,153,255>practice it up</col> in <col:255,0,153,255>Badman's Chamber</col>?'
+1	77	or <col:255,0,153,255>~the Warrior is weak against magic~</col>
+1	428	or amount of Horde Power.
+1	271	or completely the opposite.
+1	225	or create a completely new one?
+1	666	or get water flowing.
+1	58	or it's Game Over!'
+1	526	or land-based monsters?
+1	23	or more mana, you can't relax just yet!'
+1	255	or something!
+1	256	or something, and come back when you're'
+1	443	or something?
+1	78	or the <col:255,0,153,255>Scuffle Shuffle</col>.
+1	539	or they just look a lot like them...
+1	526	or to launch rapid attacks.
+1	27	or you'll end up with Hurtle soup.'
+1	38	or ~dinking~, as I call it...
+1	77	or...
+1	28	other soil or water.
+1	441	our efforts go to waste, Lord.
+1	441	our fate is almost upon us.
+1	425	our fiendish trap!
+1	444	our world might as well not exist, is
+1	419	ours! Mwah-hah-hah!
+1	534	out holy water. It's not fair, but it's
+1	11	out in Story Mode, My Lord?
+1	69	out of the box. I want a man capable
+1	626	out of your hair, give the ~n00b~
+1	3	outlandish new breeds.
+1	522	outweighing the highs.
+1	418	over the horizon, My Lord! You let
+1	422	over the world. Ha! Nice, eh?
+1	35	over this in Training - and you know
+1	16	pains clean away?
+1	437	pair of newcomers.
+1	283	panic. There's still just about enough'
+1	57	parental duties.
+1	56	parental-workplace-observational-report-
+1	626	particular beast appearing, or Horde
+1	280	particular challenge, nutrient-based
+1	428	particular heroes - they're scouts. Or,'
+1	1	particular type of hero.
+1	92	partner is up to.
+1	634	passageway.
+1	48	patience? I have a very limited supply.
+1	628	patient and thorough explanation not
+1	518	paying the price!
+1	624	peerless. But it's the fiery breath that'
+1	635	penchant for munching Lizardmen's'
+1	630	perchance?
+1	420	perfect start to the Ludgala Tower
+1	435	person run away is a big stupid idiot!
+1	60	phlebotomize and all will quail before
+1	38	physical attacks.
+1	229	pick too. But it hurts.
+1	0	pickaxe at home!
+1	91	pickaxe skills simultaneously.
+1	29	pickaxe skills to perfection?
+1	393	pickaxe that looked after the dungeon
+1	403	pickaxe.
+1	613	pickaxes that are new to you to keep
+1	61	pickaxes to do his evil bidding. I want
+1	412	picking and blind luck...
+1	367	pickmanship! Why not store it forever
+1	2	pickwork and sympathetic nature, I don't'
+1	527	pile into my beloved dungeon. Ah, I
+1	33	pincers!
+1	75	pitiful display, My Lords.
+1	87	place <col:255,0,153,255>loads of monsters all around him</col>.
+1	430	place and muttering all those strange
+1	81	place is even worse!
+1	4	plain old Long Omnoms.
+1	169	plans for world domination.
+1	58	plans to leave her old man all alone,
+1	83	plans, I'll just pop back down to'
+1	377	play in the sun. Or hang around here if
+1	100	play with, Pickaxe!
+1	253	play! Let's begin Daily Challenge'
+1	22	playing at!?
+1	430	pleased about those strange skills they
+1	538	plenty of skin. This must have been
+1	393	plot twist, don't you? Why, you're one
+1	218	point if things go wrong...
+1	254	point keeping your results if you're'
+1	524	point of slaying a hero when they go
+1	428	poke around for a while, and then
+1	86	pop back to the Underworld...
+1	2	popular.
+1	113	population is a little off.
+1	117	population keeps falling, you might
+1	274	population might not be much of a
+1	113	population to the %s
+1	113	population will starve.
+1	392	posse of ne'er-do-well chums get back,'
+1	428	possibly can.
+1	429	potential you had, My Lord.
+1	91	power of...<col:255,0,153,255>Scuffle Shuffle</col>!
+1	373	powerful Dontkallmiaquitter spell so
+1	635	precious eggs.
+1	26	precision and extreme prejudice.
+1	417	prepare yourself!
+1	18	prevail! Mwah-hah-hah!
+1	9	previous luster in the wink of an eye.
+1	13	prey safe from predators or for slowing
+1	35	prioritize searching up, down, left or
+1	427	probably go this time too.
+1	412	probably sensed this already, but
+1	408	problems! You have to face reality!
+1	286	problems. Probably.
+1	538	programmed by a sad... Um. Yes.
+1	634	propagating in no time.
+1	69	properly leveling up.
+1	257	proves a wise one. Let's continue,'
+1	444	pulled out! Ahhhh!!!
+1	435	pulp instead.
+1	16	quick dip and wash today's aches and'
+1	296	quick.
+1	56	quiet for a moment.
+1	20	race has been and gone. It's going to be'
+1	0	race is assured!
+1	257	rank for this stage will be Deleted.
+1	77	ranting and actually give you proper
+1	520	rather short tether, My Lord! Why here?
+1	77	raving, right? Do you really want
+1	231	reaches MAX.
+1	393	ready to rule the world above and below
+1	121	real god after all.
+1	295	really are a devil-may-care deity of
+1	60	really understand and laugh like a loon
+1	62	really...
+1	27	reason, we need to try another approach.
+1	422	reconnaissance mission. And they'll'
+1	234	reduces stress and boosts power!
+1	631	regurgitate their nutrients on.
+1	636	relying solely on soil to spawn Liliths,
+1	623	remarkable ability...
+1	519	remember. Now get back in there and give
+1	254	replay the same 10 challenges?
+1	661	represents their <col:255,0,153,255>motivation</col>.
+1	636	reproduce like it's going out of style.'
+1	56	require proper explanations! Now keep
+1	63	required!
+1	538	rescue me. Follow your dream, My Lord!
+1	417	resting place! Mwah-hah!
+1	37	retch!
+1	370	retire?
+1	258	retry this challenge?
+1	412	return home.
+1	365	return to reality at some point.
+1	535	revive your bad self.
+1	9	revived prehistoric beast or two to
+1	33	revolutionary uprising had been prepared
+1	424	ridding me of all these horrendous
+1	540	ridiculously, stupendously unfair...
+1	35	right.
+1	444	right? Go on, don't mind me.'
+1	526	rightitude and decency!?
+1	517	rile me up, My Lord?
+1	613	rings my doorbell with the L/R buttons,
+1	234	ritual. I shout it out once a day. It
+1	215	room for more monsters!
+1	38	round like there's no tomorrow you have'
+1	513	round you, perhaps you could try the
+1	424	ruffians down here! Deal with them,
+1	12	rumors that they can rank up to become
+1	433	run off again.
+1	424	run-of-the-mill meatheads to deal with.
+1	35	rune at the center, aiming to get the
+1	517	runeborn beast, this hero will
+1	119	runeborn monsters.
+1	623	runes! I'll sleep easier tonight...'
+1	78	running rings round us.
+1	2	running!
+1	641	rusty pickaxe-waving idiot!
+1	661	sags as they walk around.
+1	637	same manner as Slimemosses.
+1	383	same settings?
+1	91	same time</col> will release the fearsome
+1	636	same way as Slimemosses.
+1	84	same without Badmella...
+1	35	sap their magic and summon a Mara!
+1	621	save precious Dig Power!
+1	363	saved. You can only save up to 40
+1	66	says is correct, we've exterminated'
+1	635	scaly mind naturally turns to breeding.
+1	429	scout as well.
+1	618	scream of a slain hero? You did it, you
+1	64	screaming? I didn't think humans could'
+1	434	screams! Quickly! I want to hear them
+1	444	second of course, My Lord.
+1	392	second tower. Once that falls into our
+1	3	see this marvelous moss.
+1	103	see...%smonsters
+1	428	seeing what happens.
+1	412	seen before is making their treacherous
+1	403	select Castle Noneim! And do it NOW!
+1	232	self!
+1	424	self-righteous smiles off their faces,
+1	69	selfish, demanding words could have come
+1	77	sensible advice like...
+1	523	sensible can hope to understand.
+1	428	sent to test world dominators!
+1	88	sentimental garbage?
+1	56	seriously indeed.
+1	414	seriously worried waves coming from
+1	56	serve Badmella's. You'll dig, spawn
+1	626	set to ~n00b~.
+1	413	setting for your pathetic romantic
+1	383	settings you want.
+1	88	shape.
+1	615	shooting up!
+1	277	shouldn't be too tough.'
+1	613	shouldn't feel trapped by the rules of'
+1	64	shout that loud...
+1	638	show you my current dismembered state
+1	61	showing off to impress me!? He's a'
+1	85	shut up that loud-mouthed Warrior with
+1	667	shut, pause the game and adjust the
+1	87	side to me!
+1	393	simply inherit the whole world, but it's'
+1	62	since your mother skipped town!
+1	38	sizzling-hot hero barbecue.
+1	73	skeletal remains! Now doesn't that sound'
+1	431	skeleton. Tap it and it might even
+1	96	skill it has. How exciting!
+1	654	skills and much more by selecting
+1	32	skills are pretty sub-par.
+1	530	skills into the mix...
+1	417	skills or something.
+1	443	skills!
+1	622	skin is so silky-smooth...
+1	257	skip this challenge?
+1	78	skipping your essential training!
+1	425	sky-high! Well, roof high...
+1	65	slain no doubt have other heroic buddies
+1	59	slaughter them in.
+1	534	sleeves.
+1	438	slouching and listen up, you stupid
+1	418	slumber, fools! It's the only rest'
+1	627	sly for your own good, My Lord!
+1	536	smash 'em up good.'
+1	79	so <col:255,0,153,255>attacks from Aquachnids and Hurtles</col>
+1	82	so I'll leave you with some words of'
+1	444	so gloomy.
+1	15	so if ever you have the chance, seize it
+1	428	so the next stage will be that much
+1	513	so you can <col:255,0,153,255>level up</col> my minions?
+1	428	so-and-sos think they are?
+1	629	soil and it'll be a breeze! Well, it'
+1	638	soil isn't all that taxing! It's just
+1	283	soil left to work with.
+1	23	soil that's absorbed 8 or more mana.'
+1	24	soil to top up depleted nutrient levels.
+1	629	soil you can see in the picture, you'll'
+1	630	soil, Water Lily Buds will grow. Then
+1	34	solution here.
+1	241	solved every puzzle.
+1	121	some chancer digging away at random!
+1	24	some other combinations.
+1	534	some pretty nasty skills up their baggy
+1	444	some time?
+1	637	some way. Hah! As if!
+1	433	someday, but right now we're busy,'
+1	428	someone's torn the guts out of it!'
+1	428	something chronic!
+1	428	something right, My Lord!
+1	433	something...nostalgic about them. Do
+1	444	sometime! Whenever you want!
+1	444	sometimes even cry with us...
+1	62	somewhere with Badmella's training.'
+1	410	soon. Farewell!
+1	436	soon...
+1	71	sorry singleton hero!
+1	297	sort dad out. You get on and hammer
+1	418	sound like a giver-upper! Ugh!
+1	639	spawn 'em like crazy! Oh yeah, I know'
+1	629	spawn Slimemosses.
+1	414	special objectives, such as monster-
+1	428	spells! We'll still destroy you!'
+1	418	spilt milk.
+1	31	split the heroes up and get them to face
+1	630	splosh water about. Think first!
+1	632	spread too thinly, and they can dispatch
+1	63	squished and splatted.
+1	430	stage nonetheless. An appetizer,
+1	257	stage. Try and do better on the next
+1	437	standing nice and still.
+1	444	standing up to a hero's blows?'
+1	425	start eating other monsters.
+1	105	started digging, how can I give you
+1	393	state.
+1	433	state. You'd better batter them.'
+1	56	stay out of my way or I'll curse you and'
+1	86	stealing my darling daughter's first'
+1	419	steam are you, My Lord?
+1	372	steam, were you?
+1	240	step on the journey to greatness. One
+1	16	stick together.
+1	36	sticky Aquachnid attacks.
+1	429	still clear the stage. You just won't'
+1	402	still dying to go there, right?
+1	91	still in the dungeon when the Scuffle
+1	27	still just kids.
+1	417	still take great pleasure in carting me
+1	384	still thinking...
+1	417	stinky sweat, they'll probably go home.'
+1	695	stinky way!
+1	274	stocked with a good supply of
+1	38	stockpile water somewhere suitable.
+1	85	stomp on them myself. It makes me sick!
+1	59	stood there...~
+1	530	stopping heroes in their tracks. There's'
+1	285	stopping you, My Lord!
+1	274	storm.
+1	393	straight down to business.
+1	69	straight from your mother's lips!'
+1	106	strength at the moment...
+1	441	strength is even sillier! Don't let all'
+1	643	strength, so you can't level them up.'
+1	34	strength. You couldn't face them in a'
+1	12	stretching glory.
+1	427	strings the whole time...
+1	642	strong enough. You can't level them'
+1	3	strong or anything. It's just...well...'
+1	513	struggling too...
+1	613	stuck in your ways?
+1	60	stumbling over the difficult words.
+1	60	stygian depths of the lowest echelon of
+1	514	subtleties. But you will, My Lord!
+1	442	success for even a moment!
+1	68	such high standards.
+1	628	sufficient?
+1	523	summon underlings from dimensions no one
+1	219	summon. You can pick up to three.
+1	56	summoned you here today, right?
+1	616	supply.
+1	418	suppose... Ach! What am I saying!? I
+1	22	sure the soil has absorbed 30 or more
+1	28	surface and transfer its nutrients to
+1	12	surprised. It is called a Long Dragon.
+1	413	sweethearts who will tear you lovingly
+1	619	swell your Water Lily population, you'll'
+1	9	swim in that ocean.
+1	277	swimming? I do.
+1	234	switch you mustn't push?'
+1	67	sword that doesn't exactly scream Alpha'
+1	626	tail and run, the wretches!
+1	622	take a deep breath and consult this
+1	296	take a quick look around?
+1	295	take those techniques from the
+1	537	takes to slay them.
+1	393	taking on another sequel...
+1	8	taking on heroes, and you'll be sure'
+1	672	taking one of them out.
+1	391	talking. But I'm almost never wrong...'
+1	631	targeted area of soil, and you'll level'
+1	413	taste of: Monster Surprise!
+1	3	tasty meat and yummy jerky?
+1	236	tea, then by all means give them a go.
+1	28	technique that might be better left for
+1	615	technology, it's not going to break'
+1	75	tell me you've completed the Training.'
+1	427	tell them it was a pickaxe pulling the
+1	613	terrible tragedy. And are you creating
+1	434	terrible! Get a move on!
+1	438	terror bring the day of world
+1	427	than I thought it would. Did you think
+1	625	than a Serpent Omnom!
+1	233	than before, My Lord!
+1	640	than bottle it up...
+1	420	than in previous titles, you see. Check
+1	22	than running a bar...
+1	618	than they fly solo.
+1	528	than this.
+1	286	than usual.
+1	432	than...life...itself!
+1	11	that Skeleman very happy. Look at his
+1	444	that about right?
+1	80	that already!~
+1	437	that and the resurrection's out of the'
+1	439	that appear when you tap them?
+1	59	that behind every glorious victory lies
+1	226	that contains it.
+1	63	that ends well, My Lords.
+1	429	that escapes, don't you?'
+1	430	that even bother coming near the
+1	424	that nonsense!
+1	442	that since the Pickalocalypse!
+1	39	that this hero moves right, left, down
+1	632	that was poor. Very poor indeed.
+1	20	that we needed a weakened Dragon to lay
+1	63	that weird raspy voice?
+1	418	that! How do you think it makes us look
+1	72	that! I see no reason why two Gods of
+1	186	that! Take this seriously, will you?
+1	228	that's not in your Almanac.'
+1	268	that, My Lord... Anyway, good luck!
+1	92	the 30 seconds runs out, the
+1	241	the God Aptitude Test levels.
+1	370	the Irrisponsybildeity spell and let you
+1	31	the Skeleman one by one.
+1	83	the Underworld.
+1	234	the Underworld. Please wait...
+1	28	the Water Lilies that spring up.
+1	626	the World Map in Story Mode. But I bet
+1	540	the absolute max? Or how about spawning
+1	56	the baddest man around.
+1	5	the bank!
+1	412	the battering they deserve. They don't'
+1	2	the bottom...
+1	73	the chips are down, not some wheyfaced
+1	432	the count...
+1	419	the crest of this wave of devastating,
+1	628	the darkest recesses of the dungeon.
+1	56	the death penalty and everything!
+1	632	the deepest bowels of the dungeon!
+1	116	the dungeon is just right!
+1	623	the dungeon of your dreams.
+1	536	the dungeon with them.
+1	444	the dungeon...
+1	438	the dying screams of...heroes...and...
+1	38	the end and I'd say you could enjoy a'
+1	413	the experience from today's battle to'
+1	440	the experience~ kind of thing...
+1	417	the expressway to hell!
+1	369	the giving-up spell, Hadennuficus and
+1	441	the glorious age of darkness will be
+1	522	the greater the damage done by heroes''
+1	418	the hang of this dungeon-digging lark?
+1	392	the hard work will all be done!
+1	536	the hero drops.
+1	39	the hero will get to last of all.
+1	518	the hero-slaying cause, I've ended up'
+1	519	the heroes out methodically, one at a
+1	134	the heroes will be here soon!
+1	391	the heroes.
+1	30	the ideal entity to be entrusted with
+1	66	the issue in hand - namely, your crucial
+1	12	the job, My Lord!
+1	439	the juices from the hero's corpse!'
+1	432	the key to reviving Overlords!
+1	529	the level. And now it's Game Over and'
+1	60	the might of Badman!
+1	296	the monsters and heroes there would
+1	432	the monsters, then they'll go.'
+1	429	the next Extra Hero. This one's a'
+1	7	the next batch of heroes.
+1	635	the nutrient cycle and overseeing
+1	413	the one dessert they don't like the'
+1	74	the other day and that's how all this'
+1	636	the other does the same for mana.
+1	74	the other's 3D, but don't let that stand
+1	13	the path of beasts and heroes alike.
+1	522	the path to world domination, we've seen'
+1	631	the picture above and get Slimemosses
+1	438	the power of your...passion...
+1	391	the power to destroy all the heroes who
+1	254	the results of this run-through.
+1	636	the same as that of nutrients.
+1	391	the screen...
+1	613	the series up to now.
+1	639	the signs of impending mutation.
+1	653	the situation simpler to grasp.
+1	22	the soil in question so it could absorb
+1	630	the soil it passes, so don't senselessly'
+1	515	the start of this level, right?
+1	392	the stone face of that mountain! It's a'
+1	393	the surface.
+1	640	the time runs out.
+1	444	the time to take over the world with us.
+1	164	the time, please?
+1	65	the towel. I've finally worked it out...'
+1	641	the training exercises so far should
+1	414	the very next stage! It's Extra Hero'
+1	418	the way it is.
+1	24	the way you want them.
+1	435	the way. Smash 'em, and we'll soon have
+1	71	the way. Three of them, no less.
+1	444	the whole time, didn't we?'
+1	416	the whole tower thing wasn't so'
+1	86	the witch doctor said about your
+1	435	the world already!
+1	438	the world of heroes!
+1	9	the world was covered in water, this
+1	444	the world, but...
+1	435	the world...I shall return...!
+1	444	the worlds you've been to, is it?'
+1	614	the □ button held down, you can dig
+1	438	the...God...of...Destruction... They...
+1	623	their attractive and tasteful patterns.
+1	616	their life expectancy is minimal.
+1	661	their motivation goes up, while it
+1	524	their name.
+1	22	their nutrients.
+1	1	their own abilities.
+1	393	their own against us.
+1	89	their own, I suppose.
+1	89	their sails.
+1	27	them a tap or two with your pick.
+1	429	them didn't do too much damage.'
+1	39	them down just in time. Give it a try,
+1	418	them escape!
+1	519	them heck!
+1	6	them in the heat of battle to make
+1	416	them know they've been conquered.'
+1	3	them to store large amounts of mana.
+1	635	them with a plentiful supply of Omnoms.
+1	14	them, My Lord.
+1	425	them, they blow their box-like forms
+1	622	them.
+1	613	then I suppose it's nonsense. But what'
+1	22	then get it to absorb Spirits.
+1	429	then go home and snivel to all their
+1	425	then go home.
+1	20	then sit back and watch it! They won't'
+1	14	then the heroes go and get stronger too!
+1	36	then turns into Water Lily Buds.
+1	39	then up!
+1	81	then you need to take a long hard look
+1	29	then, so why not use it to polish your
+1	261	then?
+1	422	there are some Extra Heroes on the
+1	412	there are two heroes on the way.
+1	429	there asleep on my feet...
+1	425	there's a scouting party on the way'
+1	391	there's more of it for me to conquer.'
+1	30	there's no limit to the terror and fear'
+1	17	there's no way of telling which way it's
+1	381	these parts again someday.
+1	297	these situations.
+1	434	they come! With you on my side, I
+1	425	they consume.
+1	35	they had up their sleeve!
+1	542	they just wander about racking up
+1	439	they kill heroes?
+1	431	they leave the oven on or something?
+1	530	they own the place. They're making a'
+1	64	they pick another dungeon?
+1	34	they picked a fight with us!
+1	9	they pop out, but don't say anything or'
+1	619	they really do boost dungeon IQ.
+1	19	they turn tail and escape
+1	2	they work, or what things are like on the
+1	635	they'll eat those eggs, so keep a lid'
+1	425	they'll just wander around a bit and'
+1	413	they'll only return once they've
+1	435	they'll run off.'
+1	49	they're going to get, My Lord!'
+1	393	they're no slouches. They're holding
+1	653	they're on their way.'
+1	626	they've achieved their goal, they turn'
+1	432	they've got Extra Heroes running from'
+1	417	thing, but it doesn't do much for our'
+1	4	things I don't like. It's a long list...
+1	229	things about your monsters
+1	613	things fresh.
+1	391	things get going, but for now, let's'
+1	59	things look so easy.
+1	532	think about what you've done!'
+1	6	think: ~If this soil had 2 more mana,
+1	65	think? I've cracked it, right?'
+1	236	thinking, judgment or technique.
+1	435	this area under our control!
+1	61	this castle...
+1	410	this crazy, dark, twisted world sometime
+1	77	this dying-with-dignity thing!
+1	540	this far shows that you have a firm
+1	428	this one escape, will you?
+1	73	this sorry bunch. ...Oh, look! Our last
+1	543	this sorry sight...
+1	80	this state, I'm going to give you some'
+1	414	this time there's a <col:255,0,153,255>Hero Rush</col> on'
+1	265	this time.
+1	437	this'll be a real test of how far'
+1	169	this. Ooh, here come the heroes!
+1	36	those do-gooders off the face of the
+1	620	those heroes into compost, just the way
+1	6	those heroes into mincemeat!
+1	78	those heroes won't know what's hit them.
+1	415	those heroes!
+1	297	those heroes, Pickaxe.
+1	119	those of heroes.
+1	38	those powerful monsters you'd lined'
+1	25	those wretched heroes.
+1	56	thought it'd be good to call a couple'
+1	74	thought she deserved a nice boyfriend
+1	426	thought-out strategy succeeded!
+1	432	thought...
+1	618	threat they pose.
+1	444	threaten our way of life.
+1	31	three heroes at the same time.
+1	265	three parts.
+1	424	three. They're on the look-out for rare'
+1	436	through the dungeon door!
+1	516	through them and attack.
+1	620	ticking along.
+1	9	till you find all of those prehistoric
+1	4	time I've seen one in the flesh.'
+1	66	time fly by.
+1	631	time for a little more lecturing...
+1	9	time to time...
+1	533	time! Are you playing on Hard?
+1	414	time, My Lord!
+1	444	time, but for us...
+1	260	time, but that's no reason to be'
+1	82	time, not just when you're digging.'
+1	519	time.
+1	532	times in your best handwriting and
+1	422	times!
+1	12	times, can't you, My Lord?'
+1	628	tired and clear off home.
+1	641	titan.
+1	613	title screen has always made something
+1	74	titles. No one knows you!
+1	38	to be careful of.
+1	4	to be discovered.
+1	61	to be like him when I grow up.~
+1	92	to call the <col:255,0,153,255>30-Second Showdown</col>!
+1	637	to carry nutrients and make a block
+1	391	to conquer this entire world!
+1	515	to contend with. They're not as stupid'
+1	620	to deal with the heroes, world conquest
+1	537	to defeat them.
+1	56	to dig a deadly dungeon and take out any
+1	635	to dig in order to get Level 3 soil...
+1	414	to do Stages 1, 2 and 3 in one go!
+1	444	to do the same.
+1	661	to do to get a moment's peace!?'
+1	74	to do with this...
+1	681	to do...?
+1	34	to drag me to the surface, there'll still'
+1	536	to drop them, they can really infest
+1	61	to get the gods to do my will
+1	527	to get your divine mitts on pickaxes
+1	418	to get...gooder. Ahem.
+1	682	to go to...?
+1	533	to gods who can handle it!
+1	86	to have the wedding. But first, I'll'
+1	406	to head to Castle Noneim?
+1	432	to it, that's fine by me.'
+1	624	to kill the hero, you big cheat?
+1	56	to know how evil and great I am!
+1	639	to leave things be for a while!
+1	644	to level up your minions, My Lord.
+1	622	to magic to tears. And then they'll kill'
+1	8	to make a splash!
+1	241	to meet them all. I've no idea why you'
+1	61	to my poor behavior.
+1	391	to one side, shall we?
+1	57	to one who would conquer the world!?
+1	87	to plan our new house...
+1	31	to provide cover. Just don't let her'
+1	234	to push the switch. Here goes...
+1	224	to relax and dig a dungeon at your
+1	418	to schadenfreude! Give those heroes
+1	17	to sleep or help them recover.
+1	60	to sound?
+1	222	to spawn.
+1	58	to stop this wedding ever taking place,
+1	542	to take out heroes, make sure loads of
+1	378	to the bitter end is highly admirable.
+1	234	to the palace and my book and slippers.
+1	422	to the surface after a certain amount
+1	35	to their wanderings.
+1	537	to throw in the towel.
+1	82	to use their <col:255,0,153,255>healing spells</col>.
+1	25	to work again! Ah, well...
+1	614	to world domination.
+1	231	to your dungeon at will!
+1	414	to ~n00b~.
+1	624	toasted at one end.
+1	32	toasts them with a jet of flame.
+1	386	today.
+1	61	together nicely. Many thanks, My Lords!
+1	618	together to cover each other's'
+1	441	together! And they were ugly! Ha!
+1	371	together.
+1	78	together...
+1	640	told me it's better to let my rage out'
+1	280	too easily with magic.
+1	621	too much extraneous digging.
+1	533	too much for you? They come one at a
+1	56	too shabby, are they?
+1	28	top of blocks of soil to flow into the
+1	63	top of my voice could get me into hot
+1	60	torment me once again.
+1	433	tortured screams of excruciating agony,
+1	534	touches it, so slay Shamans before
+1	618	toughest nuts.
+1	290	toughie! Brace yourself...
+1	30	towards the soil in the center little by
+1	7	training or giving me any more back talk!
+1	78	training, the heroes would end up
+1	66	training.
+1	93	treading on each other's toes.'
+1	17	treasure chests and run the risk that
+1	425	treasure chests?
+1	256	trick, eh? A classic God of
+1	224	trouble with, you can bring them here
+1	657	trusty <col:255,0,153,255>Almanac</col>.
+1	622	trusty tome.
+1	428	try playing through a few times and
+1	291	try them out.
+1	32	try!
+1	110	trying to complete the game without
+1	422	turn them into dungeon fertilizer and
+1	620	turn. It's your job to keep this cycle'
+1	615	tutor/tutor02_04.gim
+1	629	tutor/tutor02_05.gim
+1	616	tutor/tutor03_09.gim
+1	630	tutor/tutor03_10.gim
+1	618	tutor/tutor05_07.gim
+1	618	tutor/tutor05_08.gim
+1	619	tutor/tutor06_07.gim
+1	620	tutor/tutor07_06.gim
+1	622	tutor/tutor09_06.gim
+1	622	tutor/tutor09_07.gim
+1	623	tutor/tutor10_06.gim
+1	623	tutor/tutor10_07.gim
+1	624	tutor/tutor11_07.gim
+1	442	twinge of sadness about it...
+1	431	two could be trouble. A priest and a
+1	59	two gods did all the hard work. Dad just
+1	59	two heroes, so build a nice dungeon to
+1	392	underground positions!
+1	527	unleash your <col:255,0,153,255>pickaxe skill</col>?
+1	621	unmistakable stench of freshly-hatched
+1	92	unthinkable will be averted!
+1	23	until it blossoms.
+1	517	until you clear Stage 2
+1	295	unwelcoming welcome.
+1	25	up a Herculomnom, we'd never have had'
+1	28	up all the soil, O Evil One!
+1	618	up and come in twos or threes more often
+1	240	up and finish it, will you?
+1	636	up and regurgitates nutrients, while
+1	642	up any more, My Lord!
+1	20	up culling the poor Dragon. Oh, My Lord,
+1	71	up his dandruff.
+1	16	up in, but we'll be fine as long as we'
+1	657	up on heroes or monsters, consult your
+1	423	up one of those balls that dead
+1	616	up simply draining an area of its water
+1	32	up so the Dvagon can digest it.
+1	531	up so tight?
+1	3	up the Almanac, don't you?'
+1	80	up the dungeon willy-nilly, it's not'
+1	38	up to splatter him.
+1	69	up way too much before daring to take on
+1	65	up with that one...
+1	618	up with your horde slain and heroes
+1	26	up your pick-to-eye coordination and
+1	618	up, take aim at their weak points and
+1	441	upon us at last!
+1	616	urge to flop onto dry land, their life
+1	442	us to part. Ahh, I even feel a little
+1	364	use Replay to look over past glories,
+1	92	use the fabulous <col:255,0,153,255>Famcam</col>!
+1	654	use up a chunk of your Dig Power.
+1	80	useful in a <col:255,0,153,255>spacious, sprawling dungeon</col>.
+1	657	useful information and outright guff!
+1	110	using any Slimemosses?
+1	529	valuable energy on those Extra Heroes.
+1	518	various abilities double in strength.
+1	109	veritable hero slaughterhouse!
+1	422	very careful...
+1	393	very concerned about Badman's current'
+1	80	very effective.
+1	423	very nice things - new pickaxes, to be
+1	0	victory in this season's monster'
+1	525	view of proceedings.
+1	391	visage... Haven't I seen you before?'
+1	434	wailing their guts out!
+1	65	waiting for them to return.
+1	623	waiting for you to summon them, My Lord!
+1	428	wander off home again.
+1	225	want to continue with an old dungeon,
+1	378	want to start over, My Lord?
+1	224	want, and much more!
+1	435	wanted to try being a bit encouraging
+1	96	wanted, isn't it? I wonder what special'
+1	374	wants to retire. Want me to cast the
+1	34	war of attrition seems to be the only
+1	537	warcry. It has no special effects, but
+1	431	warrior...
+1	57	was lecturing you, Badmella.
+1	21	was more than a little lacking.
+1	629	wasn't difficult to begin with...'
+1	8	wasteful dungeon-digging.
+1	413	watch carefully over you, My Lord!
+1	630	water to flow and then dig a channel to
+1	28	water's surface.'
+1	28	water, it will be purified. Yuck!
+1	63	water, so I'll whisper this...'
+1	77	way I am, right, My Lords?
+1	412	way here as we speak!
+1	514	way till it hits a wall. But there are
+1	428	way too. Ahh well, such are the trials
+1	417	way! And it looks like a toughie! Ah,
+1	422	way...
+1	27	ways and shape up. Just don't overdo it'
+1	9	ways to cheer you up when you failed
+1	1	ways to design your dungeon.
+1	613	ways to play.
+1	297	we agree on everything.
+1	30	we can inflict on the world!
+1	391	we conquered the world before?
+1	425	we should be fine.
+1	391	we want to go to. Ah, it all feels so
+1	295	we were heading for the tower, but
+1	422	we'll move on.'
+1	295	we're underground. Don't worry.
+1	32	weak jaws.
+1	618	weak points.
+1	31	weakest, most pathetic hero.
+1	86	wear me out.
+1	542	wearing their socks inside-out!
+1	515	weather of the heroes you faced up to
+1	437	weeks! It's going to destroy me all over'
+1	427	welcome them to a new and terrifying
+1	93	well</col>. You have been warned!
+1	18	were a handful indeed.
+1	10	were born to swing that pickaxe!
+1	430	were using either.
+1	20	what am I going to do with you?
+1	29	what's a few millennia between friends?'
+1	60	whatever happens, keep laughing.
+1	58	whelp!? Over my dead body!
+1	21	whelps, you're going to have to knuckle'
+1	615	when it goes beyond 9,999.
+1	13	when they're that bit smarter.'
+1	69	when they've just leveled up...'
+1	27	when you need to be firm.
+1	526	where monsters are thin on the ground
+1	63	where we left off, shall we?
+1	424	where your mouth is!
+1	295	while, so we need to prepare a suitably
+1	619	whimsical tastes, you can bring forth
+1	74	who could double as a sub-boss.
+1	19	who disrupt my dungeon and then run off.
+1	527	who look like they have Dragon Orbs,
+1	535	who never fulfilled her destiny.
+1	413	who underestimate the fiendish dangers
+1	72	who were made for each other...
+1	417	who's aiming to carry out monster'
+1	289	whoever it is, I'm sure they're no
+1	33	whole Anthill-building malarkey?
+1	273	whole stages. Formidable work, My Lord!
+1	539	whole troop of monsters on them.
+1	443	whole world is mine to command.
+1	27	wielding a gargantuan pickaxe.
+1	12	wildest dreams.
+1	30	will absorb this goodness, so don't cull'
+1	518	will be cut in half.
+1	632	will be massacred and I'll be carted'
+1	67	will be on display next time...
+1	28	will become Molds which grow by sucking
+1	625	will become eminently slayable.
+1	115	will eat them all.
+1	637	will get sucked in, so just point them
+1	633	will gush forth. Wait a while and
+1	628	will have a little sniff around, get
+1	620	will remain a pipe dream.
+1	518	will sag for a time and their abilities
+1	427	will soon be ours!
+1	23	will spawn Omnoms or Liliths.
+1	619	will sprout Water Lilies.
+1	114	will starve.
+1	437	window for sure.
+1	74	wingmen. Do they find me intimidating?
+1	523	winner. Go get 'em, My Lord!'
+1	82	wisdom, Pickaxes.
+1	18	wish they'd never been born!'
+1	24	with 15 nutrients and mana also spawns
+1	36	with IQ development will give you an
+1	637	with a rune at one end and get those
+1	67	with a scrub like that makes my blood
+1	615	with all manner of deadly beasts!
+1	435	with anything more original than that?
+1	71	with at least a few friends.
+1	15	with both hands, My Lord!
+1	543	with her ugly old man?
+1	111	with high defense.
+1	258	with less than 60 seconds remaining.
+1	393	with me before?
+1	527	with new and exciting skills.
+1	417	with our lovely dungeon!
+1	541	with sharper digging skills.
+1	81	with some approximation of a plan!
+1	624	with suggestions, My Lord.
+1	28	with that one.
+1	33	with the Omnoms - and I know you know
+1	527	with the stress of rush hour?
+1	526	with their honor and justice and
+1	23	with unique monster species.
+1	432	with us! His revival must be nearer
+1	391	with your baneful presence.
+1	32	with your pick beforehand to soften it
+1	623	with! How about that?
+1	2	with, but I know we can make it.
+1	444	without us, won't you?'
+1	438	wittering...on...!
+1	71	wolf coming by himself. I prefer a man
+1	68	woman like me.
+1	519	won't appear until the current invaders'
+1	393	won't change one iota.'
+1	652	won't forget?'
+1	412	won't happily tie me up and drag me'
+1	31	won't just prevent his HP being drained'
+1	428	won't you?'
+1	430	words... Creepy...
+1	392	work of dark art!
+1	443	work, heroes, you did a great job of
+1	56	work.
+1	593	working a little too hard. But, that's'
+1	543	world hand-in-hand with Badmella than
+1	391	world lies in seizing those two towers.
+1	391	world under our thumb! Oh, whatever
+1	444	world, aren't you?'
+1	56	world-domination, don't you?'
+1	16	worrying about the consequences.
+1	89	would have taken the wind right out of
+1	517	would leave as soon as they'd defeated'
+1	444	would take it from us.
+1	35	would you?
+1	241	would, though. Anyway, bye.
+1	62	wrath! Not in front of these nice
+1	234	writing in ancient Underworldese.
+1	295	wrong. I hope...
+1	441	yes, major bummer, dudes!
+1	444	you alone?
+1	102	you began digging the dungeon? My
+1	238	you brainbox, you!
+1	373	you can abandon your training?
+1	296	you can come back down here and get
+1	526	you can move them where you want.
+1	615	you can see your ~Horde Power~ - your
+1	229	you could possibly want to know about
+1	534	you get any water flowing.
+1	673	you heard me...
+1	416	you in the next area.
+1	9	you just can't find these days used to'
+1	626	you knew that, My Lord.
+1	433	you know them from somewhere?
+1	16	you know!
+1	634	you know...
+1	431	you leave the area near the entrance as
+1	656	you like to do, My Lord.
+1	377	you like...
+1	494	you longer than 30 seconds!
+1	9	you might hurt their feelings.
+1	620	you need to scale that food chain.
+1	613	you on your toes.
+1	296	you pop out of the dungeon entrance and
+1	439	you seen those Skeleman creatures
+1	283	you should be able to spawn some Omnoms
+1	78	you show off your dual power.
+1	92	you still have a chance.
+1	20	you that time was of the essence!?
+1	413	you think?
+1	414	you this? Well...
+1	394	you wanted to take care of?
+1	235	you were yesterday, My Lord!
+1	652	you weren't grinning like a loon. Well,'
+1	38	you!
+1	613	you! Hints! Tips! Wisdom!
+1	218	you'll be able to get back to this'
+1	38	you'll be on the back foot from the'
+1	418	you'll be when it's over!
+1	1	you'll find more weird and wonderful'
+1	418	you'll get in my dungeon!'
+1	633	you'll have Water Lily Buds.'
+1	15	you'll have a powerful ally.'
+1	420	you'll have to beat them before they'
+1	226	you'll have to load the save data'
+1	32	you'll have to wait till they excrete it'
+1	80	you'll leave your minions vulnerable to'
+1	639	you'll see mutation in all its glory.'
+1	652	you're all set to give him a welcome he'
+1	24	you're digging right down to the wire.'
+1	270	you're having fun?'
+1	414	you're looking for a challenge...'
+1	656	you're wandering about the dungeon as'
+1	437	you've come.'
+1	34	you've ever created.'
+1	21	you've flunked Runeology 101.'
+1	639	you've got soul, My Lord!'
+1	627	you've got to your name, head to the'
+1	444	you've helped us win from those who'
+1	277	you've made it this far though, it'
+1	224	you've met by pressing the L button'
+1	416	you, My Lord! We've conquered'
+1	538	you.
+1	629	you. Well, I may glare at you a little,
+1	91	your Dig Power quite a bit, so don't'
+1	32	your Dvagon with prey one at a time.
+1	31	your Skeleman and he still can't win...'
+1	10	your abilities.
+1	429	your bonus decreases with each one
+1	5	your daughter in your own graven image,
+1	414	your direction...
+1	229	your dungeon.
+1	537	your dungeon. Even Gods of Destruction
+1	28	your eyes closed, My Lord!
+1	540	your godly chums. Or look online.
+1	272	your hand to let me know...
+1	418	your house and help themselves to
+1	523	your mighty pick of justice, My Lord.
+1	136	your minions. Choose wisely.
+1	119	your monsters' stats, and suppress'
+1	522	your monstrous minions.
+1	57	your mother walked out...
+1	62	your old man proud. All these years,
+1	613	your own killer moves.
+1	37	your pick to weaken them up.
+1	283	your pick, if you know what I mean.
+1	371	your pickaxe and retire?
+1	539	your pickaxe is trembling.
+1	539	your pickaxe skills to the max and set a
+1	56	your toenails will fall out.
+1	64	your training, Badmella!
+1	295	your trust in Badman, swing your pick,
+1	32	yourself a Long Dragon.
+1	220	yourself a coffee, sit back and wait
+1	74	yourself at all? If I'd known, I'd have
+1	411	yourself for plenty more.
+1	255	yourself to a nice Slimemoss cake
+1	654	~Almanac~ from the Pause Menu.
+1	613	~Dragons are the best...!~
+1	527	~Hero Rush~? ~Hero Rash~, more like!
+1	613	~If only I had a Lilith...!~
+1	10	~Nutrients-A-Go-Go~?
+1	241	~Professor~ from now on?
+1	414	~Stage Clear~ sound.
+1	494	~This is too hard!~ or something. They
+1	234	~WELL DONE FIND SWITCH. IF PUSH,
+1	412	~Whaaat!? More heroes to deal with!?
+1	646	× button!
+1	4	………………

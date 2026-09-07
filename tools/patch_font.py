@@ -350,27 +350,45 @@ def paint_cyrillic(slot00: bytes, slot01: bytes, dictionary: list[int]) -> tuple
 
 
 def add_cyrillic_aliases(slot00: bytes) -> bytes:
-    """Point each Cyrillic letter at an existing Latin cell (static atlas)."""
+    """Point Cyrillic letters at Latin cells without growing slot00.
+
+    Appends would inflate fpack past the retail ISO allocation (breaks real PSP
+    when the directory size has to change). Instead, reuse rare kana UV rows.
+    """
     _, recs = parse_slot00(slot00)
-    by_cp = {rec_cp(r): r for r in recs}
-    existing = set(by_cp)
-    added = 0
+    by_cp = {rec_cp(r): i for i, r in enumerate(recs)}
+    need: list[tuple[int, tuple[int, int, int, int, int, int, int]]] = []
     missing_src: list[str] = []
     for cyr, lat in CYR_TO_LATIN.items():
         cp = ord(cyr)
-        if cp in existing:
+        if cp in by_cp:
             continue
-        src = by_cp.get(ord(lat))
-        if src is None:
+        if ord(lat) not in by_cp:
             missing_src.append(f"{cyr}->{lat}")
             continue
-        recs.append((2, cp & 0xFF, cp >> 8, src[3], src[4], src[5], src[6]))
-        existing.add(cp)
-        added += 1
+        need.append((cp, recs[by_cp[ord(lat)]]))
+    steal_order = [c for c in STEAL_CPS if c in by_cp]
+    steal_order += sorted(
+        cp for cp in by_cp if 0x3040 <= cp <= 0x30FF and cp not in set(STEAL_CPS)
+    )
+    if len(steal_order) < len(need):
+        raise SystemExit(
+            f"slot00: need {len(need)} steal slots, only {len(steal_order)} kana"
+        )
+    new_recs = list(recs)
+    for steal_cp, (new_cp, src) in zip(steal_order, need):
+        idx = by_cp[steal_cp]
+        new_recs[idx] = (2, new_cp & 0xFF, new_cp >> 8, src[3], src[4], src[5], src[6])
+    out = build_slot00(new_recs)
+    if len(out) != len(slot00):
+        raise SystemExit(f"slot00 size changed {len(slot00)} -> {len(out)}")
     if missing_src:
         print("  missing latin sources:", ", ".join(missing_src))
-    print(f"  slot00 +{added} cyrillic aliases (latin UVs), total {len(recs)}")
-    return build_slot00(recs)
+    print(
+        f"  slot00 reused {len(need)} kana rows as cyrillic aliases "
+        f"(latin UVs), total {len(new_recs)}"
+    )
+    return out
 
 
 def patch_cmap_lookalikes(cmap: bytes) -> bytes:
@@ -395,22 +413,48 @@ def patch_fpack(fpack: bytes) -> bytes:
     Rewriting slot 01 pixels + method 5 (even with a frozen 129-word dict)
     black-screens on boot. Unique UVs without pixels vanish the menu.
     Lookalike Latin cells at least boot and show text.
+
+    Patches slot00 in-place inside the retail FBE so the file size stays
+    exactly retail (required for real-PSP ISO in-place injection). Cmap slot
+    03 lookalikes are skipped when recompression would grow the pack.
     """
     entries = parse_fbe(fpack)
-    blobs = [blob for _off, _size, blob in entries]
-    if len(blobs) != 9:
-        raise SystemExit(f"fpack expected 9 slots, got {len(blobs)}")
+    if len(entries) != 9:
+        raise SystemExit(f"fpack expected 9 slots, got {len(entries)}")
 
-    info0 = parse_dppk(blobs[0])
-    slot00 = decompress_dppk(blobs[0])
-    slot00 = add_cyrillic_aliases(slot00)
-    blobs[0] = wrap_dppk(slot00, method=0, type_ch=info0["type"].encode("ascii"), unk=info0["unk"])
+    off0, size0, blob0 = entries[0]
+    info0 = parse_dppk(blob0)
+    slot00 = add_cyrillic_aliases(decompress_dppk(blob0))
+    new0 = wrap_dppk(
+        slot00, method=0, type_ch=info0["type"].encode("ascii"), unk=info0["unk"]
+    )
+    if len(new0) != size0:
+        raise SystemExit(f"fpack slot0 size {size0} -> {len(new0)}")
 
-    info3 = parse_dppk(blobs[3])
-    cmap3 = decompress_dppk(blobs[3])
-    cmap3 = patch_cmap_lookalikes(cmap3)
-    blobs[3] = wrap_dppk(cmap3, method=2, type_ch=info3["type"].encode("ascii"), unk=info3["unk"])
-    return build_fbe(blobs, unk=4)
+    out = bytearray(fpack)
+    out[off0 : off0 + size0] = new0
+
+    # Optional cmap lookalikes — only if they fit the retail slot.
+    off3, size3, blob3 = entries[3]
+    info3 = parse_dppk(blob3)
+    cmap3 = patch_cmap_lookalikes(decompress_dppk(blob3))
+    new3 = wrap_dppk(
+        cmap3, method=2, type_ch=info3["type"].encode("ascii"), unk=info3["unk"]
+    )
+    if len(new3) <= size3:
+        out[off3 : off3 + len(new3)] = new3
+        if len(new3) < size3:
+            out[off3 + len(new3) : off3 + size3] = b"\x00" * (size3 - len(new3))
+        print(f"  cmap lookalikes fitted in slot3 ({len(new3)}/{size3})")
+    else:
+        print(
+            f"  cmap lookalikes skipped (would be {len(new3)} > slot3 {size3}); "
+            "title uses slot00 aliases"
+        )
+
+    if len(out) != len(fpack):
+        raise SystemExit(f"fpack size changed {len(fpack)} -> {len(out)}")
+    return bytes(out)
 
 
 def main() -> None:

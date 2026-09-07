@@ -31,9 +31,11 @@
 python tools/build_stage1.py
 ```
 
-Пишет `NHA_USA_RUS.iso`. Если файл открыт в PPSSPP — будет `NHA_USA_RUS_new.iso`.
+Пишет `NHA_USA_RUS.iso` **тем же размером**, что retail (in-place патч содержимого файлов, каталог ISO не трогается) — так надёжнее для реальной PSP. Если файл открыт в PPSSPP — будет `NHA_USA_RUS_new.iso`.
 
-Запуск: Reset / Boot, не savestate.
+На Memory Stick клади именно этот ISO (старые пересобранные/с другим размером лучше убрать). Запуск: Reset / Boot, не savestate.
+
+Проверка образа: `python tools/verify_psp_iso.py`
 
 ```
 B:\psp games\tools\PPSSPP\PPSSPPWindows64.exe "B:\psp games\No Heroes Allowed RUS\NHA_USA_RUS.iso"
